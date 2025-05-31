@@ -3,12 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Designer clothing for men, womena and childrens</title>
+    <title>Designer Clothing for men, womena and childrens</title>
 
+    <!-- tab image linked -->
+    <link rel="icon" href="assets/tab-logo.png">
     <!-- Css file linked -->
     <link rel="stylesheet" href="style.css">
     <!-- Tailwind-css cdn linked -->
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <!-- remix cdn linked -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.5.0/remixicon.css" integrity="sha512-6p+GTq7fjTHD/sdFPWHaFoALKeWOU9f9MPBoPnvJEWBkGS4PKVVbCpMps6IXnTiXghFbxlgDE8QRHc3MU91lJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 </head>
 <body>
@@ -16,12 +20,36 @@
 
     <div class="w-full h-fit bg-gray-300">
         <header class="w-full h-fit bg-blue-400">
-            <div class="w-full h-fit">
-                <video class="w-full"  src="assets/header-vedio.webm" autoplay loop muted playsinline></video>
+            <div class="fixed flex justify-between items-center w-full h-[50px] bg-gray-50 px-5">
+                <div class="w-[7%]">
+                    <img class="w-[100%] h-[25px]" src="assets/logo.png" alt="logo">
+                </div>
+                <ul class="group w-[25%] h-fit flex justify-between items-center">
+                    <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">New in</a></li>
+                    <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">men</a></li>
+                    <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">women</a></li>
+                    <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">junior</a></li>
+                    <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">gifts</a></li>
+                    <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">home</a></li>
+                    <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">discover</a></li>
+                </ul>
+                <div class="bg-gray-200 rounded-xl">
+                    <input class="w-[150px] text-sm uppercase border-none focus:outline-sky-300 rounded-xl px-2 py-1" type="search" placeholder="search">
+                    <i class="ri-search-line p-1"></i>
+                </div>
+                <ul class="group w-[15%] flex justify-between items-center">
+                    <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">Help <i class="ri-message-3-line text-sm"></i></a></li>
+                    <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">Login</a></li>
+                    <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">Usd <i class="ri-money-dollar-circle-line text-sm"></i></a></li>
+                    <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">Bag <i class="bg-orange-300 text-sm p-1">O</i></a></li>
+                </ul>
             </div>
+            <video class="w-full" src="assets/header-vedio.webm" autoplay loop muted playsinline></video>
         </header>
         <main class="w-full h-fit">
-            <div class="w-full h-[200px] bg-red-500"></div>
+            <div class="w-full h-[200px] bg-red-500">
+                
+            </div>
         </main>
     </div>
 
