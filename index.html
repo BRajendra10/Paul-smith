@@ -19,12 +19,12 @@
     
 
     <div class="w-full h-fit bg-gray-300">
-        <header class="w-full h-fit bg-blue-400">
-            <div class="fixed flex justify-between items-center w-full h-[50px] bg-gray-50 px-5">
-                <div class="w-[7%]">
+        <header class="w-full">
+            <div class="fixed flex justify-between items-center w-full h-[50px] bg-gray-50 px-4">
+                <div class="w-[100px] lg:w-[120px]">
                     <img class="w-[100%] h-[25px]" src="assets/logo.png" alt="logo">
                 </div>
-                <ul class="group w-[25%] h-fit flex justify-between items-center">
+                <ul class="group  hidden lg:flex lg:w-[35%] h-fit flex justify-between items-center">
                     <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">New in</a></li>
                     <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">men</a></li>
                     <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">women</a></li>
@@ -33,18 +33,54 @@
                     <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">home</a></li>
                     <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">discover</a></li>
                 </ul>
-                <div class="bg-gray-200 rounded-xl">
-                    <input class="w-[150px] text-sm uppercase border-none focus:outline-sky-300 rounded-xl px-2 py-1" type="search" placeholder="search">
-                    <i class="ri-search-line p-1"></i>
+                <div class="w-[50%] sm:w-[40%] xl:w-[35%] flex justify-end lg:justify-between items-center">
+                    <div class="hidden lg:block bg-gray-200 rounded-xl">
+                        <input class="w-[130px] text-sm uppercase border-none focus:outline-sky-300 rounded-xl px-2 py-1" type="search" placeholder="search">
+                        <i class="ri-search-line p-1"></i>
+                    </div>
+                    <ul class="group w-full lg:w-[50%] flex justify-between items-center">
+                        <li class="hidden xl:block">
+                            <a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">Help 
+                                <i class="ri-message-3-line font-normal text-sm"></i>
+                            </a>
+                        </li>
+                        <li class="hidden xl:block">
+                            <a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">Login 
+                                <i class="ri-emotion-happy-line font-normal text-sm"></i>
+                            </a>
+                        </li>
+                        <li class="hidden xl:block">
+                            <a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">Usd 
+                                <i class="ri-money-dollar-circle-line font-normal text-sm"></i>
+                            </a>
+                        </li>
+                        <li class="hidden xl:block">
+                            <a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">Bag 
+                                <i class="bg-orange-300 text-sm p-1">O</i>
+                            </a>
+                        </li>
+                        <li class="block lg:hidden">
+                            <a href="#"><i class="ri-search-line font-normal text-2xl"></i></a>
+                        </li>
+                        <li class="block xl:hidden">
+                            <a href="#"><i class="ri-message-3-line font-normal text-2xl"></i></a>
+                        </li>
+                        <li class="block xl:hidden">
+                            <a href="#"><i class="ri-emotion-happy-line font-normal text-2xl"></i></a>
+                        </li>
+                        <li class="block xl:hidden">
+                            <a href="#"><i class="ri-money-dollar-circle-line font-normal text-2xl"></i></a>
+                        </li>
+                        <li class="block xl:hidden">
+                            <a href="#"><i class="ri-shopping-bag-2-line font-normal text-2xl"></i></a>
+                        </li>
+                        <li class="block lg:hidden">
+                            <a href="#"><i class="ri-menu-line font-normal text-2xl"></i></a>
+                        </li>
+                    </ul>
                 </div>
-                <ul class="group w-[15%] flex justify-between items-center">
-                    <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">Help <i class="ri-message-3-line text-sm"></i></a></li>
-                    <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">Login</a></li>
-                    <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">Usd <i class="ri-money-dollar-circle-line text-sm"></i></a></li>
-                    <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">Bag <i class="bg-orange-300 text-sm p-1">O</i></a></li>
-                </ul>
             </div>
-            <video class="w-full" src="assets/header-vedio.webm" autoplay loop muted playsinline></video>
+            <video class="w-full h-[600px] md:h-[800px] xl:h-[1000px] object-cover" src="assets/header-vedio.webm" autoplay loop muted playsinline></video>
         </header>
         <main class="w-full h-fit">
             <div class="w-full h-[200px] bg-red-500">

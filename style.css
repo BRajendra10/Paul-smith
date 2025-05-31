@@ -3,10 +3,6 @@
 }
 
 /* header-vedio styles*/
-.header-vedio{
-    width: 100%;
-    height: 1071px;
-}
 
 /* removes vedio controls */
 video::-webkit-media-controls {
