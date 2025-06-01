@@ -6,3 +6,7 @@
 video::-webkit-media-controls {
   display: none !important;
 }
+
+::-webkit-scrollbar {
+  display: none;
+}
