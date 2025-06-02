@@ -9,13 +9,28 @@ const cardWidth = card.offsetWidth + 16; // 16px = gap-4
 next.addEventListener("click", () => {
   carousel.scrollBy({
     left: cardWidth,
-    behavior: "smooth"
+    behavior: "smooth",
   });
 });
 
 prev.addEventListener("click", () => {
   carousel.scrollBy({
     left: -cardWidth,
-    behavior: "smooth"
+    behavior: "smooth",
   });
 });
+
+// accordion
+ document.querySelectorAll('.accordion-toggle').forEach(button => {
+    button.addEventListener('click', () => {
+      const content = button.nextElementSibling;
+      const icon = button.querySelector('.arrow-icon');
+
+      const isOpen = !content.classList.contains('hidden');
+      content.classList.toggle('hidden');
+
+      // Swap icon class
+      icon.classList.toggle('ri-arrow-down-s-line', isOpen);
+      icon.classList.toggle('ri-arrow-up-s-line', !isOpen);
+    });
+  });

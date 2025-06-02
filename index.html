@@ -24,7 +24,7 @@
                 <div class="w-[100px] lg:w-[120px]">
                     <img class="w-[100%] h-[25px]" src="assets/logo.png" alt="logo">
                 </div>
-                <ul class="group  hidden lg:flex lg:w-[35%] h-fit flex justify-between items-center">
+                <ul class="group hidden lg:flex lg:w-[35%] h-fit flex justify-between items-center">
                     <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">New in</a></li>
                     <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">men</a></li>
                     <li><a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">women</a></li>
@@ -463,9 +463,9 @@
                 <img class="block lg:hidden fixed bottom-0 left-0 w-full h-[1000px] z-0" src="assets/Paul-smith-footer-img-2.jpg" alt="paul-smith-image">
             </div>
 
-            <div class="absolute top-2/4 lg:top-3/4 left-2/4 -translate-x-1/2 -translate-y-1/2 flex flex-col lg:flex-row justify-between items-center w-[95%] h-[800px] lg:h-[400px] bg-blue-500">
-                <div class="flex flex-col justify-between w-full lg:w-[40%] h-[250px] lg:h-[400px] bg-blue-200 p-6">
-                    <div class="w-[60%] bg-blue-100">
+            <div class="absolute top-2/4 lg:top-3/4 left-2/4 -translate-x-1/2 -translate-y-1/2 flex flex-col lg:flex-row justify-between items-center w-[95%] h-[800px] lg:h-[400px] bg-gray-50">
+                <div class="flex flex-col justify-between w-full lg:w-[40%] h-[250px] lg:h-[400px] p-6">
+                    <div class="w-[60%]">
                         <h1 class="font-medium text-2xl mb-5">You can find inspiration in everything (and if you can't, look again).</h1>
 
                         <img class="w-[110px]" src="assets/logo.png" alt="">
@@ -477,8 +477,106 @@
                         </label>
                     </div>
                 </div>
-                <div class="w-full lg:w-[55%] h-[500px] lg:h-[400px] bg-blue-600">
-                    
+                <div class="w-full lg:w-[55%] flex flex-col justify-around h-[500px] lg:h-[400px] p-5">
+                    <div class="w-full h-fit flex justify-around">
+                        <ul class="hidden lg:block group w-[30%] h-fit">
+                            <li class="text-xs font-semibold uppercase leading-5 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">Our stories</li>
+                            <li class="text-xs font-semibold uppercase leading-5 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">Our history</li>
+                            <li class="text-xs font-semibold uppercase leading-5 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">carrers</li>
+                            <li class="text-xs font-semibold uppercase leading-5 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">sustanbilty</li>
+                            <li class="text-xs font-semibold uppercase leading-5 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">accesbility</li>
+                            <li class="text-xs font-semibold uppercase leading-5 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">price match</li>
+                            <li class="text-xs font-semibold uppercase leading-5 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">shop services</li>
+                        </ul>
+                        <ul class="hidden lg:block group w-[30%] h-fit">
+                            <li class="text-xs font-semibold uppercase leading-5 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">faq's</li>
+                            <li class="text-xs font-semibold uppercase leading-5 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">track order</li>
+                            <li class="text-xs font-semibold uppercase leading-5 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">shipping</li>
+                            <li class="text-xs font-semibold uppercase leading-5 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">return</li>
+                            <li class="text-xs font-semibold uppercase leading-5 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">payment methods</li>
+                            <li class="text-xs font-semibold uppercase leading-5 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">klarna</li>
+                        </ul>
+                        <ul class="hidden lg:block group w-[30%] h-fit">
+                            <li class="text-xs font-semibold uppercase leading-5 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">Contact form</li>
+                            <li class="text-sm font-semibold uppercase leading-7 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">+44 (0)115 968 5821</li>
+                            <li class="text-sm font-semibold uppercase leading-4 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">09:00-17:00 GMT, MONDAY TO FRIDAY WITH THE EXCEPTION OF UK BANK HOLIDAYS.</li>
+                        </ul>
+                        <!-- Accordion for screens < 1024px -->
+                        <div class="block lg:hidden w-full space-y-4 p-4">
+
+                        <!-- About Section -->
+                        <div>
+                            <button class="accordion-toggle flex justify-between items-center w-full text-left font-bold uppercase text-sm py-2 border-b">
+                            About
+                            <i class="arrow-icon ri-arrow-down-s-line transition-transform duration-300 text-base"></i>
+                            </button>
+                            <ul class="accordion-content hidden mt-2 space-y-1 text-xs text-stone-900">
+                            <li>Our stories</li>
+                            <li>Our history</li>
+                            <li>Careers</li>
+                            <li>Sustainability</li>
+                            <li>Accessibility</li>
+                            <li>Price match</li>
+                            <li>Shop services</li>
+                            </ul>
+                        </div>
+
+                        <!-- Help Section -->
+                        <div>
+                            <button class="accordion-toggle flex justify-between items-center w-full text-left font-bold uppercase text-sm py-2 border-b">
+                            Help
+                            <i class="arrow-icon ri-arrow-down-s-line transition-transform duration-300 text-base"></i>
+                            </button>
+                            <ul class="accordion-content hidden mt-2 space-y-1 text-xs text-stone-900">
+                            <li>FAQs</li>
+                            <li>Track order</li>
+                            <li>Shipping</li>
+                            <li>Return</li>
+                            <li>Payment methods</li>
+                            <li>Klarna</li>
+                            </ul>
+                        </div>
+
+                        <!-- Contact Section -->
+                        <div>
+                            <button class="accordion-toggle flex justify-between items-center w-full text-left font-bold uppercase text-sm py-2 border-b">
+                            Contact
+                            <i class="arrow-icon ri-arrow-down-s-line transition-transform duration-300 text-base"></i>
+                            </button>
+                            <ul class="accordion-content hidden mt-2 space-y-1 text-xs text-stone-900">
+                            <li>Contact form</li>
+                            <li>+44 (0)115 968 5821</li>
+                            <li>09:00–17:00 GMT, Monday to Friday (UK holidays excluded)</li>
+                            </ul>
+                        </div>
+                        </div>
+
+                    </div>
+                    <div class="w-full h-fit flex justify-start lg:justify-center items-center">
+                        <ul class="group w-[30%] h-fit">
+                            <li class="flex text-xs font-semibold uppercase leading-6 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">
+                                <div class="w-[15px] h-[15px] rounded-full inline me-4"><img width="15px" height="15px" src="assets/india-flag.svg" alt=""></div>
+                                <span>India ($usd)</span>
+                            </li>
+                            <li class="flex items-center text-xs font-semibold uppercase leading-6 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">
+                                <div class="rounded-full inline me-3"><i class="ri-emotion-happy-line text-lg font-normal"></i></div>
+                                <span>Login</span>
+                            </li>
+                            <li class="flex text-xs font-semibold uppercase leading-6 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">
+                                <div class="w-[15px] h-[15px] rounded-full inline me-4"><i class="ri-message-3-line text-lg font-normal"></i></div>
+                                <span>Help</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <ul class="group w-full h-fit">
+                        <li class="inline text-sm pe-3 text-stone-900">Paul smith's, all rights reserved</li>
+                        <li class="inline text-sm pe-3 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">Terms and Conditions</li>
+                        <li class="inline text-sm pe-3 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">Data & Privacy Policy</li>
+                        <li class="inline text-sm pe-3 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">Gift Card Terms & Conditions</li>
+                        <li class="inline text-sm pe-3 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">Cookie Policy</li>
+                        <li class="inline text-sm pe-3 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">Modern Slavery Statement</li>
+                        <li class="inline text-sm pe-3 group-hover:text-stone-500 hover:text-stone-900 text-stone-900">Cookie Preferences</li>
+                    </ul>
                 </div>
             </div>
         </footer>
