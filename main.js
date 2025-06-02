@@ -1,10 +1,14 @@
 const carousel = document.getElementById("carousel");
 const next = document.getElementById("next");
 const prev = document.getElementById("prev");
+let card = null;
+let cardWidth = null;
 
 // Dynamically calculate the width of one product card (including gap)
-const card = carousel.querySelector(".group");
-const cardWidth = card.offsetWidth + 16; // 16px = gap-4
+setTimeout(() => {
+  card = carousel.querySelector(".group");
+  cardWidth = card.offsetWidth + 16; // 16px = gap-4
+}, 1000);
 
 next.addEventListener("click", () => {
   carousel.scrollBy({
@@ -35,9 +39,47 @@ document.querySelectorAll(".accordion-toggle").forEach((button) => {
   });
 });
 
+let json_data = [];
+
 (function () {
-  fetch("http://localhost:3000/info")
+  fetch("http://localhost:3000/products")
     .then((res) => res.json())
-    .then((data) => console.log(data))
+    .then((data) => {
+      json_data = data;
+      get_data_list(data);
+    })
     .catch((err) => console.log(err));
 })();
+
+function get_data_list(data) {
+  const data_list = data.map((el, i) => product(el));
+
+  carousel.innerHTML = data_list.join("");
+}
+
+function product(product_data) {
+  const product = `
+    <div class="group w-[480px] h-[800px] shrink-0">
+      <div class="group w-full h-[740px]">
+        <img class="group-hover:hidden w-[100%] h-[100%] duration-700 ease-in-out" src=${product_data.images[0]} alt="img-1" data-id=${product_data.id}>
+        <img class="hidden group-hover:block w-[100%] h-[100%] duration-700 ease-in-out" src=${product_data.images[1]} alt="img-1" data-id=data-id=${product_data.id}>
+      </div>
+      <div class="w-full h-[60px]">
+        <span class="h-[30px] flex justify-between items-center">
+        <h4 class="uppercase text-xs font-semibold cursor-pointer" data-id="1">${product_data.title}</h4>
+        <p class="text-xs font-semibold">${product_data.price}</p>
+        </span>
+        <span class="h-[30px] flex justify-between items-center hidden group-hover:flex">
+          <button class="text-xs uppercase font-semibold">Add <i class="ri-add-line"></i></button>
+          <button class="text-xs uppercase font-semibold"><i class="ri-bookmark-line"></i></button>
+          </span>
+      </div>
+    </div>
+  `;
+
+  return product;
+}
+
+// document.addEventListener("click", (el) =>{
+//   console.log(el.target.getAttribute("data-id"));
+// })
