@@ -39,6 +39,51 @@ document.querySelectorAll(".accordion-toggle").forEach((button) => {
   });
 });
 
+  const tabs = document.querySelectorAll('.tab-link');
+  const contents = document.querySelectorAll('.tab-content');
+
+  tabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      // Remove active styles from all tabs
+      tabs.forEach(t => t.classList.remove('text-blue-600', 'border-blue-600'));
+      // Hide all content
+      contents.forEach(c => c.classList.add('hidden'));
+
+      // Add active style to current tab
+      tab.classList.add('text-blue-600', 'border-blue-600');
+
+      // Show related content
+      const target = tab.getAttribute('data-tab');
+      document.getElementById(`tab-${target}`).classList.remove('hidden');
+    });
+  });
+
+
+// modals
+const help_modal = document.getElementById("help-modal");
+const login_modal = document.getElementById("login-modal");
+const bag_modal = document.getElementById("bag-modal");
+
+document.getElementById("help-btn").addEventListener("click",()=>{
+  help_modal.classList.remove("hidden");
+})
+document.getElementById("help-modal-close").addEventListener("click",()=>{
+  help_modal.classList.add("hidden");
+})
+document.getElementById("login-btn").addEventListener("click",()=>{
+  login_modal.classList.remove("hidden");
+})
+document.getElementById("login-modal-close").addEventListener("click",()=>{
+  login_modal.classList.add("hidden");
+})
+document.getElementById("bag-wishlist-btn").addEventListener("click",()=>{
+  bag_modal.classList.remove("hidden");
+})
+document.getElementById("bag-modal-close").addEventListener("click",()=>{
+  bag_modal.classList.add("hidden");
+})
+
+// data handling
 let json_data = [];
 
 (function () {
