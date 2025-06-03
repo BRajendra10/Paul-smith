@@ -39,49 +39,83 @@ document.querySelectorAll(".accordion-toggle").forEach((button) => {
   });
 });
 
-  const tabs = document.querySelectorAll('.tab-link');
-  const contents = document.querySelectorAll('.tab-content');
+const tabs = document.querySelectorAll(".tab-link");
+const contents = document.querySelectorAll(".tab-content");
 
-  tabs.forEach(tab => {
-    tab.addEventListener('click', () => {
-      // Remove active styles from all tabs
-      tabs.forEach(t => t.classList.remove('text-blue-600', 'border-blue-600'));
-      // Hide all content
-      contents.forEach(c => c.classList.add('hidden'));
+tabs.forEach((tab) => {
+  tab.addEventListener("click", () => {
+    // Remove active styles from all tabs
+    tabs.forEach((t) => t.classList.remove("text-blue-600", "border-blue-600"));
+    // Hide all content
+    contents.forEach((c) => c.classList.add("hidden"));
 
-      // Add active style to current tab
-      tab.classList.add('text-blue-600', 'border-blue-600');
+    // Add active style to current tab
+    tab.classList.add("text-blue-600", "border-blue-600");
 
-      // Show related content
-      const target = tab.getAttribute('data-tab');
-      document.getElementById(`tab-${target}`).classList.remove('hidden');
-    });
+    // Show related content
+    const target = tab.getAttribute("data-tab");
+    document.getElementById(`tab-${target}`).classList.remove("hidden");
   });
-
+});
 
 // modals
 const help_modal = document.getElementById("help-modal");
 const login_modal = document.getElementById("login-modal");
 const bag_modal = document.getElementById("bag-modal");
+const usd_modal = document.getElementById("usd-modal");
 
-document.getElementById("help-btn").addEventListener("click",()=>{
-  help_modal.classList.remove("hidden");
-})
-document.getElementById("help-modal-close").addEventListener("click",()=>{
-  help_modal.classList.add("hidden");
-})
-document.getElementById("login-btn").addEventListener("click",()=>{
-  login_modal.classList.remove("hidden");
-})
-document.getElementById("login-modal-close").addEventListener("click",()=>{
-  login_modal.classList.add("hidden");
-})
-document.getElementById("bag-wishlist-btn").addEventListener("click",()=>{
-  bag_modal.classList.remove("hidden");
-})
-document.getElementById("bag-modal-close").addEventListener("click",()=>{
-  bag_modal.classList.add("hidden");
-})
+const btns = document.querySelectorAll(".btn");
+
+btns.forEach((btn, i) => {
+  btn.addEventListener("click", () => {
+    let target = btn.classList;
+    if (target.contains("help-btn")) {
+      help_modal.classList.remove("hidden");
+    } else if (target.contains("help-modal-close")) {
+      help_modal.classList.add("hidden");
+    } else if (target.contains("login-btn")) {
+      login_modal.classList.remove("hidden");
+    } else if (target.contains("login-modal-close")) {
+      login_modal.classList.add("hidden");
+    } else if (target.contains("bag-wishlist-btn")) {
+      bag_modal.classList.remove("hidden");
+    } else if (target.contains("bag-modal-close")) {
+      bag_modal.classList.add("hidden");
+    } else if (target.contains("usd-btn")) {//
+      usd_modal.classList.remove("hidden");
+    } else if (target.contains("usd-modal-close")) {
+      usd_modal.classList.add("hidden");
+    } else {
+      console.log(target);
+    }
+    // console.log(btn.classList);
+  });
+});
+
+// document.getElementById("help-btn").addEventListener("click",()=>{
+//   help_modal.classList.remove("hidden");
+// })
+// document.getElementById("help-modal-close").addEventListener("click",()=>{
+//   help_modal.classList.add("hidden");
+// })
+// document.getElementById("login-btn").addEventListener("click",()=>{
+//   login_modal.classList.remove("hidden");
+// })
+// document.getElementById("login-modal-close").addEventListener("click",()=>{
+//   login_modal.classList.add("hidden");
+// })
+// document.getElementById("bag-wishlist-btn").addEventListener("click", () => {
+//   bag_modal.classList.remove("hidden");
+// });
+// document.getElementById("bag-modal-close").addEventListener("click", () => {
+//   bag_modal.classList.add("hidden");
+// });
+// document.getElementById("usd-btn").addEventListener("click", () => {
+//   usd_modal.classList.remove("hidden");
+// });
+// document.getElementById("usd-modal-close").addEventListener("click", () => {
+//   usd_modal.classList.add("hidden");
+// });
 
 // data handling
 let json_data = [];

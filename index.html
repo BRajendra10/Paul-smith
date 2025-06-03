@@ -18,6 +18,7 @@
 <body>
     
 
+    <!-- full web page -->
     <div class="w-full h-fit">
         <header class="relative w-full z-10">
             <nav class="fixed flex justify-between items-center w-full h-[50px] bg-gray-50 px-4 z-10">
@@ -40,42 +41,42 @@
                     </div>
                     <ul class="group w-full lg:w-[50%] flex justify-between items-center">
                         <li class="hidden xl:block">
-                            <a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" id="help-btn" href="#">Help 
+                            <a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900 btn help-btn" id="help-btn" href="#">Help 
                                 <i class="ri-message-3-line font-normal text-lg"></i>
                             </a>
                         </li>
                         <li class="hidden xl:block">
-                            <a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" id="login-btn" href="#">Login 
+                            <a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900 btn login-btn" id="login-btn" href="#">Login 
                                 <i class="ri-emotion-happy-line font-normal text-lg"></i>
                             </a>
                         </li>
                         <li class="hidden xl:block">
-                            <a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" href="#">Usd 
+                            <a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900 btn usd-btn" id="usd-btn" href="#">Usd 
                                 <i class="ri-money-dollar-circle-line font-normal text-lg"></i>
                             </a>
                         </li>
                         <li class="hidden xl:block">
-                            <a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900" id="bag-wishlist-btn" href="#">Bag 
+                            <a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900 btn bag-wishlist-btn" id="bag-wishlist-btn" href="#">Bag 
                                 <i class="bg-orange-300 text-lg p-1">O</i>
                             </a>
                         </li>
                         <li class="block lg:hidden">
-                            <a href="#"><i class="ri-search-line font-normal text-2xl"></i></a>
+                            <a class="btn btn-search" href="#"><i class="ri-search-line font-normal text-2xl"></i></a>
                         </li>
                         <li class="block xl:hidden">
-                            <a href="#"><i class="ri-message-3-line font-normal text-2xl"></i></a>
+                            <a class="btn help-btn" href="#"><i class="ri-message-3-line font-normal text-2xl"></i></a>
                         </li>
                         <li class="block xl:hidden">
-                            <a href="#"><i class="ri-emotion-happy-line font-normal text-2xl"></i></a>
+                            <a class="btn login-btn" href="#"><i class="ri-emotion-happy-line font-normal text-2xl"></i></a>
                         </li>
                         <li class="block xl:hidden">
-                            <a href="#"><i class="ri-money-dollar-circle-line font-normal text-2xl"></i></a>
+                            <a class="btn usd-btn" href="#"><i class="ri-money-dollar-circle-line font-normal text-2xl"></i></a>
                         </li>
                         <li class="block xl:hidden">
-                            <a href="#"><i class="ri-shopping-bag-2-line font-normal text-2xl"></i></a>
+                            <a class="btn bag-wishlist-btn" href="#"><i class="ri-shopping-bag-2-line font-normal text-2xl"></i></a>
                         </li>
                         <li class="block lg:hidden">
-                            <a href="#"><i class="ri-menu-line font-normal text-2xl"></i></a>
+                            <a class="btn menu-btn" href="#"><i class="ri-menu-line font-normal text-2xl"></i></a>
                         </li>
                     </ul>
                 </div>
@@ -399,7 +400,7 @@
     <!--- HELP MODAL --->
     <div class="hidden absolute top-0 right-0 w-[500px] h-[100vh] bg-gray-200 z-30 p-5" id="help-modal">
         <div class="flex justify-end items-center mb-5">
-            <button class="text-2xl cursor-pointer" id="help-modal-close"><i class="ri-close-fill"></i></button>
+            <button class="text-2xl cursor-pointer btn help-modal-close" id="help-modal-close"><i class="ri-close-fill"></i></button>
         </div>
         <div class="w-full h-fit">
             <h1 class="text-xl">How can we assist you?</h1>
@@ -434,7 +435,7 @@
     <!--- LOGIN MODAL    --->
     <div class="hidden absolute top-0 right-0 w-[700px] h-fit bg-gray-50 z-30 p-5" id="login-modal">
         <div class="flex justify-end items-center mb-5">
-            <button class="text-2xl cursor-pointer" id="login-modal-close"><i class="ri-close-fill"></i></button>
+            <button class="text-2xl cursor-pointer btn login-modal-close" id="login-modal-close"><i class="ri-close-fill"></i></button>
         </div>
         <div class="flex flex-col justify-between items-center w-full h-[350px]">
             <h1 class="text-2xl font-semibold">Log in</h1>
@@ -462,12 +463,79 @@
         </div>
     </div>
 
+    <!--- USD MODAL  --->
+    <div class="hidden absolute top-0 right-0 w-[750px] h-fit bg-gray-50 z-30 p-5" id="usd-modal">
+        <div class="flex justify-end items-center mb-5">
+            <button class="text-2xl cursor-pointer btn usd-modal-close" id="usd-modal-close"><i class="ri-close-fill"></i></button>
+        </div>
+        <div class="flex flex-col justify-start items-center w-full h-[300px]">
+            <h3 class="px-2 text-xl">Shipping to a different country?</h3>
+
+            <div class="flex flex-col justify-between items-center w-full h-[250px] p-5">
+                <div class="w-full mx-auto mt-8">
+                    <label for="options" class="block mb-2 text-xs font-thin text-gray-600">Select your country?</label>
+                    <select id="options" class="block w-full p-2  border-b-1 text-sm bg-white focus:outline-none focus:ring-0 focus:border-black">
+                        <option value="Albania">Albania</option>
+                        <option value="Andorra">Andorra</option>
+                        <option value="Australia">Australia</option>
+                        <option value="Austria">Austria</option>
+                        <option value="Belgium">Belgium</option>
+                        <option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option>
+                        <option value="Brazil">Brazil</option>
+                        <option value="Bulgaria">Bulgaria</option>
+                        <option value="Canada">Canada</option>
+                        <option value="China">China</option>
+                        <option value="Croatia">Croatia</option>
+                        <option value="Cyprus">Cyprus</option>
+                        <option value="Denmark">Denmark</option>
+                        <option value="Estonia">Estonia</option>
+                        <option value="Faroe Islands">Faroe Islands</option>
+                        <option value="Finland">Finland</option>
+                        <option value="France">France</option>
+                        <option value="Germany">Germany</option>
+                        <option value="Gibraltar">Gibraltar</option>
+                        <option value="Hungary">Hungary</option>
+                        <option value="Iceland">Iceland</option>
+                        <option value="India" selected>India</option>
+                        <option value="Ireland">Ireland</option>
+                        <option value="Israel">Israel</option>
+                        <option value="Italy">Italy</option>
+                        <option value="Korea">Korea</option>
+                        <option value="New Zealand">New Zealand</option>
+                        <option value="Norway">Norway</option>
+                        <option value="Philippines">Philippines</option>
+                        <option value="Poland">Poland</option>
+                        <option value="Portugal">Portugal</option>
+                        <option value="Romania">Romania</option>
+                        <option value="San Marino">San Marino</option>
+                        <option value="Saudi Arabia">Saudi Arabia</option>
+                        <option value="Serbia">Serbia</option>
+                        <option value="Singapore">Singapore</option>
+                        <option value="Spain">Spain</option>
+                        <option value="Sweden">Sweden</option>
+                        <option value="Switzerland">Switzerland</option>
+                        <option value="Taiwan">Taiwan</option>
+                        <option value="Ukraine">Ukraine</option>
+                        <option value="United Kingdom">United Kingdom</option>
+                        <option value="United States">United States</option>
+                    </select>
+                </div>
+
+                <button class="px-13 py-2 bg-gray-900 hover:bg-gray-700">
+                    <a class="text-gray-50" href="#">Submit</a>
+                </button>
+
+                <p class="text-xs">Item availability, prices and delivery information will be updated in line with your new shipping destination.</p>
+            </div>
+        </div>
+    </div>
+
     <!--- BAG AND WISHLIST MODAL --->
     <div class="hidden absolute top-0 right-0 w-[900px] h-fit bg-gray-50 z-30 p-5" id="bag-modal">
         <div class="flex justify-end items-center mb-5">
-            <button class="text-2xl cursor-pointer" id="bag-modal-close"><i class="ri-close-fill"></i></button>
+            <button class="text-2xl cursor-pointer btn bag-modal-close" id="bag-modal-close"><i class="ri-close-fill"></i></button>
         </div>
-        <div class="flex flex-col justify-start items-center w-full h-[350px]">
+        <div class="flex flex-col justify-start items-center w-full h-[400px]">
             
             <nav class="flex space-x-4">
                 <button data-tab="bag" class="tab-link text-xl text-gray-400 py-2 px-4 hover:text-gray-900 transition-all duration-300">Bag</button>
@@ -487,7 +555,9 @@
                 </div>
             </div>
 
-
+            <button class="px-13 py-2 bg-gray-900 hover:bg-gray-700">
+                <a class="text-gray-50" href="#">Submit</a>
+            </button>
         </div>
     </div>
 
