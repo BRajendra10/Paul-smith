@@ -79,56 +79,98 @@
                 </div>
             </nav>
         </header>
-        <main class="relative top-8 w-full h-fit bg-gray-50 py-5 z-5">
-            <!-- INFO SECTION -->
-            <section class="flex flex-col justify-between w-full p-5 h-[300px]">
-                <div class="flex">
-                    <a class="font-medium text-sm px-1" href="index.html">Home</a>
-                    <span class="font-medium text-sm">/</span>
-                    <a class="font-medium text-sm px-1" href="#">Products</a>
-                </div>
-                <div class="flex flex-col 2xl:flex-row justify-start w-full h-fit">
-                    <div class="w-[300px]">
-                        <h1 class="text-xl font-bold mb-3">Products</h1>
+        <main class="relative top-8 w-full h-fit py-5 z-5 bg-gray-50">
+            <!-- CAROUSEL AND PRODUCT INFO -->
+            <section class="w-full h-fit">
+                <div id="carousel" class="flex gap-4 overflow-x-auto scroll-smooth scrollbar-hide px-8">
+                    <div class="flex-shrink-0 w-[500px] lg:w-[620px]">
+                    <img class="w-full h-auto rounded" src="https://assets.paulsmith.com/paul-smith-products/f_avif,q_auto,w_614/v1739977348/MODEL/ECOM/W1R/W1R-254JC-P01427-04/W1R-254JC-P01427-04_1" alt="img" />
                     </div>
-                    <div class="w-full lg:w-[60%] xl:w-[50%] h-[100px]">
-                        <p>Crafted from premium wool and mohair cloths and available in vibrant checks and plain styles, Paul Smith women's blazers and suit jackets are suitable for both casual and formal occasions.</p>
+                    <div class="flex-shrink-0 w-[500px] lg:w-[620px]">
+                    <img class="w-full h-auto rounded" src="https://assets.paulsmith.com/paul-smith-products/f_avif,q_auto,w_614/v1739977352/MODEL/ECOM/W1R/W1R-254JC-P01427-04/W1R-254JC-P01427-04_3" alt="img" />
+                    </div>
+                    <div class="flex-shrink-0 w-[500px] lg:w-[620px]">
+                    <img class="w-full h-auto rounded" src="https://assets.paulsmith.com/paul-smith-products/f_avif,q_auto,w_614/v1739977351/MODEL/ECOM/W1R/W1R-254JC-P01427-04/W1R-254JC-P01427-04_2" alt="img" />
+                    </div>
+                    <div class="flex-shrink-0 w-[500px] lg:w-[620px]">
+                    <img class="w-full h-auto rounded" src="https://assets.paulsmith.com/paul-smith-products/f_avif,q_auto,w_614/v1735560038/STILL/W1R/W1R-254JC-P01427-04/W1R-254JC-P01427-04_10" alt="img" />
+                    </div>
+                    <div class="flex-shrink-0 w-[500px] lg:w-[620px]">
+                    <img class="w-full h-auto rounded" src="https://assets.paulsmith.com/paul-smith-products/f_avif,q_auto,w_614/v1735560040/STILL/W1R/W1R-254JC-P01427-04/W1R-254JC-P01427-04_20" alt="img" />
+                    </div>
+
+                    <div class="absolute bottom-0 right-0 w-full lg:w-[840px] h-[350px] bg-gray-50 p-5">
+                        <div class="w-full h-[70px] flex flex-col justify-between bg-gray-100 mb-8">
+                            <div class="w-full flex justify-between">
+                                <h2 class="text-2xl font-normal">Women's Ivory Linen Blazer</h2>
+                                <button class="text-base uppercase font-semibold cursor-pointer"><i class="ri-bookmark-line"></i></button>
+                            </div>
+                            <div class="w-full flex justify-start">
+                                <span class="text-base pr-6">$1095.00</span>
+                                <span class="text-base pr-6">Ivory</span>
+                                <span class="text-base pr-6">1 more color</span>
+                            </div>
+                        </div>
+                        <div class="w-full h-[70px] flex flex-col justify-between mb-8">
+                            <div class="w-fit flex">
+                                <h5 class="uppercase text-sm pe-5">Width</h5>
+                                <a class="uppercase text-sm hover:underline" href="#">Size guide</a>
+                            </div>
+                            <div class="flex justify-between items-center">
+                                <div class="flex items-center w-[12%] h-[40px] p-2 bg-gray-100 hover:bg-gray-300">
+                                    <span>8</span>
+                                </div>
+                                <div class="flex items-center w-[12%] h-[40px] p-2 bg-gray-100 hover:bg-gray-300">
+                                    <span>8</span>
+                                </div>
+                                <div class="flex items-center w-[12%] h-[40px] p-2 bg-gray-100 hover:bg-gray-300">
+                                    <span>8</span>
+                                </div>
+                                <div class="flex items-center w-[12%] h-[40px] p-2 bg-gray-100 hover:bg-gray-300">
+                                    <span>8</span>
+                                </div>
+                                <div class="flex items-center w-[12%] h-[40px] p-2 bg-gray-100 hover:bg-gray-300">
+                                    <span>8</span>
+                                </div>
+                                <div class="flex items-center w-[12%] h-[40px] p-2 bg-gray-100 hover:bg-gray-300">
+                                    <span>8</span>
+                                </div>
+                                <div class="flex items-center w-[12%] h-[40px] p-2 bg-gray-100 hover:bg-gray-300">
+                                    <span>8</span>
+                                </div>
+                                <div class="flex items-center w-[12%] h-[40px] p-2 bg-gray-100 hover:bg-gray-300">
+                                    <span>8</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="flex justify-between items-center">
+                            <ul class="flex flex-col group">
+                                <li class="font-medium text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900 px-3 leading-6"><a href="#">Dilivery & return</a></li>
+                                <li class="font-medium text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900 px-3 leading-6"><a href="#">Gift wrapping</a></li>
+                                <li class="font-medium text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900 px-3 leading-6"><a href="#">find a store</a></li>
+                            </ul>
+
+                            <div class="w-[200px] h-[50px]">
+                                <button class="w-full h-full bg-yellow-400">
+                                <a href="#">add to bag</a>
+
+                                <i class="ri-add-fill"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="absolute bottom-8 left-8 hidden lg:block w-[200px] h-fit">
+                        <div class="w-full h-fit">
+                            <button class="p-2 bg-gray-50"><i class="ri-arrow-right-line"></i></button>
+                            <button class="p-2 bg-gray-50"><i class="ri-arrow-right-line"></i></button>
+                            <button class="p-2 bg-gray-50"><a href="#">shop the look</a></button>
+                        </div>
                     </div>
                 </div>
             </section>
 
-            <!-- PRODUCTS SECTION WITH FILTERATION -->
-            <section class="w-full h-fit p-5">
-                <div class="flex justify-between items-center w-full h-[60px]">
-                    <div class="w-fit">
-                        <button class="text-2xl"><i class="ri-grid-fill"></i></button>
-                    </div>
-                    <div class="w-fit">
-                        <h3 class="text-base font-normal uppercase">31 Items</h3>
-                    </div>
-                    <div class="w-fit">
-                        <ul class="w-fit lg:w-[300px] flex justify-between items-center">
-                            <li class="uppercase hidden lg:block"><a href="#">size <i class="ri-expand-horizontal-line"></i></a></li>
-                            <li class="uppercase hidden lg:block"><a href="#">Colour <i class="ri-color-filter-line"></i></a></li>
-                            <li class="uppercase text-base"><a href="#">Filter <i class="ri-add-fill"></i></a></li>
-                        </ul>
-                    </div>
-                    <div class="w-fit">
-                        <select id="filter" class="hidden lg:block w-[200px] hover:bg-gray-200 p-2">
-                            <option class="uppercase text-base p-2 hover:bg-gray-100" value="">Select by</option>
-                            <option class="uppercase text-base p-2 hover:bg-gray-100" value="Recomended">Recomended</option>
-                            <option class="uppercase text-base p-2 hover:bg-gray-100" value="Recomended">Latest items</option>
-                            <option class="uppercase text-base p-2 hover:bg-gray-100" value="Recomended">Price: low to high</option>
-                            <option class="uppercase text-base p-2 hover:bg-gray-100" value="Recomended">Price: high to low</option>
-                        </select>
-
-                        <button class="block lg:hidden p-1">Selcet By <i class="ri-arrow-down-s-line"></i></button>
-                    </div>
-                </div>
-                <div class="flex justify-between flex-wrap h-fit py-5" id="products-container">
-                    <!--- set products here --->
-                </div>
-            </section>
         </main>
         <footer class="relative w-full bg-blue-500 z-0">
             <div class="w-full h-[1000px] bg-red-300">
@@ -136,7 +178,7 @@
                 <img class="block lg:hidden fixed bottom-0 left-0 w-full h-[1000px] z-0" src="assets/Paul-smith-footer-img-2.jpg" alt="paul-smith-image">
             </div>
 
-            <div class="absolute top-2/4 lg:top-3/4 left-2/4 -translate-x-1/2 -translate-y-1/2 flex flex-col lg:flex-row justify-between items-center w-[95%] h-[800px] lg:h-[400px] bg-gray-50">
+            <div class="absolute top-2/4 lg:top-3/4 left-2/4 -translate-x-1/2 -translate-y-1/2 flex flex-col lg:flex-row justify-between items-center w-[95%] h-[800px] lg:h-[400px] p-2 bg-gray-50">
                 <div class="flex flex-col justify-between w-full lg:w-[40%] h-[250px] lg:h-[400px] p-6">
                     <div class="w-[60%]">
                         <h1 class="font-medium text-2xl mb-5">You can find inspiration in everything (and if you can't, look again).</h1>
@@ -145,7 +187,7 @@
                     </div>
                    <div class="relative w-full lg:w-[50%] h-fit">
                         <input id="email" type="text" placeholder="Enter your email" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent"/>
-                        <label for="email" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
+                        <label for="email" class="absolute left-0 top-2 text-sm t p-2ext-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:t p-2ext-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
                             Enter your email
                         </label>
                     </div>
@@ -422,7 +464,8 @@
     </div>
 
     <!-- js file linked -->
-    <script src="script/product.js"></script>
+    <script src="script/discription.js"></script>
     <script src="script/modal.js"></script>
+    <script src="script/main.js"></script>
 </body>
 </html>

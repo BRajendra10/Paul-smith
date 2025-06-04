@@ -18,19 +18,21 @@ function get_data_list(data) {
 function product(product_data) {
  const product = `
   <div class="group w-full sm:w-[49%] lg:w-[24%] mb-6">
-    <div class="w-full aspect-[3/4] relative overflow-hidden">
-      <img 
-        class="group-hover:hidden absolute top-0 left-0 w-full h-full object-cover duration-700 ease-in-out" 
-        src="${product_data.images[0]}" 
-        alt="img-1" 
-        data-id="${product_data.id}">
-        
-      <img 
-        class="hidden group-hover:block absolute top-0 left-0 w-full h-full object-cover duration-700 ease-in-out" 
-        src="${product_data.images[1]}" 
-        alt="img-2" 
-        data-id="${product_data.id}">
-    </div>
+    <a href="discription.html">
+      <div class="w-full aspect-[3/4] relative overflow-hidden">
+        <img 
+          class="group-hover:hidden absolute top-0 left-0 w-full h-full object-cover duration-700 ease-in-out" 
+          src="${product_data.images[0]}" 
+          alt="img-1" 
+          data-id="${product_data.id}">
+          
+        <img 
+          class="hidden group-hover:block absolute top-0 left-0 w-full h-full object-cover duration-700 ease-in-out" 
+          src="${product_data.images[1]}" 
+          alt="img-2" 
+          data-id="${product_data.id}">
+      </div>
+    </a>
 
     <div class="w-full mt-2 px-1">
       <div class="flex justify-between items-start flex-wrap gap-y-1">
@@ -38,7 +40,7 @@ function product(product_data) {
           ${product_data.name}
         </h4>
         <p class="text-sm sm:text-xs font-semibold">
-          ₹${product_data.new_price}
+          ₹${product_data.price}
         </p>
       </div>
 

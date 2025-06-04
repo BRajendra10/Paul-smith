@@ -271,7 +271,7 @@
       "product_url": "https://www.paulsmith.com/womens-painters-smock-fluted-sleeve-dress",
       "name": "Women's 'Painters' Smock Fluted Sleeve Dress",
       "old_price": null,
-      "new_price": "$995.00",
+      "price": "$995.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747929699/STILL/W1R/W1R-663D-T11133-92/W1R-663D-T11133-92_20",
@@ -283,7 +283,7 @@
       "product_url": "https://www.paulsmith.com/womens-navy-blue-seersucker-cut-out-dress",
       "name": "Women's Navy Blue Seersucker Cut Out Dress",
       "old_price": null,
-      "new_price": "$395.00",
+      "price": "$395.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739455320/MODEL/ECOM/W2R/W2R-648D-P31291-49/W2R-648D-P31291-49_1",
@@ -298,7 +298,7 @@
       "product_url": "https://www.paulsmith.com/womens-blue-cotton-poplin-shirt-dress",
       "name": "Women's Blue Cotton Poplin Shirt Dress",
       "old_price": null,
-      "new_price": "$895.00",
+      "price": "$895.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1730998965/STILL/W1R/W1R-632D-P10974-43/W1R-632D-P10974-43_10",
@@ -310,7 +310,7 @@
       "product_url": "https://www.paulsmith.com/womens-blue-pinstripe-seersucker-shirt-dress",
       "name": "Women's Blue Pinstripe Seersucker Shirt Dress",
       "old_price": null,
-      "new_price": "$350.00",
+      "price": "$350.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1731686486/STILL/W2R/W2R-650D-P31294-41/W2R-650D-P31294-41_10",
@@ -322,7 +322,7 @@
       "product_url": "https://www.paulsmith.com/womens-navy-shirt-midi-dress",
       "name": "Women's Navy Shirt Midi Dress",
       "old_price": null,
-      "new_price": "$525.00",
+      "price": "$525.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1730999007/STILL/W2R/W2R-606D-P31186-47/W2R-606D-P31186-47_10",
@@ -334,7 +334,7 @@
       "product_url": "https://www.paulsmith.com/womens-swirl-fluted-sleeve-dress",
       "name": "Women's 'Swirl' Fluted Sleeve Dress",
       "old_price": null,
-      "new_price": "$495.00",
+      "price": "$495.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747657835/STILL/W2R/W2R-607D-T31277-92/W2R-607D-T31277-92_30",
@@ -348,7 +348,7 @@
       "product_url": "https://www.paulsmith.com/womens-faded-swirl-shirt-dress",
       "name": "Women's 'Faded Swirl' Shirt Dress",
       "old_price": null,
-      "new_price": "$395.00",
+      "price": "$395.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1735567225/STILL/W2R/W2R-649D-P31281-92/W2R-649D-P31281-92_10",
@@ -360,7 +360,7 @@
       "product_url": "https://www.paulsmith.com/womens-orange-floral-paint-satin-bias-midi-dress",
       "name": "Women's Orange 'Floral Paint' Satin Bias Midi Dress",
       "old_price": null,
-      "new_price": "$995.00",
+      "price": "$995.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1735565424/STILL/W1R/W1R-662D-P11101-24/W1R-662D-P11101-24_10",
@@ -372,7 +372,7 @@
       "product_url": "https://www.paulsmith.com/womens-green-signature-stripe-pinstripe-shirt-dress",
       "name": "Women's Green 'Signature Stripe' Pinstripe Shirt Dress",
       "old_price": null,
-      "new_price": "$895.00",
+      "price": "$895.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744129970/STILL/W1R/W1R-665D-T11136-36/W1R-665D-T11136-36_20",
@@ -384,7 +384,7 @@
       "product_url": "https://www.paulsmith.com/womens-spearmint-silk-pintuck-dress",
       "name": "Women's Spearmint Silk Pin Tuck Dress",
       "old_price": null,
-      "new_price": "$1095.00",
+      "price": "$1095.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1735648224/STILL/W1R/W1R-656D-P11104-30/W1R-656D-P11104-30_10",
@@ -398,7 +398,7 @@
       "product_url": "https://www.paulsmith.com/womens-dusky-swirl-shirt-dress",
       "name": "Women's 'Dusky Swirl' Shirt Dress",
       "old_price": null,
-      "new_price": "$555.00",
+      "price": "$555.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1730999012/STILL/W2R/W2R-606D-P31277-92/W2R-606D-P31277-92_10",
@@ -410,7 +410,7 @@
       "product_url": "https://www.paulsmith.com/womens-navy-and-purple-stripe-pleated-rib-knit-dress",
       "name": "Women's Navy and Purple Stripe Pleated Rib Knit Dress",
       "old_price": null,
-      "new_price": "$455.00",
+      "price": "$455.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1729767712/STILL/W2R/W2R-547N-P31269-43/W2R-547N-P31269-43_10",
@@ -422,7 +422,7 @@
       "product_url": "https://www.paulsmith.com/womens-red-viscose-sea-floral-dress",
       "name": "Women's Red Viscose 'Sea Floral' Dress",
       "old_price": null,
-      "new_price": "$425.00",
+      "price": "$425.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1726848164/STILL/W2R/W2R-542D-K31021-25/W2R-542D-K31021-25_20",
@@ -434,7 +434,7 @@
       "product_url": "https://www.paulsmith.com/womens-gradient-wave-crinkle-georgette-sheer-sleeveless-dress",
       "name": "Women's 'Gradient Wave' Crinkle Georgette Sheer Sleeveless Dress",
       "old_price": null,
-      "new_price": "$425.00",
+      "price": "$425.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744027389/MODEL/ECOM/W2R/W2R-647D-P31285-92/W2R-647D-P31285-92_1",
@@ -448,7 +448,7 @@
       "product_url": "https://www.paulsmith.com/womens-ivory-tux-midi-dress",
       "name": "Women's Ivory Tux Midi-Dress",
       "old_price": null,
-      "new_price": "$1095.00",
+      "price": "$1095.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744025515/MODEL/ECOM/W1R/W1R-340DB-P10585-02/W1R-340DB-P10585-02_1",
@@ -460,7 +460,7 @@
       "product_url": "https://www.paulsmith.com/womens-white-infloressence-cotton-silk-midi-dress",
       "name": "Women's White 'Infloressence' Cotton-Silk Midi Dress",
       "old_price": null,
-      "new_price": "$995.00",
+      "price": "$995.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1735565420/STILL/W1R/W1R-659D-P11106-01/W1R-659D-P11106-01_10",
@@ -472,7 +472,7 @@
       "product_url": "https://www.paulsmith.com/womens-lemon-embroidered-cotton-silk-midi-dress",
       "name": "Women's Lemon Embroidered Cotton-Silk Midi Dress",
       "old_price": null,
-      "new_price": "$875.00",
+      "price": "$875.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1735650037/STILL/W1R/W1R-657D-P11109-11/W1R-657D-P11109-11_20",
@@ -484,7 +484,7 @@
       "product_url": "https://www.paulsmith.com/womens-yellow-and-black-check-shirt-dress",
       "name": "Women's Yellow and Black Check Shirt Dress",
       "old_price": null,
-      "new_price": "$455.00",
+      "price": "$455.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1736174023/W2R-642D-P31275-32_10",
@@ -498,7 +498,7 @@
       "product_url": "https://www.paulsmith.com/womens-orange-floral-paint-silk-sleeveless-maxi-dress",
       "name": "Women's Orange 'Floral Paint' Silk Sleeveless Maxi Dress",
       "old_price": null,
-      "new_price": "$1295.00",
+      "price": "$1295.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1735659049/STILL/W1R/W1R-653D-P11100-24/W1R-653D-P11100-24_10",
@@ -510,7 +510,7 @@
       "product_url": "https://www.paulsmith.com/womens-maroon-and-ecru-avant-garden-tie-waist-midi-dress",
       "name": "Women's Maroon and Ecru 'Avant Garden' Tie-Waist Midi Dress",
       "old_price": null,
-      "new_price": "$995.00",
+      "price": "$995.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744381954/STILL/W1R/W1R-652D-T11134-27/W1R-652D-T11134-27_30",
@@ -522,7 +522,7 @@
       "product_url": "https://www.paulsmith.com/womens-signature-stripe-sleeveless-knitted-dress",
       "name": "Women's 'Signature Stripe' Sleeveless Knitted Dress",
       "old_price": null,
-      "new_price": "$895.00",
+      "price": "$895.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747845319/STILL/W1R/W1R-616N-T11151-92/W1R-616N-T11151-92_20",
@@ -534,7 +534,7 @@
       "product_url": "https://www.paulsmith.com/womens-black-signature-stripe-collar-dress",
       "name": "Women's Black 'Signature Stripe' Collar Dress",
       "old_price": null,
-      "new_price": "$865.00",
+      "price": "$865.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1733842933/STILL/W1R/W1R-511D-P10769-79/W1R-511D-P10769-79_10",
@@ -548,7 +548,7 @@
       "product_url": "https://www.paulsmith.com/womens-dark-blue-viscose-blend-polka-dot-midi-dress",
       "name": "Women's Dark Blue Viscose-Blend Polka Dot Midi Dress",
       "old_price": null,
-      "new_price": "$825.00",
+      "price": "$825.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747929693/STILL/W1R/W1R-660V-P11115-46/W1R-660V-P11115-46_20",
@@ -560,7 +560,7 @@
       "product_url": "https://www.paulsmith.com/womens-multicolour-knitted-cotton-stripe-dress",
       "name": "Women's Multicolour Knitted Cotton Stripe Dress",
       "old_price": null,
-      "new_price": "$425.00",
+      "price": "$425.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739363446/STILL/W2R/W2R-556N-P31299-92/W2R-556N-P31299-92_10",
@@ -574,7 +574,7 @@
       "product_url": "https://www.paulsmith.com/womens-white-cotton-broderie-anglaise-shirt-dress",
       "name": "Women's White Cotton Broderie Anglaise Shirt Dress",
       "old_price": null,
-      "new_price": "$395.00",
+      "price": "$395.00",
       "discount": "30% off",
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1735567229/STILL/W2R/W2R-649D-P31289-01/W2R-649D-P31289-01_10",
@@ -586,7 +586,7 @@
       "product_url": "https://www.paulsmith.com/womens-navy-wool-blend-swirl-stripe-ribbed-midi-dress",
       "name": "Women's Navy Wool Blend 'Swirl Stripe' Ribbed Midi Dress",
       "old_price": null,
-      "new_price": null,
+      "price": "$360.00",
       "discount": null,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1736416895/STILL/W2R/W2R-573N-P31305-49/W2R-573N-P31305-49_10",
