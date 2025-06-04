@@ -97,20 +97,32 @@
                 </div>
             </section>
 
-            <!-- PRODUCTS SECTION -->
+            <!-- PRODUCTS SECTION WITH FILTERATION -->
             <section class="w-full h-fit bg-blue-300 p-5">
                 <div class="flex justify-between items-center w-full h-[60px] bg-gray-200">
                     <div class="bg-blue-200">
                         <button class="text-2xl"><i class="ri-grid-fill"></i></button>
                     </div>
                     <div class="bg-blue-200">
-                        <button class="text-2xl"><i class="ri-grid-fill"></i></button>
+                        <h3 class="text-base font-normal uppercase">31 Items</h3>
                     </div>
                     <div class="bg-blue-200">
-                        <button class="text-2xl"><i class="ri-grid-fill"></i></button>
+                        <ul class="w-fit lg:w-[300px] flex justify-between items-center">
+                            <li class="uppercase hidden lg:block"><a href="#">size <i class="ri-expand-horizontal-line"></i></a></li>
+                            <li class="uppercase hidden lg:block"><a href="#">Colour <i class="ri-color-filter-line"></i></a></li>
+                            <li class="uppercase text-base"><a href="#">Filter <i class="ri-add-fill"></i></a></li>
+                        </ul>
                     </div>
                     <div class="bg-blue-200">
-                        <button class="text-2xl"><i class="ri-grid-fill"></i></button>
+                        <select id="filter" class="hidden lg:block w-[200px] p-2">
+                            <option class="uppercase text-base p-2 hover:bg-gray-100" value="">Select by</option>
+                            <option class="uppercase text-base p-2 hover:bg-gray-100" value="Recomended">Recomended</option>
+                            <option class="uppercase text-base p-2 hover:bg-gray-100" value="Recomended">Latest items</option>
+                            <option class="uppercase text-base p-2 hover:bg-gray-100" value="Recomended">Price: low to high</option>
+                            <option class="uppercase text-base p-2 hover:bg-gray-100" value="Recomended">Price: high to low</option>
+                        </select>
+
+                        <button class="block lg:hidden p-1">Selcet By <i class="ri-arrow-down-s-line"></i></button>
                     </div>
                 </div>
             </section>
