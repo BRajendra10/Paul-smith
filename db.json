@@ -268,6 +268,333 @@
   "products": [
     {
       "id": 1,
+      "product_url": "https://www.paulsmith.com/womens-painters-smock-fluted-sleeve-dress",
+      "name": "Women's 'Painters' Smock Fluted Sleeve Dress",
+      "old_price": null,
+      "new_price": "$995.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747929699/STILL/W1R/W1R-663D-T11133-92/W1R-663D-T11133-92_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747929696/STILL/W1R/W1R-663D-T11133-92/W1R-663D-T11133-92_10"
+      ]
+    },
+    {
+      "id": 2,
+      "product_url": "https://www.paulsmith.com/womens-navy-blue-seersucker-cut-out-dress",
+      "name": "Women's Navy Blue Seersucker Cut Out Dress",
+      "old_price": null,
+      "new_price": "$395.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739455320/MODEL/ECOM/W2R/W2R-648D-P31291-49/W2R-648D-P31291-49_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738252838/STILL/W2R/W2R-648D-P31291-49/W2R-648D-P31291-49_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738252840/STILL/W2R/W2R-648D-P31291-49/W2R-648D-P31291-49_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738252842/STILL/W2R/W2R-648D-P31291-49/W2R-648D-P31291-49_30",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739455323/MODEL/ECOM/W2R/W2R-648D-P31291-49/W2R-648D-P31291-49_2"
+      ]
+    },
+    {
+      "id": 3,
+      "product_url": "https://www.paulsmith.com/womens-blue-cotton-poplin-shirt-dress",
+      "name": "Women's Blue Cotton Poplin Shirt Dress",
+      "old_price": null,
+      "new_price": "$895.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1730998965/STILL/W1R/W1R-632D-P10974-43/W1R-632D-P10974-43_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739455253/MODEL/ECOM/W1R/W1R-632D-P10974-43/W1R-632D-P10974-43_1"
+      ]
+    },
+    {
+      "id": 4,
+      "product_url": "https://www.paulsmith.com/womens-blue-pinstripe-seersucker-shirt-dress",
+      "name": "Women's Blue Pinstripe Seersucker Shirt Dress",
+      "old_price": null,
+      "new_price": "$350.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1731686486/STILL/W2R/W2R-650D-P31294-41/W2R-650D-P31294-41_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739455331/MODEL/ECOM/W2R/W2R-650D-P31294-41/W2R-650D-P31294-41_1"
+      ]
+    },
+    {
+      "id": 5,
+      "product_url": "https://www.paulsmith.com/womens-navy-shirt-midi-dress",
+      "name": "Women's Navy Shirt Midi Dress",
+      "old_price": null,
+      "new_price": "$525.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1730999007/STILL/W2R/W2R-606D-P31186-47/W2R-606D-P31186-47_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739455310/MODEL/ECOM/W2R/W2R-606D-P31186-47/W2R-606D-P31186-47_1"
+      ]
+    },
+    {
+      "id": 6,
+      "product_url": "https://www.paulsmith.com/womens-swirl-fluted-sleeve-dress",
+      "name": "Women's 'Swirl' Fluted Sleeve Dress",
+      "old_price": null,
+      "new_price": "$495.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747657835/STILL/W2R/W2R-607D-T31277-92/W2R-607D-T31277-92_30",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747657831/STILL/W2R/W2R-607D-T31277-92/W2R-607D-T31277-92_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747657833/STILL/W2R/W2R-607D-T31277-92/W2R-607D-T31277-92_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747657838/STILL/W2R/W2R-607D-T31277-92/W2R-607D-T31277-92_40"
+      ]
+    },
+    {
+      "id": 7,
+      "product_url": "https://www.paulsmith.com/womens-faded-swirl-shirt-dress",
+      "name": "Women's 'Faded Swirl' Shirt Dress",
+      "old_price": null,
+      "new_price": "$395.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1735567225/STILL/W2R/W2R-649D-P31281-92/W2R-649D-P31281-92_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739872875/STILL/W2R/W2R-649D-P31281-92/W2R-649D-P31281-92_1"
+      ]
+    },
+    {
+      "id": 8,
+      "product_url": "https://www.paulsmith.com/womens-orange-floral-paint-satin-bias-midi-dress",
+      "name": "Women's Orange 'Floral Paint' Satin Bias Midi Dress",
+      "old_price": null,
+      "new_price": "$995.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1735565424/STILL/W1R/W1R-662D-P11101-24/W1R-662D-P11101-24_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739455282/MODEL/ECOM/W1R/W1R-662D-P11101-24/W1R-662D-P11101-24_1"
+      ]
+    },
+    {
+      "id": 9,
+      "product_url": "https://www.paulsmith.com/womens-green-signature-stripe-pinstripe-shirt-dress",
+      "name": "Women's Green 'Signature Stripe' Pinstripe Shirt Dress",
+      "old_price": null,
+      "new_price": "$895.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744129970/STILL/W1R/W1R-665D-T11136-36/W1R-665D-T11136-36_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744129966/STILL/W1R/W1R-665D-T11136-36/W1R-665D-T11136-36_10"
+      ]
+    },
+    {
+      "id": 10,
+      "product_url": "https://www.paulsmith.com/womens-spearmint-silk-pintuck-dress",
+      "name": "Women's Spearmint Silk Pin Tuck Dress",
+      "old_price": null,
+      "new_price": "$1095.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1735648224/STILL/W1R/W1R-656D-P11104-30/W1R-656D-P11104-30_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739455272/MODEL/ECOM/W1R/W1R-656D-P11104-30/W1R-656D-P11104-30_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1735648226/STILL/W1R/W1R-656D-P11104-30/W1R-656D-P11104-30_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739455274/MODEL/ECOM/W1R/W1R-656D-P11104-30/W1R-656D-P11104-30_2"
+      ]
+    },
+    {
+      "id": 11,
+      "product_url": "https://www.paulsmith.com/womens-dusky-swirl-shirt-dress",
+      "name": "Women's 'Dusky Swirl' Shirt Dress",
+      "old_price": null,
+      "new_price": "$555.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1730999012/STILL/W2R/W2R-606D-P31277-92/W2R-606D-P31277-92_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739455315/MODEL/ECOM/W2R/W2R-606D-P31277-92/W2R-606D-P31277-92_1"
+      ]
+    },
+    {
+      "id": 12,
+      "product_url": "https://www.paulsmith.com/womens-navy-and-purple-stripe-pleated-rib-knit-dress",
+      "name": "Women's Navy and Purple Stripe Pleated Rib Knit Dress",
+      "old_price": null,
+      "new_price": "$455.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1729767712/STILL/W2R/W2R-547N-P31269-43/W2R-547N-P31269-43_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739455295/MODEL/ECOM/W2R/W2R-547N-P31269-43/W2R-547N-P31269-43_1"
+      ]
+    },
+    {
+      "id": 13,
+      "product_url": "https://www.paulsmith.com/womens-red-viscose-sea-floral-dress",
+      "name": "Women's Red Viscose 'Sea Floral' Dress",
+      "old_price": null,
+      "new_price": "$425.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1726848164/STILL/W2R/W2R-542D-K31021-25/W2R-542D-K31021-25_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1726848162/STILL/W2R/W2R-542D-K31021-25/W2R-542D-K31021-25_10"
+      ]
+    },
+    {
+      "id": 14,
+      "product_url": "https://www.paulsmith.com/womens-gradient-wave-crinkle-georgette-sheer-sleeveless-dress",
+      "name": "Women's 'Gradient Wave' Crinkle Georgette Sheer Sleeveless Dress",
+      "old_price": null,
+      "new_price": "$425.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744027389/MODEL/ECOM/W2R/W2R-647D-P31285-92/W2R-647D-P31285-92_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744027395/MODEL/ECOM/W2R/W2R-647D-P31285-92/W2R-647D-P31285-92_5",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1740405657/STILL/W2R/W2R-647D-P31285-92/W2R-647D-P31285-92_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744027394/MODEL/ECOM/W2R/W2R-647D-P31285-92/W2R-647D-P31285-92_4"
+      ]
+    },
+    {
+      "id": 15,
+      "product_url": "https://www.paulsmith.com/womens-ivory-tux-midi-dress",
+      "name": "Women's Ivory Tux Midi-Dress",
+      "old_price": null,
+      "new_price": "$1095.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744025515/MODEL/ECOM/W1R/W1R-340DB-P10585-02/W1R-340DB-P10585-02_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744025521/MODEL/ECOM/W1R/W1R-340DB-P10585-02/W1R-340DB-P10585-02_4"
+      ]
+    },
+    {
+      "id": 16,
+      "product_url": "https://www.paulsmith.com/womens-white-infloressence-cotton-silk-midi-dress",
+      "name": "Women's White 'Infloressence' Cotton-Silk Midi Dress",
+      "old_price": null,
+      "new_price": "$995.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1735565420/STILL/W1R/W1R-659D-P11106-01/W1R-659D-P11106-01_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739462432/MODEL/ECOM/W1R/W1R-659D-P11106-01/W1R-659D-P11106-01_1"
+      ]
+    },
+    {
+      "id": 17,
+      "product_url": "https://www.paulsmith.com/womens-lemon-embroidered-cotton-silk-midi-dress",
+      "name": "Women's Lemon Embroidered Cotton-Silk Midi Dress",
+      "old_price": null,
+      "new_price": "$875.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1735650037/STILL/W1R/W1R-657D-P11109-11/W1R-657D-P11109-11_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739455277/MODEL/ECOM/W1R/W1R-657D-P11109-11/W1R-657D-P11109-11_1"
+      ]
+    },
+    {
+      "id": 18,
+      "product_url": "https://www.paulsmith.com/womens-yellow-and-black-check-shirt-dress",
+      "name": "Women's Yellow and Black Check Shirt Dress",
+      "old_price": null,
+      "new_price": "$455.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1736174023/W2R-642D-P31275-32_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739453425/MODEL/ECOM/W2R/W2R-642D-P31275-32/W2R-642D-P31275-32_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1730999017/STILL/W2R/W2R-642D-P31275-32/W2R-642D-P31275-32_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1730999020/STILL/W2R/W2R-642D-P31275-32/W2R-642D-P31275-32_20"
+      ]
+    },
+    {
+      "id": 19,
+      "product_url": "https://www.paulsmith.com/womens-orange-floral-paint-silk-sleeveless-maxi-dress",
+      "name": "Women's Orange 'Floral Paint' Silk Sleeveless Maxi Dress",
+      "old_price": null,
+      "new_price": "$1295.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1735659049/STILL/W1R/W1R-653D-P11100-24/W1R-653D-P11100-24_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739455265/MODEL/ECOM/W1R/W1R-653D-P11100-24/W1R-653D-P11100-24_1"
+      ]
+    },
+    {
+      "id": 20,
+      "product_url": "https://www.paulsmith.com/womens-maroon-and-ecru-avant-garden-tie-waist-midi-dress",
+      "name": "Women's Maroon and Ecru 'Avant Garden' Tie-Waist Midi Dress",
+      "old_price": null,
+      "new_price": "$995.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744381954/STILL/W1R/W1R-652D-T11134-27/W1R-652D-T11134-27_30",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744381950/STILL/W1R/W1R-652D-T11134-27/W1R-652D-T11134-27_10"
+      ]
+    },
+    {
+      "id": 21,
+      "product_url": "https://www.paulsmith.com/womens-signature-stripe-sleeveless-knitted-dress",
+      "name": "Women's 'Signature Stripe' Sleeveless Knitted Dress",
+      "old_price": null,
+      "new_price": "$895.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747845319/STILL/W1R/W1R-616N-T11151-92/W1R-616N-T11151-92_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747845317/STILL/W1R/W1R-616N-T11151-92/W1R-616N-T11151-92_10"
+      ]
+    },
+    {
+      "id": 22,
+      "product_url": "https://www.paulsmith.com/womens-black-signature-stripe-collar-dress",
+      "name": "Women's Black 'Signature Stripe' Collar Dress",
+      "old_price": null,
+      "new_price": "$865.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1733842933/STILL/W1R/W1R-511D-P10769-79/W1R-511D-P10769-79_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739455241/MODEL/ECOM/W1R/W1R-511D-P10769-79/W1R-511D-P10769-79_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1733842935/STILL/W1R/W1R-511D-P10769-79/W1R-511D-P10769-79_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739455246/MODEL/ECOM/W1R/W1R-511D-P10769-79/W1R-511D-P10769-79_3"
+      ]
+    },
+    {
+      "id": 23,
+      "product_url": "https://www.paulsmith.com/womens-dark-blue-viscose-blend-polka-dot-midi-dress",
+      "name": "Women's Dark Blue Viscose-Blend Polka Dot Midi Dress",
+      "old_price": null,
+      "new_price": "$825.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747929693/STILL/W1R/W1R-660V-P11115-46/W1R-660V-P11115-46_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747929689/STILL/W1R/W1R-660V-P11115-46/W1R-660V-P11115-46_10"
+      ]
+    },
+    {
+      "id": 24,
+      "product_url": "https://www.paulsmith.com/womens-multicolour-knitted-cotton-stripe-dress",
+      "name": "Women's Multicolour Knitted Cotton Stripe Dress",
+      "old_price": null,
+      "new_price": "$425.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739363446/STILL/W2R/W2R-556N-P31299-92/W2R-556N-P31299-92_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739878345/MODEL/ECOM/W2R/W2R-556N-P31299-92/W2R-556N-P31299-92_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739363450/STILL/W2R/W2R-556N-P31299-92/W2R-556N-P31299-92_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739878346/MODEL/ECOM/W2R/W2R-556N-P31299-92/W2R-556N-P31299-92_2"
+      ]
+    },
+    {
+      "id": 25,
+      "product_url": "https://www.paulsmith.com/womens-white-cotton-broderie-anglaise-shirt-dress",
+      "name": "Women's White Cotton Broderie Anglaise Shirt Dress",
+      "old_price": null,
+      "new_price": "$395.00",
+      "discount": "30% off",
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1735567229/STILL/W2R/W2R-649D-P31289-01/W2R-649D-P31289-01_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739455325/MODEL/ECOM/W2R/W2R-649D-P31289-01/W2R-649D-P31289-01_1"
+      ]
+    },
+    {
+      "id": 26,
+      "product_url": "https://www.paulsmith.com/womens-navy-wool-blend-swirl-stripe-ribbed-midi-dress",
+      "name": "Women's Navy Wool Blend 'Swirl Stripe' Ribbed Midi Dress",
+      "old_price": null,
+      "new_price": null,
+      "discount": null,
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1736416895/STILL/W2R/W2R-573N-P31305-49/W2R-573N-P31305-49_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739455302/MODEL/ECOM/W2R/W2R-573N-P31305-49/W2R-573N-P31305-49_1"
+      ]
+    },
+    {
+      "id": 27,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739458843/MODEL/ECOM/W2R/W2R-246J-P31053-16/W2R-246J-P31053-16_3",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739458838/MODEL/ECOM/W2R/W2R-246J-P31053-16/W2R-246J-P31053-16_1",
@@ -278,12 +605,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738751439/STILL/W2R/W2R-246J-P31053-16/W2R-246J-P31053-16_10"
       ],
       "name": "Women's Coral Wool Double-Breasted Blazer",
-      "sale_price": "$348.00",
-      "original_price": "$695.00",
+      "old_price": "$348.00",
+      "new_price": "$695.00",
       "discount": "50% OFF"
     },
     {
-      "id": 2,
+      "id": 28,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1735563623/STILL/W1R/W1R-337JA-P10585-02/W1R-337JA-P10585-02_10",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739464241/MODEL/ECOM/W1R/W1R-337JA-P10585-02/W1R-337JA-P10585-02_1",
@@ -294,12 +621,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1735563629/STILL/W1R/W1R-337JA-P10585-02/W1R-337JA-P10585-02_40"
       ],
       "name": "Women's Ivory Single-Button Evening Blazer",
-      "sale_price": "$907.00",
-      "original_price": "$1,295.00",
+      "old_price": "$907.00",
+      "new_price": "$1,295.00",
       "discount": "30% OFF"
     },
     {
-      "id": 3,
+      "id": 29,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738940499/STILL/W2R/W2R-392JB-P30368-48/W2R-392JB-P30368-48_10",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739462442/MODEL/ECOM/W2R/W2R-392JB-P30368-48/W2R-392JB-P30368-48_1",
@@ -310,12 +637,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738940503/STILL/W2R/W2R-392JB-P30368-48/W2R-392JB-P30368-48_20"
       ],
       "name": "Women's Relaxed-Fit Navy Cotton-Blend Blazer",
-      "sale_price": "$373.00",
-      "original_price": "$745.00",
+      "old_price": "$373.00",
+      "new_price": "$745.00",
       "discount": "50% OFF"
     },
     {
-      "id": 4,
+      "id": 30,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1733842909/STILL/W1R/W1R-337JA-P01346-79/W1R-337JA-P01346-79_40",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1733842900/STILL/W1R/W1R-337JA-P01346-79/W1R-337JA-P01346-79_10",
@@ -323,12 +650,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1733842906/STILL/W1R/W1R-337JA-P01346-79/W1R-337JA-P01346-79_30"
       ],
       "name": "Women's Black Velvet Evening Blazer",
-      "sale_price": "$1,036.00",
-      "original_price": "$1,295.00",
+      "old_price": "$1,036.00",
+      "new_price": "$1,295.00",
       "discount": "20% OFF"
     },
     {
-      "id": 5,
+      "id": 31,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739460652/MODEL/ECOM/W1R/W1R-295JU-P02624-49/W1R-295JU-P02624-49_2",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739460649/MODEL/ECOM/W1R/W1R-295JU-P02624-49/W1R-295JU-P02624-49_1",
@@ -339,12 +666,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1736949683/STILL/W1R/W1R-295JU-P02624-49/W1R-295JU-P02624-49_10"
       ],
       "name": "Women's Wool-Blend Navy Seersucker Pinstripe Blazer",
-      "sale_price": "$717.00",
-      "original_price": "$1,195.00",
+      "old_price": "$717.00",
+      "new_price": "$1,195.00",
       "discount": "40% OFF"
     },
     {
-      "id": 6,
+      "id": 32,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1730979142/STILL/W2R/W2R-248J-P31053-43/W2R-248J-P31053-43_40",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739466103/MODEL/ECOM/W2R/W2R-248J-P31053-43/W2R-248J-P31053-43_1",
@@ -355,12 +682,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739466108/MODEL/ECOM/W2R/W2R-248J-P31053-43/W2R-248J-P31053-43_3"
       ],
       "name": "Women's Sea Green Wool Blazer",
-      "sale_price": "$487.00",
-      "original_price": "$695.00",
+      "old_price": "$487.00",
+      "new_price": "$695.00",
       "discount": "30% OFF"
     },
     {
-      "id": 7,
+      "id": 33,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718208319/MODEL/ECOM/W1R/W1R-369JA-N00001-60/W1R-369JA-N00001-60_3",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023787/MODEL/ECOM/W1R/W1R-369JA-N00001-60/W1R-369JA-N00001-60_7",
@@ -371,12 +698,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718975902/W1R-369JA-N00001-60_09"
       ],
       "name": "Women's A Suit To Travel In - Taupe Wool Double Breasted Blazer",
-      "sale_price": "$876.00",
-      "original_price": "$1,095.00",
+      "old_price": "$876.00",
+      "new_price": "$1,095.00",
       "discount": "20% OFF"
     },
     {
-      "id": 8,
+      "id": 34,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1722366090/STILL/W1R/W1R-254J-N00001-60/W1R-254J-N00001-60_10",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023699/MODEL/ECOM/W1R/W1R-254J-N00001-60/W1R-254J-N00001-60_2",
@@ -387,12 +714,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1722366099/STILL/W1R/W1R-254J-N00001-60/W1R-254J-N00001-60_40"
       ],
       "name": "A Suit To Travel In - Women's Taupe Wool Travel Blazer",
-      "sale_price": "$528.00",
-      "original_price": "$1,055.00",
+      "old_price": "$528.00",
+      "new_price": "$1,055.00",
       "discount": "50% OFF"
     },
     {
-      "id": 9,
+      "id": 35,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1733842912/STILL/W1R/W1R-369JC-P02567-61/W1R-369JC-P02567-61_10",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739977376/MODEL/ECOM/W1R/W1R-369JC-P02567-61/W1R-369JC-P02567-61_3",
@@ -403,12 +730,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739977372/MODEL/ECOM/W1R/W1R-369JC-P02567-61/W1R-369JC-P02567-61_1"
       ],
       "name": "Women's Camel Lovat Tweed Double-Breasted Blazer",
-      "sale_price": "$907.00",
-      "original_price": "$1,295.00",
+      "old_price": "$907.00",
+      "new_price": "$1,295.00",
       "discount": "30% OFF"
     },
     {
-      "id": 10,
+      "id": 36,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1732255468/STILL/W1R/W1R-379JZ-P11072-78/W1R-379JZ-P11072-78_10",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739971836/MODEL/ECOM/W1R/W1R-379JZ-P11072-78/W1R-379JZ-P11072-78_1",
@@ -419,12 +746,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739971838/MODEL/ECOM/W1R/W1R-379JZ-P11072-78/W1R-379JZ-P11072-78_2"
       ],
       "name": "Women's Charcoal 'Leopard Jacquard' Shawl Collar Blazer",
-      "sale_price": "$907.00",
-      "original_price": "$1,295.00",
+      "old_price": "$907.00",
+      "new_price": "$1,295.00",
       "discount": "30% OFF"
     },
     {
-      "id": 11,
+      "id": 37,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739979076/MODEL/ECOM/W1R/W1R-369JA-N00001-32/W1R-369JA-N00001-32_3",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739979071/MODEL/ECOM/W1R/W1R-369JA-N00001-32/W1R-369JA-N00001-32_1",
@@ -435,12 +762,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1733477456/STILL/W1R/W1R-369JA-N00001-32/W1R-369JA-N00001-32_30"
       ],
       "name": "Women's A Suit To Travel In - Pistachio Wool Double Breasted Blazer",
-      "sale_price": "$657.00",
-      "original_price": "$1,095.00",
+      "old_price": "$657.00",
+      "new_price": "$1,095.00",
       "discount": "40% OFF"
     },
     {
-      "id": 12,
+      "id": 38,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738751449/STILL/W2R/W2R-247J-P31282-11/W2R-247J-P31282-11_10",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023796/MODEL/ECOM/W2R/W2R-247J-P31282-11/W2R-247J-P31282-11_5",
@@ -451,12 +778,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738751454/STILL/W2R/W2R-247J-P31282-11/W2R-247J-P31282-11_40"
       ],
       "name": "Women's Cream Pinstripe Two-Button Blazer",
-      "sale_price": "$522.00",
-      "original_price": "$745.00",
+      "old_price": "$522.00",
+      "new_price": "$745.00",
       "discount": "30% OFF"
     },
     {
-      "id": 13,
+      "id": 39,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738690288/STILL/W2R/W2R-247J-P31282-40/W2R-247J-P31282-40_10",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739455292/MODEL/ECOM/W2R/W2R-247J-P31282-40/W2R-247J-P31282-40_3",
@@ -467,12 +794,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739455289/MODEL/ECOM/W2R/W2R-247J-P31282-40/W2R-247J-P31282-40_2"
       ],
       "name": "Women's Light Blue Pinstripe Two-Button Blazer",
-      "sale_price": "$447.00",
-      "original_price": "$745.00",
+      "old_price": "$447.00",
+      "new_price": "$745.00",
       "discount": "40% OFF"
     },
     {
-      "id": 14,
+      "id": 40,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1730979125/STILL/W2R/W2R-246J-P31053-32/W2R-246J-P31053-32_10",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739458845/MODEL/ECOM/W2R/W2R-246J-P31053-32/W2R-246J-P31053-32_1",
@@ -483,12 +810,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739458847/MODEL/ECOM/W2R/W2R-246J-P31053-32/W2R-246J-P31053-32_2"
       ],
       "name": "Women's Citrine Wool Double-Breasted Blazer",
-      "sale_price": "$348.00",
-      "original_price": "$695.00",
+      "old_price": "$348.00",
+      "new_price": "$695.00",
       "discount": "50% OFF"
     },
     {
-      "id": 15,
+      "id": 41,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1740150035/STILL/W1R/W1R-351JA-P11111-30/W1R-351JA-P11111-30_10",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744027274/MODEL/ECOM/W1R/W1R-351JA-P11111-30/W1R-351JA-P11111-30_3",
@@ -499,12 +826,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1740150039/STILL/W1R/W1R-351JA-P11111-30/W1R-351JA-P11111-30_30"
       ],
       "name": "Women's 'Floral Paint Studies' Blazer",
-      "sale_price": "$907.00",
-      "original_price": "$1,295.00",
+      "old_price": "$907.00",
+      "new_price": "$1,295.00",
       "discount": "30% OFF"
     },
     {
-      "id": 16,
+      "id": 42,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747656223/STILL/W2R/W2R-313J-P31053-11/W2R-313J-P31053-11_40",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747656217/STILL/W2R/W2R-313J-P31053-11/W2R-313J-P31053-11_10",
@@ -512,12 +839,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747656219/STILL/W2R/W2R-313J-P31053-11/W2R-313J-P31053-11_20"
       ],
       "name": "Women's Muted Yellow Wool Longline Blazer",
-      "sale_price": "$508.00",
-      "original_price": "$725.00",
+      "old_price": "$508.00",
+      "new_price": "$725.00",
       "discount": "30% OFF"
     },
     {
-      "id": 17,
+      "id": 43,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1748003463/STILL/W2R/W2R-395J-P31309-22/W2R-395J-P31309-22_40",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1748003454/STILL/W2R/W2R-395J-P31309-22/W2R-395J-P31309-22_10",
@@ -525,12 +852,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1748003459/STILL/W2R/W2R-395J-P31309-22/W2R-395J-P31309-22_20"
       ],
       "name": "Women's Relaxed-Fit Dusty Pink Lyocell Blazer",
-      "sale_price": "$473.00",
-      "original_price": "$675.00",
+      "old_price": "$473.00",
+      "new_price": "$675.00",
       "discount": "30% OFF"
     },
     {
-      "id": 18,
+      "id": 44,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1733842861/STILL/W1R/W1R-111P-N00001-43A/W1R-111P-N00001-43A_10",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739970179/MODEL/ECOM/W1R/W1R-111P-N00001-43A/W1R-111P-N00001-43A_1",
@@ -541,12 +868,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1733842864/STILL/W1R/W1R-111P-N00001-43A/W1R-111P-N00001-43A_20"
       ],
       "name": "Women's A Suit To Travel In - Dusty Blue Wool Two-Button Blazer",
-      "sale_price": "",
-      "original_price": "$1,095.00",
+      "old_price": "",
+      "new_price": "$1,095.00",
       "discount": ""
     },
     {
-      "id": 19,
+      "id": 45,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719398018/STILL/W1R/W1R-111P-N00001-37B/W1R-111P-N00001-37B_20",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719398016/STILL/W1R/W1R-111P-N00001-37B/W1R-111P-N00001-37B_10",
@@ -557,12 +884,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1721664090/MODEL/ECOM/W1R/W1R-111P-N00001-37B/W1R-111P-N00001-37B_2"
       ],
       "name": "Women's A Suit To Travel In - Petrol Blue Wool Two-Button Blazer",
-      "sale_price": "",
-      "original_price": "$1,095.00",
+      "old_price": "",
+      "new_price": "$1,095.00",
       "discount": ""
     },
     {
-      "id": 20,
+      "id": 46,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744718486/STILL/W1R/W1R-066J-N00001-60A/W1R-066J-N00001-60A_20",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744718481/STILL/W1R/W1R-066J-N00001-60A/W1R-066J-N00001-60A_10",
@@ -570,12 +897,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744718495/STILL/W1R/W1R-066J-N00001-60A/W1R-066J-N00001-60A_30"
       ],
       "name": "A Suit To Travel In - Women's Stone One-Button Wool Blazer",
-      "sale_price": "",
-      "original_price": "$995.00",
+      "old_price": "",
+      "new_price": "$995.00",
       "discount": ""
     },
     {
-      "id": 21,
+      "id": 47,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1745325084/STILL/W1R/W1R-295JU-T10827-44/W1R-295JU-T10827-44_40",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1745325072/STILL/W1R/W1R-295JU-T10827-44/W1R-295JU-T10827-44_10",
@@ -583,12 +910,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1745325077/STILL/W1R/W1R-295JU-T10827-44/W1R-295JU-T10827-44_20"
       ],
       "name": "Women's Slate Blue Unlined Pinstripe Two-Button Jacket",
-      "sale_price": "",
-      "original_price": "$1,195.00",
+      "old_price": "",
+      "new_price": "$1,195.00",
       "discount": ""
     },
     {
-      "id": 22,
+      "id": 48,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1710263519/STILL/W1R/W1R-254J-L00001-49/W1R-254J-M00001-49_20pastseason",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737633/MODEL/ECOM/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_1",
@@ -598,12 +925,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737636/MODEL/ECOM/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_2"
       ],
       "name": "A Suit To Travel In - Women's Dark Navy Wool Travel Blazer",
-      "sale_price": "",
-      "original_price": "$850.00",
+      "old_price": "",
+      "new_price": "$850.00",
       "discount": "The Classics"
     },
     {
-      "id": 23,
+      "id": 49,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719315236/STILL/W1R/W1R-066J-K00001-49/W1R-066J-K00001-49_40",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719315230/STILL/W1R/W1R-066J-K00001-49/W1R-066J-K00001-49_10",
@@ -611,12 +938,12 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719315232/STILL/W1R/W1R-066J-K00001-49/W1R-066J-K00001-49_20"
       ],
       "name": "A Suit To Travel In - Women's Navy One-Button Wool Blazer",
-      "sale_price": "",
-      "original_price": "$805.00",
+      "old_price": "",
+      "new_price": "$805.00",
       "discount": ""
     },
     {
-      "id": 24,
+      "id": 50,
       "images": [
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1745335929/STILL/W2R/W2R-424J-T31313-05/W2R-424J-T31313-05_40",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1745335912/STILL/W2R/W2R-424J-T31313-05/W2R-424J-T31313-05_10",
@@ -624,8 +951,8 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1745335918/STILL/W2R/W2R-424J-T31313-05/W2R-424J-T31313-05_20"
       ],
       "name": "Women's Grey Textured Check Wool-Blend Blazer",
-      "sale_price": "",
-      "original_price": "$725.00",
+      "old_price": "",
+      "new_price": "$725.00",
       "discount": ""
     }
   ]
