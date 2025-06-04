@@ -121,7 +121,7 @@ btns.forEach((btn, i) => {
 let json_data = [];
 
 (function () {
-  fetch("http://localhost:3000/products")
+  fetch("http://localhost:3000/home")
     .then((res) => res.json())
     .then((data) => {
       json_data = data;
