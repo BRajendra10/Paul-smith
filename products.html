@@ -81,15 +81,15 @@
         </header>
         <main class="relative top-8 w-full h-fit py-5 z-5">
             <!-- INFO SECTION -->
-            <section class="flex flex-col justify-between w-full p-5 h-[300px] bg-gray-100">
+            <section class="flex flex-col justify-between w-full p-5 h-[300px]">
                 <div class="flex">
-                    <a href="index.html">Home</a>
-                    <span>/</span>
-                    <a href="#">Products</a>
+                    <a class="font-medium text-sm px-1" href="index.html">Home</a>
+                    <span class="font-medium text-sm">/</span>
+                    <a class="font-medium text-sm px-1" href="#">Products</a>
                 </div>
                 <div class="flex flex-col 2xl:flex-row justify-start w-full h-fit">
                     <div class="w-[300px]">
-                        <h1 class="text-xl font-bold mb-3">Women's Blazers</h1>
+                        <h1 class="text-xl font-bold mb-3">Products</h1>
                     </div>
                     <div class="w-full lg:w-[60%] xl:w-[50%] h-[100px]">
                         <p>Crafted from premium wool and mohair cloths and available in vibrant checks and plain styles, Paul Smith women's blazers and suit jackets are suitable for both casual and formal occasions.</p>
@@ -98,23 +98,23 @@
             </section>
 
             <!-- PRODUCTS SECTION WITH FILTERATION -->
-            <section class="w-full h-fit bg-blue-300 p-5">
-                <div class="flex justify-between items-center w-full h-[60px] bg-gray-200">
-                    <div class="bg-blue-200">
+            <section class="w-full h-fit p-5">
+                <div class="flex justify-between items-center w-full h-[60px]">
+                    <div class="w-fit">
                         <button class="text-2xl"><i class="ri-grid-fill"></i></button>
                     </div>
-                    <div class="bg-blue-200">
+                    <div class="w-fit">
                         <h3 class="text-base font-normal uppercase">31 Items</h3>
                     </div>
-                    <div class="bg-blue-200">
+                    <div class="w-fit">
                         <ul class="w-fit lg:w-[300px] flex justify-between items-center">
                             <li class="uppercase hidden lg:block"><a href="#">size <i class="ri-expand-horizontal-line"></i></a></li>
                             <li class="uppercase hidden lg:block"><a href="#">Colour <i class="ri-color-filter-line"></i></a></li>
                             <li class="uppercase text-base"><a href="#">Filter <i class="ri-add-fill"></i></a></li>
                         </ul>
                     </div>
-                    <div class="bg-blue-200">
-                        <select id="filter" class="hidden lg:block w-[200px] p-2">
+                    <div class="w-fit">
+                        <select id="filter" class="hidden lg:block w-[200px] hover:bg-gray-200 p-2">
                             <option class="uppercase text-base p-2 hover:bg-gray-100" value="">Select by</option>
                             <option class="uppercase text-base p-2 hover:bg-gray-100" value="Recomended">Recomended</option>
                             <option class="uppercase text-base p-2 hover:bg-gray-100" value="Recomended">Latest items</option>
@@ -124,6 +124,9 @@
 
                         <button class="block lg:hidden p-1">Selcet By <i class="ri-arrow-down-s-line"></i></button>
                     </div>
+                </div>
+                <div class="flex justify-between flex-wrap h-fit py-5" id="products-container">
+                    <!--- set products here --->
                 </div>
             </section>
         </main>
@@ -295,6 +298,8 @@
         </div>
     </div>
 
+    <!-- js file linked -->
+    <script src="script/product.js"></script>
     <script src="script/modal.js"></script>
 </body>
 </html>

@@ -58,77 +58,17 @@ tabs.forEach((tab) => {
   });
 });
 
-// // modals
-// const help_modal = document.getElementById("help-modal");
-// const login_modal = document.getElementById("login-modal");
-// const bag_modal = document.getElementById("bag-modal");
-// const usd_modal = document.getElementById("usd-modal");
-
-// const btns = document.querySelectorAll(".btn");
-
-// btns.forEach((btn, i) => {
-//   btn.addEventListener("click", () => {
-//     let target = btn.classList;
-//     if (target.contains("help-btn")) {
-//       help_modal.classList.remove("hidden");
-//     } else if (target.contains("help-modal-close")) {
-//       help_modal.classList.add("hidden");
-//     } else if (target.contains("login-btn")) {
-//       login_modal.classList.remove("hidden");
-//     } else if (target.contains("login-modal-close")) {
-//       login_modal.classList.add("hidden");
-//     } else if (target.contains("bag-wishlist-btn")) {
-//       bag_modal.classList.remove("hidden");
-//     } else if (target.contains("bag-modal-close")) {
-//       bag_modal.classList.add("hidden");
-//     } else if (target.contains("usd-btn")) {//
-//       usd_modal.classList.remove("hidden");
-//     } else if (target.contains("usd-modal-close")) {
-//       usd_modal.classList.add("hidden");
-//     } else {
-//       console.log(target);
-//     }
-//     // console.log(btn.classList);
-//   });
-// });
-
-// document.getElementById("help-btn").addEventListener("click",()=>{
-//   help_modal.classList.remove("hidden");
-// })
-// document.getElementById("help-modal-close").addEventListener("click",()=>{
-//   help_modal.classList.add("hidden");
-// })
-// document.getElementById("login-btn").addEventListener("click",()=>{
-//   login_modal.classList.remove("hidden");
-// })
-// document.getElementById("login-modal-close").addEventListener("click",()=>{
-//   login_modal.classList.add("hidden");
-// })
-// document.getElementById("bag-wishlist-btn").addEventListener("click", () => {
-//   bag_modal.classList.remove("hidden");
-// });
-// document.getElementById("bag-modal-close").addEventListener("click", () => {
-//   bag_modal.classList.add("hidden");
-// });
-// document.getElementById("usd-btn").addEventListener("click", () => {
-//   usd_modal.classList.remove("hidden");
-// });
-// document.getElementById("usd-modal-close").addEventListener("click", () => {
-//   usd_modal.classList.add("hidden");
-// });
 
 // data handling
-let json_data = [];
 
-(function () {
-  fetch("http://localhost:3000/home")
-    .then((res) => res.json())
-    .then((data) => {
-      json_data = data;
-      get_data_list(data);
-    })
-    .catch((err) => console.log(err));
-})();
+async function get_data(){
+  const res = await fetch("http://localhost:3000/home")
+  const data = await res.json()
+  
+  get_data_list(data);
+}
+
+get_data();
 
 function get_data_list(data) {
   const data_list = data.map((el, i) => product(el));
@@ -145,8 +85,8 @@ function product(product_data) {
       </div>
       <div class="w-full h-[60px]">
         <span class="h-[30px] flex justify-between items-center">
-        <h4 class="uppercase text-xs font-semibold cursor-pointer" data-id="1">${product_data.title}</h4>
-        <p class="text-xs font-semibold">${product_data.price}</p>
+        <h4 class="uppercase text-xs font-semibold cursor-pointer" data-id="1">${product_data.name}</h4>
+        <p class="text-xs font-semibold">$${product_data.price}</p>
         </span>
         <span class="h-[30px] flex justify-between items-center hidden group-hover:flex">
           <button class="text-xs uppercase font-semibold">Add <i class="ri-add-line"></i></button>
@@ -158,7 +98,3 @@ function product(product_data) {
 
   return product;
 }
-
-// document.addEventListener("click", (el) =>{
-//   console.log(el.target.getAttribute("data-id"));
-// })
