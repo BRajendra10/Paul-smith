@@ -24,13 +24,13 @@ function product(product_data) {
       <div class="w-full aspect-[3/4] relative overflow-hidden">
         <img 
           class="group-hover:hidden absolute top-0 left-0 w-full h-full object-cover duration-700 ease-in-out" 
-          src="${product_data.images[0].url}" 
+          src="${product_data.images[0]}" 
           alt="img-1" 
           id="${product_data.id}">
           
         <img 
           class="hidden group-hover:block absolute top-0 left-0 w-full h-full object-cover duration-700 ease-in-out" 
-          src="${product_data.images[1].url}" 
+          src="${product_data.images[1]}" 
           alt="img-2" 
           id="${product_data.id}">
       </div>
@@ -42,7 +42,7 @@ function product(product_data) {
           ${product_data.title}
         </h4>
         <p class="text-sm sm:text-xs font-semibold">
-          ₹${product_data.formatted_price}
+          ₹${product_data.price.amount}
         </p>
       </div>
 

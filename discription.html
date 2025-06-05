@@ -83,32 +83,18 @@
             <!-- CAROUSEL SECTION -->
             <section class="relative w-full h-fit">
                 <div id="carousel" class="flex gap-4 overflow-x-auto scroll-smooth scrollbar-hide px-8">
-                    <!-- <div class="flex-shrink-0 w-[500px] lg:w-[620px]">
-                    <img class="w-full h-auto rounded" src="https://assets.paulsmith.com/paul-smith-products/f_avif,q_auto,w_614/v1739977348/MODEL/ECOM/W1R/W1R-254JC-P01427-04/W1R-254JC-P01427-04_1" alt="img" />
-                    </div>
-                    <div class="flex-shrink-0 w-[500px] lg:w-[620px]">
-                    <img class="w-full h-auto rounded" src="https://assets.paulsmith.com/paul-smith-products/f_avif,q_auto,w_614/v1739977352/MODEL/ECOM/W1R/W1R-254JC-P01427-04/W1R-254JC-P01427-04_3" alt="img" />
-                    </div>
-                    <div class="flex-shrink-0 w-[500px] lg:w-[620px]">
-                    <img class="w-full h-auto rounded" src="https://assets.paulsmith.com/paul-smith-products/f_avif,q_auto,w_614/v1739977351/MODEL/ECOM/W1R/W1R-254JC-P01427-04/W1R-254JC-P01427-04_2" alt="img" />
-                    </div>
-                    <div class="flex-shrink-0 w-[500px] lg:w-[620px]">
-                    <img class="w-full h-auto rounded" src="https://assets.paulsmith.com/paul-smith-products/f_avif,q_auto,w_614/v1735560038/STILL/W1R/W1R-254JC-P01427-04/W1R-254JC-P01427-04_10" alt="img" />
-                    </div>
-                    <div class="flex-shrink-0 w-[500px] lg:w-[620px]">
-                    <img class="w-full h-auto rounded" src="https://assets.paulsmith.com/paul-smith-products/f_avif,q_auto,w_614/v1735560040/STILL/W1R/W1R-254JC-P01427-04/W1R-254JC-P01427-04_20" alt="img" />
-                    </div> -->
+                    <!-- json_data images gone added here -->
 
                     <div class="absolute bottom-0 right-0 w-full lg:w-[840px] h-[350px] bg-gray-50 p-5">
                         <div class="w-full h-[70px] flex flex-col justify-between bg-gray-100 mb-8">
                             <div class="w-full flex justify-between">
-                                <h2 class="text-2xl font-normal">Women's Ivory Linen Blazer</h2>
+                                <h2 class="text-2xl font-normal" id="title"></h2>
                                 <button class="text-base uppercase font-semibold cursor-pointer"><i class="ri-bookmark-line"></i></button>
                             </div>
                             <div class="w-full flex justify-start">
-                                <span class="text-base pr-6">$1095.00</span>
-                                <span class="text-base pr-6">Ivory</span>
-                                <span class="text-base pr-6">1 more color</span>
+                                <span class="text-base pr-6" id="price"></span>
+                                <span class="text-base pr-6" id="color">Ivory</span>
+                                <!-- <span class="text-base pr-6">color</span> -->
                             </div>
                         </div>
                         <div class="w-full h-[70px] flex flex-col justify-between mb-8">
@@ -177,10 +163,10 @@
                     <div class="flex flex-col lg:flex-row justify-between w-full lg:w-[85%] h-fit mb-5">
                         <div class="w-full lg:w-[40%] flex justify-between h-fit">
                             <div class="w-[49.5%]">
-                                <img src="https://assets.paulsmith.com/paul-smith-products/f_avif,q_auto,w_1024/v1739977348/MODEL/ECOM/W1R/W1R-254JC-P01427-04/W1R-254JC-P01427-04_1" alt="">
+                                <img src="" alt="" id="img-1">
                             </div>
                             <div class="w-[49.5%]">
-                                <img src="https://assets.paulsmith.com/paul-smith-products/f_avif,q_auto,w_1024/v1735560038/STILL/W1R/W1R-254JC-P01427-04/W1R-254JC-P01427-04_10" alt="">
+                                <img src="" alt="" id="img-2">
                             </div>
                         </div>
                         <div class="flex flex-col items-start w-full lg:w-[60%] h-[400px] p-5">
@@ -543,8 +529,7 @@
     </div>
 
     <!-- js file linked -->
-    <script src="script/discription.js"></script>
+    <script type="module" src="script/discription.js"></script>
     <script src="script/modal.js"></script>
-    <!-- <script src="script/main.js"></script> -->
 </body>
 </html>

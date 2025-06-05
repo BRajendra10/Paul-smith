@@ -18,8 +18,16 @@ async function get_data() {
   const res = await fetch(`http://localhost:3000/discription/${id}`);
   const data = await res.json();
 
+  document.getElementById("title").innerHTML = data.title;
+  document.getElementById("price").innerHTML = data.formatted_price;
+  document.getElementById("color").innerHTML = data.color;
+  document.getElementById("img-1").src = data.images[0].url
+  document.getElementById("img-2").src = data.images[1].url
+
+  console.log(data.images[0].url)
   map_image(data.images);
 }
+
 get_data();
 
 function map_image(images) {
