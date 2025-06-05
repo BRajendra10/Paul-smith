@@ -1254,427 +1254,425 @@
       "meta_description": "Shop the Women's Pink Linen Suit for lightweight elegance at Paul Smith",
       "tags": ["suit", "tailoring", "women", "linen"]
     },
-    [
-      {
-        "id": "6",
-        "url": "https://www.paulsmith.com/a-suit-to-travel-in-women-s-black-wool-travel-blazer",
-        "sku": "PSW1R254J-L00001-79",
-        "collection": "A Suit To Travel In",
-        "title": "Women's Black Wool Travel Blazer",
-        "description": "A crease-resistant black wool blazer designed for travel, offering timeless elegance and comfort.",
-        "price": 850.0,
-        "currency": "USD",
-        "formatted_price": "$850.00",
-        "discount": null,
-        "images": [
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032201/MODEL/ECOM/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_8",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032310/MODEL/ECOM/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_5",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032203/STILL/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_10",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032205/STILL/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_20",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032207/STILL/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_30",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032209/STILL/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_40",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032312/MODEL/ECOM/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_1",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032314/MODEL/ECOM/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_2",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032316/MODEL/ECOM/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_3",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032211/STILL/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_50",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_800/e_volume:mute/v1695032318/VIDEO/W1R-254J-L00001-79/W1R-254J-L00001-79.mp4",
-            "type": "video"
-          }
-        ],
-        "thumbnail": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032203/STILL/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_10",
-        "color": "Black",
-        "color_code": "L00001-79",
-        "category": ["Women", "Suits", "Tailoring"],
-        "in_stock": true,
-        "sizes": [
-          {
-            "size": "UK 6",
-            "eu_size": "36",
-            "us_size": "2",
-            "in_stock": true
-          },
-          {
-            "size": "UK 8",
-            "eu_size": "38",
-            "us_size": "4",
-            "in_stock": true
-          }
-        ],
-        "mix_and_match": false,
-        "badges": ["Travel-Friendly", "The Classics"],
-        "rating": 4.8,
-        "review_count": 50,
-        "meta_title": "Women's Black Wool Travel Blazer | Paul Smith",
-        "meta_description": "Shop the Women's Black Wool Travel Blazer from A Suit To Travel In at Paul Smith",
-        "tags": ["blazer", "tailoring", "women", "wool", "travel"]
-      },
-      {
-        "id": "7",
-        "url": "https://www.paulsmith.com/womens-a-suit-to-travel-in-black-wool-double-breasted-blazer",
-        "sku": "PSW1R369JA-N00001-79",
-        "collection": "A Suit To Travel In",
-        "title": "Women's Black Wool Double Breasted Blazer",
-        "description": "A double-breasted black wool blazer crafted for travel, combining sophistication with practicality.",
-        "price": 1095.0,
-        "currency": "USD",
-        "formatted_price": "$1,095.00",
-        "discount": null,
-        "images": [
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718208321/MODEL/ECOM/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_1",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1717685224/STILL/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_99",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1717685226/STILL/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_10",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1717685228/STILL/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_20",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1717685230/STILL/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_30",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill/w_1152/v1717685232/STILL/W1R/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_40",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718208323/MODEL/ECOM/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_2",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718208325/MODEL/ECOM/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_3",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718208327/MODEL/ECOM/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_4",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718208329/MODEL/ECOM/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_5",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_800/e_volume:mute/v1718208331/VIDEO/W1R-369JA-N00001-79/W1R-369JA-N00001-79.mp4",
-            "type": "video"
-          }
-        ],
-        "thumbnail": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1717685226/STILL/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_10",
-        "color": "Black",
-        "color_code": "N00001-79",
-        "category": ["Women", "Suits", "Tailoring"],
-        "in_stock": true,
-        "sizes": [
-          {
-            "size": "UK 6",
-            "eu_size": "36",
-            "us_size": "2",
-            "in_stock": true
-          },
-          {
-            "size": "UK 8",
-            "eu_size": "38",
-            "us_size": "4",
-            "in_stock": true
-          }
-        ],
-        "mix_and_match": false,
-        "badges": ["Travel-Friendly"],
-        "rating": 4.7,
-        "review_count": 45,
-        "meta_title": "Women's Black Wool Double Breasted Blazer | Paul Smith",
-        "meta_description": "Shop the Women's Black Wool Double Breasted Blazer from A Suit To Travel In at Paul Smith",
-        "tags": ["blazer", "tailoring", "women", "wool", "double-breasted"]
-      },
-      {
-        "id": "8",
-        "url": "https://www.paulsmith.com/womens-a-suit-to-travel-in-black-wool-two-button-blazer",
-        "sku": "PSW1R111P-N00001-79",
-        "collection": "A Suit To Travel In",
-        "title": "Women's Black Wool Two-Button Blazer",
-        "description": "A sleek two-button black wool blazer, designed for travel with a modern tailored fit.",
-        "price": null,
-        "currency": "USD",
-        "formatted_price": null,
-        "discount": null,
-        "images": [
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023687/MODEL/ECOM/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_3",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023684/MODEL/ECOM/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_1",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023686/STILL/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_10",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023688/STILL/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_20",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023690/STILL/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_30",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023692/STILL/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_40",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023694/MODEL/ECOM/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_2",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023696/MODEL/ECOM/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_4",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023698/MODEL/ECOM/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_5",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023700/STILL/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_50",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_800/e_volume:mute/v1744023702/VIDEO/W1R-111P-N00001-79/W1R-111P-N00001-79.mp4",
-            "type": "video"
-          }
-        ],
-        "thumbnail": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023686/STILL/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_10",
-        "color": "Black",
-        "color_code": "N00001-79",
-        "category": ["Women", "Suits", "Tailoring"],
-        "in_stock": true,
-        "sizes": [
-          {
-            "size": "UK 6",
-            "eu_size": "36",
-            "us_size": "2",
-            "in_stock": true
-          },
-          {
-            "size": "UK 8",
-            "eu_size": "38",
-            "us_size": "4",
-            "in_stock": true
-          }
-        ],
-        "mix_and_match": false,
-        "badges": ["Travel-Friendly"],
-        "rating": 4.6,
-        "review_count": 40,
-        "meta_title": "Women's Black Wool Two-Button Blazer | Paul Smith",
-        "meta_description": "Shop the Women's Black Wool Two-Button Blazer from A Suit To Travel In at Paul Smith",
-        "tags": ["blazer", "tailoring", "women", "wool", "two-button"]
-      },
-      {
-        "id": "9",
-        "url": "https://www.paulsmith.com/a-suit-to-travel-in-women-s-dark-navy-wool-travel-blazer",
-        "sku": "PSW1R254J-M00001-49",
-        "collection": "A Suit To Travel In",
-        "title": "Women's Dark Navy Wool Travel Blazer",
-        "description": "A dark navy wool blazer designed for travel, offering a polished look with crease-resistant fabric.",
-        "price": null,
-        "currency": "USD",
-        "formatted_price": null,
-        "discount": null,
-        "images": [
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737633/MODEL/ECOM/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_1",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1710263519/STILL/W1R/W1R-254J-L00001-49/W1R-254J-M00001-49_20pastseason",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1710263503/STILL/W1R/W1R-254J-L00001-49/W1R-254J-M00001-49_10pastseason",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1710263522/STILL/W1R/W1R-254J-L00001-49/W1R-254J-M00001-49_04old",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737638/MODEL/ECOM/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_3",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737636/MODEL/ECOM/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_2",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1710263524/STILL/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_30",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1710263526/STILL/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_40",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737640/MODEL/ECOM/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_4",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737642/MODEL/ECOM/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_5",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_800/e_volume:mute/v1724320283/VIDEO/W1R-254J-M00001-49/W2R-019B-E30425-90.mp4",
-            "type": "video"
-          }
-        ],
-        "thumbnail": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1710263503/STILL/W1R/W1R-254J-L00001-49/W1R-254J-M00001-49_10pastseason",
-        "color": "Dark Navy",
-        "color_code": "M00001-49",
-        "category": ["Women", "Suits", "Tailoring"],
-        "in_stock": true,
-        "sizes": [
-          {
-            "size": "UK 6",
-            "eu_size": "36",
-            "us_size": "2",
-            "in_stock": true
-          },
-          {
-            "size": "UK 8",
-            "eu_size": "38",
-            "us_size": "4",
-            "in_stock": true
-          }
-        ],
-        "mix_and_match": false,
-        "badges": ["Travel-Friendly"],
-        "rating": 4.5,
-        "review_count": 38,
-        "meta_title": "Women's Dark Navy Wool Travel Blazer | Paul Smith",
-        "meta_description": "Shop the Women's Dark Navy Wool Travel Blazer from A Suit To Travel In at Paul Smith",
-        "tags": ["blazer", "tailoring", "women", "wool", "travel"]
-      },
-      {
-        "id": "10",
-        "url": "https://www.paulsmith.com/a-suit-to-travel-in-women-s-dark-navy-two-button-wool-blazer",
-        "sku": "PSW1R111P-M00001-49",
-        "collection": "A Suit To Travel In",
-        "title": "Women's Dark Navy Two-Button Wool Blazer",
-        "description": "A two-button dark navy wool blazer, crafted for travel with a refined silhouette.",
-        "price": 895.0,
-        "currency": "USD",
-        "formatted_price": "$895.00",
-        "discount": null,
-        "images": [
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719398007/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_20",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737626/MODEL/ECOM/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_1",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719398009/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_10",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719398011/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_30",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719398013/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_40",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719398015/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_50",
-            "type": "still"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737628/MODEL/ECOM/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_2",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737626/MODEL/ECOM/W1R/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_3",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737632/MODEL/ECOM/W1R/W2R-111P-M00001-49/W1R-111P-M00001-49_4",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737634/MODEL/ECOM/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_5",
-            "type": "model"
-          },
-          {
-            "url": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_800/e_volume:mute/v1719398017/VIDEO/W1R-111P-M00001-49/W1R-111P-M00001-49.mp4",
-            "type": "video"
-          }
-        ],
-        "thumbnail": "https://assets.paulsmth.com/paul-smith/products/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719398009/STILL/WIL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_10",
-        "color": "Dark Navy",
-        "color_code": "M00001-49",
-        "category": ["Women", "Suits", "Tailoring"],
-        "in_stock": true,
-        "sizes": [
-          {
-            "size": "UK 6",
-            "eu_size": "36",
-            "us_size": "2",
-            "in_stock": true
-          },
-          {
-            "size": "UK 8",
-            "eu_size": "38",
-            "us_size": "4",
-            "in_stock": true
-          }
-        ],
-        "mix_and_match": false,
-        "badges": ["Travel-Friendly"],
-        "rating": 4.7,
-        "review_count": 42,
-        "meta_title": "Women's Dark Navy Two-Button Wool Blazer | Paul Smith",
-        "meta_description": "Shop the Women's Dark Navy Two-Button Blazer from A Suit To Travel In at Paul Smith",
-        "tags": ["blazer", "tailoring", "suits", "women", "wool", "two-button"]
-      }
-    ]
+    {
+      "id": "6",
+      "url": "https://www.paulsmith.com/a-suit-to-travel-in-women-s-black-wool-travel-blazer",
+      "sku": "PSW1R254J-L00001-79",
+      "collection": "A Suit To Travel In",
+      "title": "Women's Black Wool Travel Blazer",
+      "description": "A crease-resistant black wool blazer designed for travel, offering timeless elegance and comfort.",
+      "price": 850.0,
+      "currency": "USD",
+      "formatted_price": "$850.00",
+      "discount": null,
+      "images": [
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032201/MODEL/ECOM/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_8",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032310/MODEL/ECOM/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_5",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032203/STILL/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_10",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032205/STILL/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_20",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032207/STILL/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_30",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032209/STILL/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_40",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032312/MODEL/ECOM/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_1",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032314/MODEL/ECOM/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_2",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032316/MODEL/ECOM/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_3",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032211/STILL/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_50",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_800/e_volume:mute/v1695032318/VIDEO/W1R-254J-L00001-79/W1R-254J-L00001-79.mp4",
+          "type": "video"
+        }
+      ],
+      "thumbnail": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032203/STILL/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_10",
+      "color": "Black",
+      "color_code": "L00001-79",
+      "category": ["Women", "Suits", "Tailoring"],
+      "in_stock": true,
+      "sizes": [
+        {
+          "size": "UK 6",
+          "eu_size": "36",
+          "us_size": "2",
+          "in_stock": true
+        },
+        {
+          "size": "UK 8",
+          "eu_size": "38",
+          "us_size": "4",
+          "in_stock": true
+        }
+      ],
+      "mix_and_match": false,
+      "badges": ["Travel-Friendly", "The Classics"],
+      "rating": 4.8,
+      "review_count": 50,
+      "meta_title": "Women's Black Wool Travel Blazer | Paul Smith",
+      "meta_description": "Shop the Women's Black Wool Travel Blazer from A Suit To Travel In at Paul Smith",
+      "tags": ["blazer", "tailoring", "women", "wool", "travel"]
+    },
+    {
+      "id": "7",
+      "url": "https://www.paulsmith.com/womens-a-suit-to-travel-in-black-wool-double-breasted-blazer",
+      "sku": "PSW1R369JA-N00001-79",
+      "collection": "A Suit To Travel In",
+      "title": "Women's Black Wool Double Breasted Blazer",
+      "description": "A double-breasted black wool blazer crafted for travel, combining sophistication with practicality.",
+      "price": 1095.0,
+      "currency": "USD",
+      "formatted_price": "$1,095.00",
+      "discount": null,
+      "images": [
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718208321/MODEL/ECOM/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_1",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1717685224/STILL/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_99",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1717685226/STILL/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_10",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1717685228/STILL/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_20",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1717685230/STILL/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_30",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill/w_1152/v1717685232/STILL/W1R/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_40",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718208323/MODEL/ECOM/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_2",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718208325/MODEL/ECOM/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_3",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718208327/MODEL/ECOM/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_4",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718208329/MODEL/ECOM/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_5",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_800/e_volume:mute/v1718208331/VIDEO/W1R-369JA-N00001-79/W1R-369JA-N00001-79.mp4",
+          "type": "video"
+        }
+      ],
+      "thumbnail": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1717685226/STILL/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_10",
+      "color": "Black",
+      "color_code": "N00001-79",
+      "category": ["Women", "Suits", "Tailoring"],
+      "in_stock": true,
+      "sizes": [
+        {
+          "size": "UK 6",
+          "eu_size": "36",
+          "us_size": "2",
+          "in_stock": true
+        },
+        {
+          "size": "UK 8",
+          "eu_size": "38",
+          "us_size": "4",
+          "in_stock": true
+        }
+      ],
+      "mix_and_match": false,
+      "badges": ["Travel-Friendly"],
+      "rating": 4.7,
+      "review_count": 45,
+      "meta_title": "Women's Black Wool Double Breasted Blazer | Paul Smith",
+      "meta_description": "Shop the Women's Black Wool Double Breasted Blazer from A Suit To Travel In at Paul Smith",
+      "tags": ["blazer", "tailoring", "women", "wool", "double-breasted"]
+    },
+    {
+      "id": "8",
+      "url": "https://www.paulsmith.com/womens-a-suit-to-travel-in-black-wool-two-button-blazer",
+      "sku": "PSW1R111P-N00001-79",
+      "collection": "A Suit To Travel In",
+      "title": "Women's Black Wool Two-Button Blazer",
+      "description": "A sleek two-button black wool blazer, designed for travel with a modern tailored fit.",
+      "price": 1095.0,
+      "currency": "USD",
+      "formatted_price": "$1,095.00",
+      "discount": null,
+      "images": [
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023687/MODEL/ECOM/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_3",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023684/MODEL/ECOM/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_1",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023686/STILL/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_10",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023688/STILL/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_20",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023690/STILL/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_30",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023692/STILL/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_40",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023694/MODEL/ECOM/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_2",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023696/MODEL/ECOM/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_4",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023698/MODEL/ECOM/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_5",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023700/STILL/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_50",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_800/e_volume:mute/v1744023702/VIDEO/W1R-111P-N00001-79/W1R-111P-N00001-79.mp4",
+          "type": "video"
+        }
+      ],
+      "thumbnail": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023686/STILL/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_10",
+      "color": "Black",
+      "color_code": "N00001-79",
+      "category": ["Women", "Suits", "Tailoring"],
+      "in_stock": true,
+      "sizes": [
+        {
+          "size": "UK 6",
+          "eu_size": "36",
+          "us_size": "2",
+          "in_stock": true
+        },
+        {
+          "size": "UK 8",
+          "eu_size": "38",
+          "us_size": "4",
+          "in_stock": true
+        }
+      ],
+      "mix_and_match": false,
+      "badges": ["Travel-Friendly"],
+      "rating": 4.6,
+      "review_count": 40,
+      "meta_title": "Women's Black Wool Two-Button Blazer | Paul Smith",
+      "meta_description": "Shop the Women's Black Wool Two-Button Blazer from A Suit To Travel In at Paul Smith",
+      "tags": ["blazer", "tailoring", "women", "wool", "two-button"]
+    },
+    {
+      "id": "9",
+      "url": "https://www.paulsmith.com/a-suit-to-travel-in-women-s-dark-navy-wool-travel-blazer",
+      "sku": "PSW1R254J-M00001-49",
+      "collection": "A Suit To Travel In",
+      "title": "Women's Dark Navy Wool Travel Blazer",
+      "description": "A dark navy wool blazer designed for travel, offering a polished look with crease-resistant fabric.",
+      "price": 1095,
+      "currency": "USD",
+      "formatted_price": "$1,095.0",
+      "discount": null,
+      "images": [
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737633/MODEL/ECOM/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_1",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1710263519/STILL/W1R/W1R-254J-L00001-49/W1R-254J-M00001-49_20pastseason",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1710263503/STILL/W1R/W1R-254J-L00001-49/W1R-254J-M00001-49_10pastseason",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1710263522/STILL/W1R/W1R-254J-L00001-49/W1R-254J-M00001-49_04old",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737638/MODEL/ECOM/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_3",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737636/MODEL/ECOM/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_2",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1710263524/STILL/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_30",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1710263526/STILL/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_40",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737640/MODEL/ECOM/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_4",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737642/MODEL/ECOM/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_5",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_800/e_volume:mute/v1724320283/VIDEO/W1R-254J-M00001-49/W2R-019B-E30425-90.mp4",
+          "type": "video"
+        }
+      ],
+      "thumbnail": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1710263503/STILL/W1R/W1R-254J-L00001-49/W1R-254J-M00001-49_10pastseason",
+      "color": "Dark Navy",
+      "color_code": "M00001-49",
+      "category": ["Women", "Suits", "Tailoring"],
+      "in_stock": true,
+      "sizes": [
+        {
+          "size": "UK 6",
+          "eu_size": "36",
+          "us_size": "2",
+          "in_stock": true
+        },
+        {
+          "size": "UK 8",
+          "eu_size": "38",
+          "us_size": "4",
+          "in_stock": true
+        }
+      ],
+      "mix_and_match": false,
+      "badges": ["Travel-Friendly"],
+      "rating": 4.5,
+      "review_count": 38,
+      "meta_title": "Women's Dark Navy Wool Travel Blazer | Paul Smith",
+      "meta_description": "Shop the Women's Dark Navy Wool Travel Blazer from A Suit To Travel In at Paul Smith",
+      "tags": ["blazer", "tailoring", "women", "wool", "travel"]
+    },
+    {
+      "id": "10",
+      "url": "https://www.paulsmith.com/a-suit-to-travel-in-women-s-dark-navy-two-button-wool-blazer",
+      "sku": "PSW1R111P-M00001-49",
+      "collection": "A Suit To Travel In",
+      "title": "Women's Dark Navy Two-Button Wool Blazer",
+      "description": "A two-button dark navy wool blazer, crafted for travel with a refined silhouette.",
+      "price": 895.0,
+      "currency": "USD",
+      "formatted_price": "$895.00",
+      "discount": null,
+      "images": [
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719398007/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_20",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737626/MODEL/ECOM/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_1",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719398009/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_10",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719398011/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_30",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719398013/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_40",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719398015/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_50",
+          "type": "still"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737628/MODEL/ECOM/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_2",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737626/MODEL/ECOM/W1R/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_3",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737632/MODEL/ECOM/W1R/W2R-111P-M00001-49/W1R-111P-M00001-49_4",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737634/MODEL/ECOM/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_5",
+          "type": "model"
+        },
+        {
+          "url": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_800/e_volume:mute/v1719398017/VIDEO/W1R-111P-M00001-49/W1R-111P-M00001-49.mp4",
+          "type": "video"
+        }
+      ],
+      "thumbnail": "https://assets.paulsmth.com/paul-smith/products/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719398009/STILL/WIL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_10",
+      "color": "Dark Navy",
+      "color_code": "M00001-49",
+      "category": ["Women", "Suits", "Tailoring"],
+      "in_stock": true,
+      "sizes": [
+        {
+          "size": "UK 6",
+          "eu_size": "36",
+          "us_size": "2",
+          "in_stock": true
+        },
+        {
+          "size": "UK 8",
+          "eu_size": "38",
+          "us_size": "4",
+          "in_stock": true
+        }
+      ],
+      "mix_and_match": false,
+      "badges": ["Travel-Friendly"],
+      "rating": 4.7,
+      "review_count": 42,
+      "meta_title": "Women's Dark Navy Two-Button Wool Blazer | Paul Smith",
+      "meta_description": "Shop the Women's Dark Navy Two-Button Blazer from A Suit To Travel In at Paul Smith",
+      "tags": ["blazer", "tailoring", "suits", "women", "wool", "two-button"]
+    }
   ]
 }

@@ -79,10 +79,12 @@ function get_data_list(data) {
 function product(product_data) {
   const product = `
     <div class="group w-[480px] h-[800px] shrink-0">
+      <a href="discription.html?id=${encodeURIComponent(product_data.id)}">
       <div class="group w-full h-[740px]">
         <img class="group-hover:hidden w-[100%] h-[100%] duration-700 ease-in-out" src=${product_data.images[0]} alt="img-1" data-id=${product_data.id}>
         <img class="hidden group-hover:block w-[100%] h-[100%] duration-700 ease-in-out" src=${product_data.images[1]} alt="img-1" data-id=data-id=${product_data.id}>
       </div>
+      </a>
       <div class="w-full h-[60px]">
         <span class="h-[30px] flex justify-between items-center">
         <h4 class="uppercase text-xs font-semibold cursor-pointer" data-id="1">${product_data.name}</h4>

@@ -10,13 +10,15 @@ prevBtn.addEventListener("click", () => {
   carousel.scrollBy({ left: -300, behavior: "smooth" });
 });
 
+
+const z = new URLSearchParams(window.location.search);
+const id = z.get("id");
+
 async function get_data() {
-  const res = await fetch("http://localhost:3000/discription/4");
+  const res = await fetch(`http://localhost:3000/discription/${id}`);
   const data = await res.json();
 
   map_image(data.images);
-
-  // const img_container = create_element("div", ["flex-shrink-0", "w-[500px]","lg:w-[620px]"])
 }
 get_data();
 
@@ -37,7 +39,6 @@ function map_image(images) {
   image_list.forEach((img_container) => {
     carousel.appendChild(img_container);
   });
-
 }
 
 function create_element(tag, class_name = [], tag_info){

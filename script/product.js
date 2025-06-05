@@ -1,8 +1,10 @@
 const products_container = document.getElementById("products-container");
 
 async function get_data() {
-  const res = await fetch("http://localhost:3000/products");
+  const res = await fetch("http://localhost:3000/discription");
   const data = await res.json();
+
+  console.log(data)
 
   get_data_list(data);
 }
@@ -16,31 +18,31 @@ function get_data_list(data) {
 }
 
 function product(product_data) {
- const product = `
+  const product = `
   <div class="group w-full sm:w-[49%] lg:w-[24%] mb-6">
-    <a href="discription.html">
+    <a href="discription.html?id=${encodeURIComponent(product_data.id)}">
       <div class="w-full aspect-[3/4] relative overflow-hidden">
         <img 
           class="group-hover:hidden absolute top-0 left-0 w-full h-full object-cover duration-700 ease-in-out" 
-          src="${product_data.images[0]}" 
+          src="${product_data.images[0].url}" 
           alt="img-1" 
-          data-id="${product_data.id}">
+          id="${product_data.id}">
           
         <img 
           class="hidden group-hover:block absolute top-0 left-0 w-full h-full object-cover duration-700 ease-in-out" 
-          src="${product_data.images[1]}" 
+          src="${product_data.images[1].url}" 
           alt="img-2" 
-          data-id="${product_data.id}">
+          id="${product_data.id}">
       </div>
     </a>
 
     <div class="w-full mt-2 px-1">
       <div class="flex justify-between items-start flex-wrap gap-y-1">
         <h4 class="w-[75%] text-sm sm:text-xs uppercase font-semibold cursor-pointer" data-id="${product_data.id}">
-          ${product_data.name}
+          ${product_data.title}
         </h4>
         <p class="text-sm sm:text-xs font-semibold">
-          ₹${product_data.price}
+          ₹${product_data.formatted_price}
         </p>
       </div>
 
@@ -51,8 +53,6 @@ function product(product_data) {
     </div>
   </div>
 `;
-
-
 
   return product;
 }
