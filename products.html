@@ -108,18 +108,23 @@
                     </div>
                     <div class="w-fit">
                         <ul class="w-fit lg:w-[300px] flex justify-between items-center">
-                            <li class="uppercase hidden lg:block"><a href="#">size <i class="ri-expand-horizontal-line"></i></a></li>
-                            <li class="uppercase hidden lg:block"><a href="#">Colour <i class="ri-color-filter-line"></i></a></li>
-                            <li class="uppercase text-base"><a href="#">Filter <i class="ri-add-fill"></i></a></li>
+                            <li class="uppercase hidden lg:block"><a href="#">
+                                <select id="filter-color" class="hidden lg:block w-[200px] hover:bg-gray-200 p-1">
+                                    <option class="uppercase text-base p-2" value="">Select color</option>
+                                    <option class="uppercase text-base p-2" value="blue">Blue</option>
+                                    <option class="uppercase text-base p-2" value="green">Green</option>
+                                    <option class="uppercase text-base p-2" value="purple">Purple</option>
+                                </select>
+                            </li>
                         </ul>
                     </div>
                     <div class="w-fit">
-                        <select id="filter" class="hidden lg:block w-[200px] hover:bg-gray-200 p-2">
-                            <option class="uppercase text-base p-2 hover:bg-gray-100" value="">Select by</option>
-                            <option class="uppercase text-base p-2 hover:bg-gray-100" value="Men">Gender: Men</option>
-                            <option class="uppercase text-base p-2 hover:bg-gray-100" value="Women">Gender: women</option>
-                            <option class="uppercase text-base p-2 hover:bg-gray-100" value="low to high">Price: low to high</option>
-                            <option class="uppercase text-base p-2 hover:bg-gray-100" value="high to low">Price: high to low</option>
+                        <select id="filter" class="hidden lg:block w-[200px] hover:bg-gray-200 p-1">
+                            <option class="uppercase text-base p-2" value="">Select by</option>
+                            <option class="uppercase text-base p-2" value="Men">Gender: Men</option>
+                            <option class="uppercase text-base p-2" value="Women">Gender: women</option>
+                            <option class="uppercase text-base p-2" value="low to high">Price: low to high</option>
+                            <option class="uppercase text-base p-2" value="high to low">Price: high to low</option>
                         </select>
 
                         <button class="block lg:hidden p-1">Selcet By <i class="ri-arrow-down-s-line"></i></button>
@@ -422,7 +427,7 @@
     </div>
 
     <!-- js file linked -->
-    <script src="script/product.js"></script>
+    <script type="module" src="script/product.js"></script>
     <script src="script/modal.js"></script>
 </body>
 </html>

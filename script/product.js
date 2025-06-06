@@ -1,16 +1,23 @@
 const products_container = document.getElementById("products-container");
 const sorting_filter = document.getElementById("filter");
+const filter_color = document.getElementById("filter-color");
 let local_json_data;
+
 
 async function get_data() {
   const res = await fetch("http://localhost:3000/discription");
   const data = await res.json();
 
   document.getElementById("items").innerText = `${data.length} items`;
-
   local_json_data = data;
-
   get_data_list(data);
+}
+
+async function get_colors_data() {
+  const res = await fetch("http://localhost:3000/colors");
+  const data = await res.json();
+
+  return data;
 }
 
 get_data();
@@ -63,8 +70,6 @@ function product(product_data) {
 
 sorting_filter.addEventListener("change", () => {
   let selected = sorting_filter.value;
-
-  console.log(selected);
   let sorted_data = [...local_json_data]; // Clone original array
 
   if (selected === "low to high") {
@@ -75,6 +80,25 @@ sorting_filter.addEventListener("change", () => {
     sorted_data = sorted_data.filter((el, i) => el.title.includes("Women's"))
   } else if (selected === "Men") {
     sorted_data = sorted_data.filter((el, i) => el.title.includes("Men's"))
+  }
+
+  get_data_list(sorted_data);
+});
+
+const colors = await get_colors_data();
+
+filter_color.addEventListener("change", () => {
+  let selected = filter_color.value;
+  let sorted_data = [...local_json_data]; // clone
+
+  const colorGroup = colors.find((color) => color.name === selected);
+
+  if (colorGroup) {
+    const selectedColorNames = colorGroup.color.map(c => c.name);
+
+    sorted_data = local_json_data.filter(item =>
+      selectedColorNames.includes(item.color)
+    );
   }
 
   get_data_list(sorted_data);
