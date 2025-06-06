@@ -265,1020 +265,6 @@
       "highlights": []
     }
   ],
-  "product": [
-    {
-      "id": 1,
-      "name": "Women's Dark Navy Skirt Suit",
-      "url": "https://www.paulsmith.com/womens-dark-navy-skirt-suit",
-      "price": "$1990.00",
-      "images": [
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738080024/STILL/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_10",
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739880086/MODEL/ECOM/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_1"
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Women's Sea Green Wool Suit",
-      "url": "https://www.paulsmith.com/womens-sea-green-wool-suit",
-      "price": "$1120.00",
-      "images": [
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1731328238/STILL/W2R/W2R-SUIT-P31053-43/W2R-SUIT-P31053-43_10",
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739466133/MODEL/ECOM/W2R/W2R-SUIT-P31053-43/W2R-SUIT-P31053-43_5"
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Women's Coral Wool Suit",
-      "url": "https://www.paulsmith.com/womens-coral-wool-suit",
-      "price": "$1105.00",
-      "images": [
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739194245/STILL/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_10",
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739458865/MODEL/ECOM/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_5"
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Women's Dusty Rose Wool Suit",
-      "url": "https://www.paulsmith.com/womens-dusty-rose-wool-suit",
-      "price": "$1070.00",
-      "images": [
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1731929436/STILL/W2R/W2R-SUIT-P31053-54/W2R-SUIT-P31053-54_10",
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739980891/MODEL/ECOM/W2R/W2R-SUIT-P31053-54/W2R-SUIT-P31053-54_1"
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Women's A Suit To Travel In - Black Wool Double Breasted Blazer",
-      "url": "https://www.paulsmith.com/womens-a-suit-to-travel-in-black-wool-double-breasted-blazer",
-      "price": "$1095.00",
-      "images": [
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718208321/MODEL/ECOM/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_1",
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1717685224/STILL/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_99"
-      ]
-    },
-    {
-      "id": 6,
-      "name": "A Suit To Travel In - Women's Dark Navy Wool Travel Blazer",
-      "url": "https://www.paulsmith.com/a-suit-to-travel-in-women-s-dark-navy-wool-travel-blazer",
-      "price": "$850.00",
-      "images": [
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737633/MODEL/ECOM/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_1",
-        "https://assets.paulsmith.com/paul-smith-products/f_avif,q_auto,ar_5:7,c_fill,w_768/v1710263522/STILL/W1R/W1R-254J-L00001-49/W1R-254J-M00001-49_04old"
-      ]
-    },
-    {
-      "id": 7,
-      "name": "A Suit To Travel In - Women's Dark Navy Two-Button Wool Blazer",
-      "url": "https://www.paulsmith.com/a-suit-to-travel-in-women-s-dark-navy-two-button-wool-blazer",
-      "price": "$895.00",
-      "images": [
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719398007/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_20",
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737626/MODEL/ECOM/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_1"
-      ]
-    },
-    {
-      "id": 9,
-      "name": "A Suit To Travel In - Women's Navy One-Button Wool Blazer",
-      "url": "https://www.paulsmith.com/a-suit-to-travel-in-womens-navy-one-button-wool-blazer",
-      "price": "$805.00",
-      "images": [
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719315236/STILL/W1R/W1R-066J-K00001-49/W1R-066J-K00001-49_40",
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719315230/STILL/W1R/W1R-066J-K00001-49/W1R-066J-K00001-49_10"
-      ]
-    },
-    {
-      "id": 10,
-      "name": "Women's A Suit To Travel In - Dusty Blue Wool Two-Button Blazer",
-      "url": "https://www.paulsmith.com/womens-a-suit-to-travel-in-dusty-blue-wool-two-button-blazer",
-      "price": "$1095.00",
-      "images": [
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1733842861/STILL/W1R/W1R-111P-N00001-43A/W1R-111P-N00001-43A_10",
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739970179/MODEL/ECOM/W1R/W1R-111P-N00001-43A/W1R-111P-N00001-43A_1"
-      ]
-    },
-    {
-      "id": 13,
-      "name": "Women's Ivory Single-Button Evening Blazer",
-      "url": "https://www.paulsmith.com/womens-ivory-single-button-evening-blazer",
-      "price": "$1295.00",
-      "images": [
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1735563623/STILL/W1R/W1R-337JA-P10585-02/W1R-337JA-P10585-02_10",
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739464241/MODEL/ECOM/W1R/W1R-337JA-P10585-02/W1R-337JA-P10585-02_1"
-      ]
-    },
-    {
-      "id": 14,
-      "name": "Women's Buttercup Yellow Wool Waistcoat",
-      "url": "https://www.paulsmith.com/womens-buttercup-yellow-wool-waistcoat",
-      "price": "$625.00",
-      "images": [
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739975522/MODEL/ECOM/W1R/W1R-388J-P00108-11/W1R-388J-P00108-11_4",
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739975515/MODEL/ECOM/W1R/W1R-388J-P00108-11/W1R-388J-P00108-11_1"
-      ]
-    },
-    {
-      "id": 15,
-      "name": "Women's A Suit To Travel In - Women's Black Drawstring Wide Leg Trousers",
-      "url": "https://www.paulsmith.com/a-suit-to-travel-in-womens-black-drawstring-wide-leg-trousers",
-      "price": "$575.00",
-      "images": [
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1709901022/MODEL/ECOM/W1R/W1R-255T-M00001-79/W1R-255T-M00001-79_1",
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1709901024/MODEL/ECOM/W1R/W1R-255T-M00001-79/W1R-255T-M00001-79_2"
-      ]
-    },
-    {
-      "id": 16,
-      "name": "A Suit To Travel In - Women's Tapered-Fit Black Wool Trousers",
-      "url": "https://www.paulsmith.com/a-suit-to-travel-in-women-s-classic-fit-black-wool-trousers",
-      "price": "$460.00",
-      "images": [
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1686747848/STILL/W1R/W1R-264T-L00001-79/W1R-264T-L00001-79_10",
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023715/MODEL/ECOM/W1R/W1R-264T-L00001-79/W1R-264T-L00001-79_3"
-      ]
-    },
-    {
-      "id": 17,
-      "name": "A Suit To Travel In - Women's Black Slim-Fit Wool Trousers",
-      "url": "https://www.paulsmith.com/a-suit-to-travel-in-women-s-black-slim-fit-wool-trousers",
-      "price": "$555.00",
-      "images": [
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1683814595/MODEL/ECOM/W1R/W1R-071T-B00001-79/W1R-071T-B00001-79_61",
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1683814593/MODEL/ECOM/W1R/W1R-071T-B00001-79/W1R-071T-B00001-79_41"
-      ]
-    },
-    {
-      "id": 18,
-      "name": "A Suit To Travel In - Women's Navy Tapered-Fit Wool Trousers",
-      "url": "https://www.paulsmith.com/a-suit-to-travel-in-women-s-classic-fit-dark-navy-wool-trousers",
-      "price": "$460.00",
-      "images": [
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1685538333/STILL/W1R/W1R-264T-L00001-49/W1R-264T-L00001-49_10",
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1724853645/MODEL/ECOM/W1R/W1R-264T-M00001-49/W1R-264T-M00001-49_1"
-      ]
-    },
-    {
-      "id": 19,
-      "name": "A Suit To Travel In - Women's Navy Slim-Fit Wool Trousers",
-      "url": "https://www.paulsmith.com/a-suit-to-travel-in-women-s-slim-fit-navy-wool-trousers",
-      "price": "$555.00",
-      "images": [
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1732539908/STILL/W1R/W1R-071T-B00001-49/W1R-071T-B00001-49_10",
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1732539908/STILL/W1R/W1R-071T-B00001-49/W1R-071T-B00001-49_40"
-      ]
-    },
-    {
-      "id": 20,
-      "name": "Women's A Suit To Travel In - Navy Drawstring Wide Leg Trousers",
-      "url": "https://www.paulsmith.com/a-suit-to-travel-in-navy-drawstring-wide-leg-trousers",
-      "price": "$575.00",
-      "images": [
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1732715608/STILL/W1R/W1R-255T-N00001-49/W1R-255T-N00001-49_30",
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1732715607/STILL/W1R/W1R-255T-N00001-49/W1R-255T-N00001-49_50"
-      ]
-    }
-  ],
-  "dommy": [
-    {
-      "id": "1",
-      "url": "https://www.paulsmith.com/womens-dark-navy-skirt-suit",
-      "sku": "PSW1RSUIT2-P01427-49A",
-      "collection": "A Suit To Travel In",
-      "title": "Women's Dark Navy Skirt Suit",
-      "description": "A sophisticated double-breasted blazer with a matching skirt, crafted from crease-resistant wool for elegant tailoring.",
-      "price": 1990.0,
-      "currency": "USD",
-      "formatted_price": "$1,990.00",
-      "discount": null,
-      "images": [
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738080024/STILL/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_10",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739880086/MODEL/ECOM/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_1",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739880094/MODEL/ECOM/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_3",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,w_1152/v1739880090/MODEL/ECOM/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_2",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739880101/MODEL/ECOM/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_5",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739880098/MODEL/ECOM/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_4",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738080036/STILL/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_60",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738080028/STILL/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_30",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738080033/STILL/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_50",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738080026/STILL/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_20",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_800/e_volume:mute/v1741692995/VIDEO/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A.mp4.mp4",
-          "type": "video"
-        }
-      ],
-      "thumbnail": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738080024/STILL/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_10",
-      "color": "Dark Navy",
-      "color_code": "P01427-49A",
-      "category": ["Women", "Suits", "Tailoring"],
-      "in_stock": true,
-      "sizes": [
-        {
-          "size": "UK 6",
-          "eu_size": "36",
-          "us_size": "2",
-          "in_stock": true
-        },
-        {
-          "size": "UK 8",
-          "eu_size": "38",
-          "us_size": "4",
-          "in_stock": true
-        }
-      ],
-      "mix_and_match": true,
-      "badges": ["Travel-Friendly"],
-      "rating": 4.7,
-      "review_count": 42,
-      "meta_title": "Women's Dark Navy Skirt Suit | Paul Smith",
-      "meta_description": "Shop the Women's Dark Navy Skirt Suit with Mix & Match Sizing at Paul Smith",
-      "tags": ["suit", "tailoring", "women"]
-    },
-    {
-      "id": "2",
-      "url": "https://www.paulsmith.com/womens-sea-green-wool-suit",
-      "sku": "PSW2RSUIT-P31053-43",
-      "collection": null,
-      "title": "Women's Sea Green Wool Suit",
-      "description": "A tailored wool suit in a vibrant sea green hue, perfect for modern professional style.",
-      "price": 1120.0,
-      "currency": "USD",
-      "formatted_price": "$1,120.00",
-      "discount": null,
-      "images": [
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1731328238/STILL/W2R/W2R-SUIT-P31053-43/W2R-SUIT-P31053-43_10",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739466133/MODEL/ECOM/W2R/W2R-SUIT-P31053-43/W2R-SUIT-P31053-43_5",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1731328240/STILL/W2R/W2R-SUIT-P31053-43/W2R-SUIT-P31053-43_20",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1731328242/STILL/W2R/W2R-SUIT-P31053-43/W2R-SUIT-P31053-43_30",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1731328244/STILL/W2R/W2R-SUIT-P31053-43/W2R-SUIT-P31053-43_40",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739466135/MODEL/ECOM/W2R/W2R-SUIT-P31053-43/W2R-SUIT-P31053-43_1",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739466137/MODEL/ECOM/W2R/W2R-SUIT-P31053-43/W2R-SUIT-P31053-43_2",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739466139/MODEL/ECOM/W2R/W2R-SUIT-P31053-43/W2R-SUIT-P31053-43_3",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739466141/MODEL/ECOM/W2R/W2R-SUIT-P31053-43/W2R-SUIT-P31053-43_4",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1731328246/STILL/W2R/W2R-SUIT-P31053-43/W2R-SUIT-P31053-43_50",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_800/e_volume:mute/v1739466143/VIDEO/W2R-SUIT-P31053-43/W2R-SUIT-P31053-43.mp4",
-          "type": "video"
-        }
-      ],
-      "thumbnail": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1731328238/STILL/W2R/W2R-SUIT-P31053-43/W2R-SUIT-P31053-43_10",
-      "color": "Sea Green",
-      "color_code": "P31053-43",
-      "category": ["Women", "Suits", "Tailoring"],
-      "in_stock": true,
-      "sizes": [
-        {
-          "size": "UK 6",
-          "eu_size": "36",
-          "us_size": "2",
-          "in_stock": true
-        },
-        {
-          "size": "UK 8",
-          "eu_size": "38",
-          "us_size": "4",
-          "in_stock": true
-        }
-      ],
-      "mix_and_match": false,
-      "badges": [],
-      "rating": 4.6,
-      "review_count": 38,
-      "meta_title": "Women's Sea Green Wool Suit | Paul Smith",
-      "meta_description": "Shop the Women's Sea Green Wool Suit for modern tailoring at Paul Smith",
-      "tags": ["suit", "tailoring", "women", "wool"]
-    },
-    {
-      "id": "3",
-      "url": "https://www.paulsmith.com/womens-coral-wool-suit",
-      "sku": "PSW2RSUIT-P31053-16",
-      "collection": null,
-      "title": "Women's Coral Wool Suit",
-      "description": "A striking coral wool suit, combining bold color with classic tailoring for a standout look.",
-      "price": 1105.0,
-      "currency": "USD",
-      "formatted_price": "$1,105.00",
-      "discount": null,
-      "images": [
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739194245/STILL/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_10",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739458865/MODEL/ECOM/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_5",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739194247/STILL/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_20",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739194249/STILL/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_30",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739194251/STILL/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_40",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739458867/MODEL/ECOM/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_1",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739458869/MODEL/ECOM/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_2",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739458871/MODEL/ECOM/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_3",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739458873/MODEL/ECOM/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_4",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739194253/STILL/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_50",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_800/e_volume:mute/v1739458875/VIDEO/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16.mp4",
-          "type": "video"
-        }
-      ],
-      "thumbnail": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739194245/STILL/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_10",
-      "color": "Coral",
-      "color_code": "P31053-16",
-      "category": ["Women", "Suits", "Tailoring"],
-      "in_stock": true,
-      "sizes": [
-        {
-          "size": "UK 6",
-          "eu_size": "36",
-          "us_size": "2",
-          "in_stock": true
-        },
-        {
-          "size": "UK 8",
-          "eu_size": "38",
-          "us_size": "4",
-          "in_stock": true
-        }
-      ],
-      "mix_and_match": false,
-      "badges": [],
-      "rating": 4.8,
-      "review_count": 40,
-      "meta_title": "Women's Coral Wool Suit | Paul Smith",
-      "meta_description": "Shop the Women's Coral Wool Suit for bold tailoring at Paul Smith",
-      "tags": ["suit", "tailoring", "women", "wool"]
-    },
-    {
-      "id": "4",
-      "url": "https://www.paulsmith.com/womens-dusty-rose-wool-suit",
-      "sku": "PSW2RSUIT-P31053-54",
-      "collection": null,
-      "title": "Women's Dusty Rose Wool Suit",
-      "description": "A refined wool suit in dusty rose, offering a soft hue with elegant tailoring.",
-      "price": 1070.0,
-      "currency": "USD",
-      "formatted_price": "$1,070.00",
-      "discount": null,
-      "images": [
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1731929436/STILL/W2R/W2R-SUIT-P31053-54/W2R-SUIT-P31053-54_10",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739980891/MODEL/ECOM/W2R/W2R-SUIT-P31053-54/W2R-SUIT-P31053-54_1",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1731929438/STILL/W2R/W2R-SUIT-P31053-54/W2R-SUIT-P31053-54_20",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1731929440/STILL/W2R/W2R-SUIT-P31053-54/W2R-SUIT-P31053-54_30",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1731929442/STILL/W2R/W2R-SUIT-P31053-54/W2R-SUIT-P31053-54_40",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739980893/MODEL/ECOM/W2R/W2R-SUIT-P31053-54/W2R-SUIT-P31053-54_2",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739980895/MODEL/ECOM/W2R/W2R-SUIT-P31053-54/W2R-SUIT-P31053-54_3",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739980897/MODEL/ECOM/W2R/W2R-SUIT-P31053-54/W2R-SUIT-P31053-54_4",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739980899/MODEL/ECOM/W2R/W2R-SUIT-P31053-54/W2R-SUIT-P31053-54_5",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1731929444/STILL/W2R/W2R-SUIT-P31053-54/W2R-SUIT-P31053-54_50",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_800/e_volume:mute/v1739980901/VIDEO/W2R-SUIT-P31053-54/W2R-SUIT-P31053-54.mp4",
-          "type": "video"
-        }
-      ],
-      "thumbnail": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1731929436/STILL/W2R/W2R-SUIT-P31053-54/W2R-SUIT-P31053-54_10",
-      "color": "Dusty Rose",
-      "color_code": "P31053-54",
-      "category": ["Women", "Suits", "Tailoring"],
-      "in_stock": true,
-      "sizes": [
-        {
-          "size": "UK 6",
-          "eu_size": "36",
-          "us_size": "2",
-          "in_stock": true
-        },
-        {
-          "size": "UK 8",
-          "eu_size": "38",
-          "us_size": "4",
-          "in_stock": true
-        }
-      ],
-      "mix_and_match": false,
-      "badges": [],
-      "rating": 4.5,
-      "review_count": 35,
-      "meta_title": "Women's Dusty Rose Wool Suit | Paul Smith",
-      "meta_description": "Shop the Women's Dusty Rose Wool Suit for elegant tailoring at Paul Smith",
-      "tags": ["suit", "tailoring", "women", "wool"]
-    },
-    {
-      "id": "5",
-      "url": "https://www.paulsmith.com/womens-pink-linen-suit",
-      "sku": "PSW1RSUIT-P01427-20A",
-      "collection": null,
-      "title": "Women's Pink Linen Suit",
-      "description": "A lightweight linen suit in a soft pink shade, ideal for warm-weather sophistication.",
-      "price": 1750.0,
-      "currency": "USD",
-      "formatted_price": "$1,750.00",
-      "discount": null,
-      "images": [
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738078329/STILL/W1R/W1R-SUIT-P01427-20A/W1R-SUIT-P01427-20A_10",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739880083/MODEL/ECOM/W1R/W1R-SUIT-P01427-20A/W1R-SUIT-P01427-20A_5",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738078337/STILL/W1R/W1R-SUIT-P01427-20A/W1R-SUIT-P01427-20A_30",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738078345/STILL/W1R/W1R-SUIT-P01427-20A/W1R-SUIT-P01427-20A_60",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739880080/MODEL/ECOM/W1R/W1R-SUIT-P01427-20A/W1R-SUIT-P01427-20A_4",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738078333/STILL/W1R/W1R-SUIT-P01427-20A/W1R-SUIT-P01427-20A_20",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739880074/MODEL/ECOM/W1R/W1R-SUIT-P01427-20A/W1R-SUIT-P01427-20A_1",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739880077/MODEL/ECOM/W1R/W1R-SUIT-P01427-20A/W1R-SUIT-P01427-20A_2",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738078341/STILL/W1R/W1R-SUIT-P01427-20A/W1R-SUIT-P01427-20A_40",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739880078/MODEL/ECOM/W1R/W1R-SUIT-P01427-20A/W1R-SUIT-P01427-20A_3",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_800/e_volume:mute/v1741692868/VIDEO/W1R-SUIT-P01427-20A/W1R-SUIT-P01427-20A.mp4",
-          "type": "video"
-        }
-      ],
-      "thumbnail": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738078329/STILL/W1R/W1R-SUIT-P01427-20A/W1R-SUIT-P01427-20A_10",
-      "color": "Pink",
-      "color_code": "P01427-20A",
-      "category": ["Women", "Suits", "Tailoring"],
-      "in_stock": true,
-      "sizes": [
-        {
-          "size": "UK 6",
-          "eu_size": "36",
-          "us_size": "2",
-          "in_stock": true
-        },
-        {
-          "size": "UK 8",
-          "eu_size": "38",
-          "us_size": "4",
-          "in_stock": true
-        }
-      ],
-      "mix_and_match": false,
-      "badges": [],
-      "rating": 4.9,
-      "review_count": 45,
-      "meta_title": "Women's Pink Linen Suit | Paul Smith",
-      "meta_description": "Shop the Women's Pink Linen Suit for lightweight elegance at Paul Smith",
-      "tags": ["suit", "tailoring", "women", "linen"]
-    },
-    {
-      "id": "6",
-      "url": "https://www.paulsmith.com/a-suit-to-travel-in-women-s-black-wool-travel-blazer",
-      "sku": "PSW1R254J-L00001-79",
-      "collection": "A Suit To Travel In",
-      "title": "Women's Black Wool Travel Blazer",
-      "description": "A crease-resistant black wool blazer designed for travel, offering timeless elegance and comfort.",
-      "price": 850.0,
-      "currency": "USD",
-      "formatted_price": "$850.00",
-      "discount": null,
-      "images": [
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032201/MODEL/ECOM/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_8",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032310/MODEL/ECOM/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_5",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032203/STILL/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_10",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032205/STILL/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_20",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032207/STILL/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_30",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032209/STILL/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_40",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032312/MODEL/ECOM/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_1",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032314/MODEL/ECOM/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_2",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032316/MODEL/ECOM/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_3",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032211/STILL/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_50",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_800/e_volume:mute/v1695032318/VIDEO/W1R-254J-L00001-79/W1R-254J-L00001-79.mp4",
-          "type": "video"
-        }
-      ],
-      "thumbnail": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1695032203/STILL/W1R/W1R-254J-L00001-79/W1R-254J-L00001-79_10",
-      "color": "Black",
-      "color_code": "L00001-79",
-      "category": ["Women", "Suits", "Tailoring"],
-      "in_stock": true,
-      "sizes": [
-        {
-          "size": "UK 6",
-          "eu_size": "36",
-          "us_size": "2",
-          "in_stock": true
-        },
-        {
-          "size": "UK 8",
-          "eu_size": "38",
-          "us_size": "4",
-          "in_stock": true
-        }
-      ],
-      "mix_and_match": false,
-      "badges": ["Travel-Friendly", "The Classics"],
-      "rating": 4.8,
-      "review_count": 50,
-      "meta_title": "Women's Black Wool Travel Blazer | Paul Smith",
-      "meta_description": "Shop the Women's Black Wool Travel Blazer from A Suit To Travel In at Paul Smith",
-      "tags": ["blazer", "tailoring", "women", "wool", "travel"]
-    },
-    {
-      "id": "7",
-      "url": "https://www.paulsmith.com/womens-a-suit-to-travel-in-black-wool-double-breasted-blazer",
-      "sku": "PSW1R369JA-N00001-79",
-      "collection": "A Suit To Travel In",
-      "title": "Women's Black Wool Double Breasted Blazer",
-      "description": "A double-breasted black wool blazer crafted for travel, combining sophistication with practicality.",
-      "price": 1095.0,
-      "currency": "USD",
-      "formatted_price": "$1,095.00",
-      "discount": null,
-      "images": [
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718208321/MODEL/ECOM/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_1",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1717685224/STILL/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_99",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1717685226/STILL/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_10",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1717685228/STILL/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_20",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1717685230/STILL/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_30",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill/w_1152/v1717685232/STILL/W1R/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_40",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718208323/MODEL/ECOM/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_2",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718208325/MODEL/ECOM/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_3",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718208327/MODEL/ECOM/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_4",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718208329/MODEL/ECOM/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_5",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_800/e_volume:mute/v1718208331/VIDEO/W1R-369JA-N00001-79/W1R-369JA-N00001-79.mp4",
-          "type": "video"
-        }
-      ],
-      "thumbnail": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1717685226/STILL/W1R/W1R-369JA-N00001-79/W1R-369JA-N00001-79_10",
-      "color": "Black",
-      "color_code": "N00001-79",
-      "category": ["Women", "Suits", "Tailoring"],
-      "in_stock": true,
-      "sizes": [
-        {
-          "size": "UK 6",
-          "eu_size": "36",
-          "us_size": "2",
-          "in_stock": true
-        },
-        {
-          "size": "UK 8",
-          "eu_size": "38",
-          "us_size": "4",
-          "in_stock": true
-        }
-      ],
-      "mix_and_match": false,
-      "badges": ["Travel-Friendly"],
-      "rating": 4.7,
-      "review_count": 45,
-      "meta_title": "Women's Black Wool Double Breasted Blazer | Paul Smith",
-      "meta_description": "Shop the Women's Black Wool Double Breasted Blazer from A Suit To Travel In at Paul Smith",
-      "tags": ["blazer", "tailoring", "women", "wool", "double-breasted"]
-    },
-    {
-      "id": "8",
-      "url": "https://www.paulsmith.com/womens-a-suit-to-travel-in-black-wool-two-button-blazer",
-      "sku": "PSW1R111P-N00001-79",
-      "collection": "A Suit To Travel In",
-      "title": "Women's Black Wool Two-Button Blazer",
-      "description": "A sleek two-button black wool blazer, designed for travel with a modern tailored fit.",
-      "price": 1095.0,
-      "currency": "USD",
-      "formatted_price": "$1,095.00",
-      "discount": null,
-      "images": [
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023687/MODEL/ECOM/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_3",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023684/MODEL/ECOM/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_1",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023686/STILL/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_10",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023688/STILL/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_20",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023690/STILL/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_30",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023692/STILL/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_40",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023694/MODEL/ECOM/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_2",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023696/MODEL/ECOM/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_4",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023698/MODEL/ECOM/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_5",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023700/STILL/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_50",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_800/e_volume:mute/v1744023702/VIDEO/W1R-111P-N00001-79/W1R-111P-N00001-79.mp4",
-          "type": "video"
-        }
-      ],
-      "thumbnail": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023686/STILL/W1R/W1R-111P-N00001-79/W1R-111P-N00001-79_10",
-      "color": "Black",
-      "color_code": "N00001-79",
-      "category": ["Women", "Suits", "Tailoring"],
-      "in_stock": true,
-      "sizes": [
-        {
-          "size": "UK 6",
-          "eu_size": "36",
-          "us_size": "2",
-          "in_stock": true
-        },
-        {
-          "size": "UK 8",
-          "eu_size": "38",
-          "us_size": "4",
-          "in_stock": true
-        }
-      ],
-      "mix_and_match": false,
-      "badges": ["Travel-Friendly"],
-      "rating": 4.6,
-      "review_count": 40,
-      "meta_title": "Women's Black Wool Two-Button Blazer | Paul Smith",
-      "meta_description": "Shop the Women's Black Wool Two-Button Blazer from A Suit To Travel In at Paul Smith",
-      "tags": ["blazer", "tailoring", "women", "wool", "two-button"]
-    },
-    {
-      "id": "9",
-      "url": "https://www.paulsmith.com/a-suit-to-travel-in-women-s-dark-navy-wool-travel-blazer",
-      "sku": "PSW1R254J-M00001-49",
-      "collection": "A Suit To Travel In",
-      "title": "Women's Dark Navy Wool Travel Blazer",
-      "description": "A dark navy wool blazer designed for travel, offering a polished look with crease-resistant fabric.",
-      "price": 1095,
-      "currency": "USD",
-      "formatted_price": "$1,095",
-      "discount": null,
-      "images": [
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737633/MODEL/ECOM/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_1",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1710263519/STILL/W1R/W1R-254J-L00001-49/W1R-254J-M00001-49_20pastseason",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1710263503/STILL/W1R/W1R-254J-L00001-49/W1R-254J-M00001-49_10pastseason",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1710263522/STILL/W1R/W1R-254J-L00001-49/W1R-254J-M00001-49_04old",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737638/MODEL/ECOM/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_3",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737636/MODEL/ECOM/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_2",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1710263524/STILL/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_30",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1710263526/STILL/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_40",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737640/MODEL/ECOM/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_4",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737642/MODEL/ECOM/W1R/W1R-254J-M00001-49/W1R-254J-M00001-49_5",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_800/e_volume:mute/v1724320283/VIDEO/W1R-254J-M00001-49/W2R-019B-E30425-90.mp4",
-          "type": "video"
-        }
-      ],
-      "thumbnail": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1710263503/STILL/W1R/W1R-254J-L00001-49/W1R-254J-M00001-49_10pastseason",
-      "color": "Dark Navy",
-      "color_code": "M00001-49",
-      "category": ["Women", "Suits", "Tailoring"],
-      "in_stock": true,
-      "sizes": [
-        {
-          "size": "UK 6",
-          "eu_size": "36",
-          "us_size": "2",
-          "in_stock": true
-        },
-        {
-          "size": "UK 8",
-          "eu_size": "38",
-          "us_size": "4",
-          "in_stock": true
-        }
-      ],
-      "mix_and_match": false,
-      "badges": ["Travel-Friendly"],
-      "rating": 4.5,
-      "review_count": 38,
-      "meta_title": "Women's Dark Navy Wool Travel Blazer | Paul Smith",
-      "meta_description": "Shop the Women's Dark Navy Wool Travel Blazer from A Suit To Travel In at Paul Smith",
-      "tags": ["blazer", "tailoring", "women", "wool", "travel"]
-    },
-    {
-      "id": "10",
-      "url": "https://www.paulsmith.com/a-suit-to-travel-in-women-s-dark-navy-two-button-wool-blazer",
-      "sku": "PSW1R111P-M00001-49",
-      "collection": "A Suit To Travel In",
-      "title": "Women's Dark Navy Two-Button Wool Blazer",
-      "description": "A two-button dark navy wool blazer, crafted for travel with a refined silhouette.",
-      "price": 895.0,
-      "currency": "USD",
-      "formatted_price": "$895.00",
-      "discount": null,
-      "images": [
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719398007/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_20",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737626/MODEL/ECOM/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_1",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719398009/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_10",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719398011/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_30",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719398013/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_40",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719398015/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_50",
-          "type": "still"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737628/MODEL/ECOM/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_2",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737626/MODEL/ECOM/W1R/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_3",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737632/MODEL/ECOM/W1R/W2R-111P-M00001-49/W1R-111P-M00001-49_4",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723737634/MODEL/ECOM/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_5",
-          "type": "model"
-        },
-        {
-          "url": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_800/e_volume:mute/v1719398017/VIDEO/W1R-111P-M00001-49/W1R-111P-M00001-49.mp4",
-          "type": "video"
-        }
-      ],
-      "thumbnail": "https://assets.paulsmth.com/paul-smith/products/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719398009/STILL/WIL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_10",
-      "color": "Dark Navy",
-      "color_code": "M00001-49",
-      "category": ["Women", "Suits", "Tailoring"],
-      "in_stock": true,
-      "sizes": [
-        {
-          "size": "UK 6",
-          "eu_size": "36",
-          "us_size": "2",
-          "in_stock": true
-        },
-        {
-          "size": "UK 8",
-          "eu_size": "38",
-          "us_size": "4",
-          "in_stock": true
-        }
-      ],
-      "mix_and_match": false,
-      "badges": ["Travel-Friendly"],
-      "rating": 4.7,
-      "review_count": 42,
-      "meta_title": "Women's Dark Navy Two-Button Wool Blazer | Paul Smith",
-      "meta_description": "Shop the Women's Dark Navy Two-Button Blazer from A Suit To Travel In at Paul Smith",
-      "tags": ["blazer", "tailoring", "suits", "women", "wool", "two-button"]
-    }
-  ],
   "discription": [
     {
       "id": 1,
@@ -2391,7 +1377,7 @@
       "id": 12,
       "title": "A Suit To Travel In - Women's Dusty Blue Slim-Fit Wool Trousers",
       "collection": "Shop the look",
-      "price": 525.00,
+      "price": 525.0,
       "color": "Dusty Blue",
       "color_options": "3 more colours",
       "description": "Made in Italy as part of the Paul Smith 'A Suit To Travel In' collection, these dusty blue trousers are constructed using a high-twist 100% wool yarn to create a quick recovery, crease-resistant cloth; providing a versatile and highly-practical piece of tailoring.",
@@ -2499,7 +1485,7 @@
       "id": 13,
       "title": "Women's Wool-Blend Navy Seersucker Pinstripe Wide Leg Trousers",
       "collection": "Shop the look",
-      "price": 855.00,
+      "price": 855.0,
       "original_price": "$1,195.00",
       "discount": "20% OFF",
       "color": "Navy",
@@ -2582,7 +1568,7 @@
       "id": 14,
       "title": "Women's Camel 'Storm System' Wool Belted Mac",
       "collection": "Shop the look",
-      "price": 1895.00,
+      "price": 1895.0,
       "color": "Camel",
       "color_options": "2 more colours",
       "description": "Elevate your outerwear this transitional season with this camel trench coat crafted from luxurious Loro Piana 'Green Storm System' wool. Made in Italy this coat oozes timeless appeal with features including a belted design, detachable quilted liner, concealed placket with contrast top button, and twin pockets.",
@@ -2657,7 +1643,7 @@
       "id": 15,
       "title": "Women's Terracotta Suede Jacket",
       "collection": "Shop the look",
-      "price": 850.00,
+      "price": 850.0,
       "color": "Terracotta",
       "description": "This terracotta jacket, crafted from rich suede, offers a sleek, streamlined design enhanced by subtle brand details. With a concealed zip-fastened placket for a clean look, along with a press-stud fastening at the collar for added versatility. The jacket is designed with belt loops at the hem and press-stud closure pockets for both style and functionality. Finished with a contrasting viscose lining, this statement jacket is the ideal transitional piece, blending style and practicality for a standout addition to your wardrobe.",
 
@@ -2770,7 +1756,7 @@
       "id": 17,
       "title": "Women's Straight-Fit Laser 'Swirl' Jeans",
       "product_code": "W2R-257TP-P21404-PR",
-      "price": 325.00,
+      "price": 325.0,
       "color": "Blue Wash",
       "material": "99% Organically Grown Cotton, 1% Elastane",
       "made_in": null,
@@ -2861,7 +1847,7 @@
       "id": 18,
       "title": "Women's Straight-Fit Light-Wash Jeans",
       "product_code": "W2R-257T-P21404-LT",
-      "price": 225.00,
+      "price": 225.0,
       "color": "Light-Wash",
       "material": "99% Organic Cotton, 1% Elastane",
       "made_in": null,
@@ -2920,7 +1906,7 @@
       "id": 19,
       "title": "Women's Indigo Rinse Slim-Fit 'Happy' Jeans",
       "product_code": "W2R-256T-L21404-R",
-      "price": 195.00,
+      "price": 195.0,
       "color": "Indigo",
       "material": "99% Cotton, 1% Elastane",
       "made_in": null,
@@ -2994,7 +1980,7 @@
       "id": 20,
       "title": "Women's Wool Navy Knitted Roll Neck Sweater",
       "product_code": "W2R-420N-N31241-49",
-      "price": 335.00,
+      "price": 335.0,
       "color": "Navy",
       "material": "97% Wool, 2% Nylon, 1% Polyester",
       "made_in": "China",
@@ -3032,6 +2018,936 @@
       },
       "services": ["Delivery + Returns", "Gift Wrapping"],
       "category": "Women's Knitwear",
+      "website": {
+        "main_url": "https://www.paulsmith.com/",
+        "current_section": "Womens",
+        "current_section_url": "https://www.paulsmith.com/womens"
+      }
+    },
+    {
+      "id": 21,
+      "title": "Women's Navy Lounge Sweatshirt With 'Swirl' Cuffs",
+      "product_code": "W1A-795M-MU1020-47",
+      "price": "$125.00",
+      "color": "Navy",
+      "material": "100% Cotton",
+      "made_in": "Thailand",
+      "description": "The perfect loungewear piece, this navy 100% cotton sweatshirt features raglan sleeves and contrasting 'Swirl' stripe cuffs. Designed for a comfortable fit, this loungewear essential will seamlessly elevate your at-home wardrobe.",
+      "fit": {
+        "type": ["Regular-Fit"],
+        "description": "is relaxed through the body"
+      },
+      "components": [],
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1728919824/MODEL/ECOM/W1A/W1A-795M-MU1020-47/W1A-795M-MU1020-47_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1728919826/MODEL/ECOM/W1A/W1A-795M-MU1020-47/W1A-795M-MU1020-47_3",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1728921672/MODEL/ECOM/W1A/W1A-795M-MU1020-47/W1A-795M-MU1020-47_2",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1718615128/STILL/W1A/W1A-795M-MU1020-47/W1A-795M-MU1020-47_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1718615130/STILL/W1A/W1A-795M-MU1020-47/W1A-795M-MU1020-47_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1536/v1728919824/MODEL/ECOM/W1A/W1A-795M-MU1020-47/W1A-795M-MU1020-47_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1762/v1728919826/MODEL/ECOM/W1A/W1A-795M-MU1020-47/W1A-795M-MU1020-47_3"
+      ],
+      "video": null,
+      "related_product": [
+        {
+          "name": "Women's Black Lounge Sweatpants With 'Swirl' Trims",
+          "url": "https://www.paulsmith.com/women-s-black-lounge-sweatpants-with-swirl-trims",
+          "price": "$150.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1697706360/STILL/W1A/W1A-794M-MU1020-79/W1A-794M-MU1020-79_10",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1712845916/STILL/W1A/W1A-794M-MU1020-79/W1A-794M-MU1020-79_1"
+          ]
+        },
+        {
+          "name": "Women's White Basso Leather Trainers",
+          "url": "https://www.paulsmith.com/womens-white-basso-leather-trainers",
+          "price": "$495.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1740668449/MODEL/ECOM/W1S/W1S-BAS53-NLEA-01/W1S-BAS53-NLEA-01_1",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718615133/STILL/W1S/W1S-BAS53-NLEA-01/W1S-BAS53-NLEA-01_10"
+          ]
+        }
+      ],
+      "options": {
+        "size_selection": "Select Size",
+        "mix_match_sizing": false,
+        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+      },
+      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "category": "Women's Loungewear",
+      "website": {
+        "main_url": "https://www.paulsmith.com/",
+        "current_section": "Womens",
+        "current_section_url": "https://www.paulsmith.com/womens"
+      }
+    },
+    {
+      "id": 22,
+      "title": "Women's Pink Cotton Zebra Logo Long-Sleeve T-Shirt",
+      "product_code": "W2R-141V-EP1846-21A",
+      "price": "$135.00",
+      "color": "Pink",
+      "material": "100% Organic Cotton",
+      "made_in": "Bulgaria",
+      "description": "Constructed from 100% organically grown cotton jersey, this pink long-sleeve T-shirt features our classic Zebra logo on the chest.",
+      "fit": {
+        "type": ["Regular-Fit"],
+        "description": "is relaxed through the body"
+      },
+      "components": [],
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1740670234/MODEL/ECOM/W2R/W2R-141V-EP1846-21A/W2R-141V-EP1846-21A_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1740670236/MODEL/ECOM/W2R/W2R-141V-EP1846-21A/W2R-141V-EP1846-21A_2",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1730827817/STILL/W2R/W2R-141V-EP1846-21A/W2R-141V-EP1846-21A_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1730827820/STILL/W2R/W2R-141V-EP1846-21A/W2R-141V-EP1846-21A_20",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1730822613/Product/W2R/W2R-141V-EP1846-21A/W2R-141V-EP1846-21A_1",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1730822617/Product/W2R/W2R-141V-EP1846-21A/W2R-141V-EP1846-21A_2",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1730822619/Product/W2R/W2R-141V-EP1846-21A/W2R-141V-EP1846-21A_3"
+      ],
+      "video": null,
+      "related_product": [
+        {
+          "name": "Women's Black Zebra Logo Cotton T-Shirt",
+          "url": "https://www.paulsmith.com/women-s-black-zebra-logo-organic-cotton-t-shirt",
+          "price": "$105.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1605789417/STILL/W2R/W2R-G799-EP1846-79/W2R-G799-EP1846-79_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1706873512/MODEL/ECOM/W2R/W2R-G799-EP1846-79/W2R-G799-EP1846-79_1"
+          ]
+        },
+        {
+          "name": "Women's Light Pink 'Rainbow Bunny' T-Shirt",
+          "url": "https://www.paulsmith.com/womens-light-pink-rainbow-bunny-t-shirt",
+          "price": "$115.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1726844559/STILL/W2R/W2R-G799-SP3620-21/W2R-G799-SP3620-21_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1726844557/STILL/W2R/W2R-G799-SP3620-21/W2R-G799-SP3620-21_10"
+          ]
+        },
+        {
+          "name": "Women's Black Cotton Zebra Logo Long-Sleeve T-Shirt",
+          "url": "https://www.paulsmith.com/women-s-black-organic-cotton-zebra-logo-long-sleeve-t-shirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1608645291/STILL/W2R/W2R-141V-EP1846-79/W2R-141V-EP1846-79_10",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1694687755/MODEL/ECOM/W2R/W2R-141V-EP1846-79/W2R-141V-EP1846-79_4"
+          ]
+        },
+        {
+          "name": "Women's Navy Organic Cotton Zebra Logo Long-Sleeve T-Shirt",
+          "url": "https://www.paulsmith.com/women-s-navy-organic-cotton-zebra-logo-long-sleeve-t-shirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1652360813/STILL/W2R/W2R-141V-EP1846-49/W2R-141V-EP1846-49_10",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744027306/MODEL/ECOM/W2R/W2R-141V-EP1846-49/W2R-141V-EP1846-49_7"
+          ]
+        },
+        {
+          "name": "Women's White Zebra Logo Cotton T-Shirt",
+          "url": "https://www.paulsmith.com/women-s-white-zebra-logo-organic-cotton-t-shirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719221471/STILL/W2R/W2R-G799-EP1846-01/W2R-G799-EP1846-01_10",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1740670266/MODEL/ECOM/W2R/W2R-G799-EP1846-01/W2R-G799-EP1846-01_1"
+          ]
+        },
+        {
+          "name": "Women's Powder Blue Zebra Logo Cotton T-Shirt",
+          "url": "https://www.paulsmith.com/womens-powder-blue-zebra-logo-cotton-t-shirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744718534/STILL/W2R/W2R-G799-EP1846-43A/W2R-G799-EP1846-43A_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744718531/STILL/W2R/W2R-G799-EP1846-43A/W2R-G799-EP1846-43A_10"
+          ]
+        },
+        {
+          "name": "Women's Navy Blue V-Neck Zebra T-Shirt",
+          "url": "https://www.paulsmith.com/womens-navy-blue-v-neck-zebra-t-shirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1729531828/STILL/W2R/W2R-172V-NP1846-49/W2R-172V-NP1846-49_10",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1740670241/MODEL/ECOM/W2R/W2R-172V-NP1846-49/W2R-172V-NP1846-49_1"
+          ]
+        },
+        {
+          "name": "Women's Navy Zebra Logo Cotton T-Shirt",
+          "url": "https://www.paulsmith.com/women-s-navy-zebra-logo-organic-cotton-t-shirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719221484/STILL/W2R/W2R-G799-EP1846-49/W2R-G799-EP1846-49_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1618826950/STILL/W2R/W2R-G799-EP1846-49/W2R-G799-EP1846-49_10"
+          ]
+        },
+        {
+          "name": "Women's White 'Bloom' Print T-Shirt",
+          "url": "https://www.paulsmith.com/womens-white-bloom-print-t-shirt",
+          "price": "$95.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1746788552/STILL/W2R/W2R-G799-TP5172-01/W2R-G799-TP5172-01_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1746788549/STILL/W2R/W2R-G799-TP5172-01/W2R-G799-TP5172-01_10"
+          ]
+        },
+        {
+          "name": "Women's Brown 'Swirl' PS Logo T-Shirt",
+          "url": "https://www.paulsmith.com/womens-brown-swirl-logo-t-shirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1713171862/STILL/W2R/W2R-G799-NP4842-62/W2R-G799-NP4842-62_10",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744029035/MODEL/ECOM/W2R/W2R-G799-NP4842-62/W2R-G799-NP4842-62_5"
+          ]
+        }
+      ],
+      "options": {
+        "size_selection": "Select Size",
+        "mix_match_sizing": false,
+        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+      },
+      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "category": "Women's T-Shirts",
+      "website": {
+        "main_url": "https://www.paulsmith.com/",
+        "current_section": "Womens",
+        "current_section_url": "https://www.paulsmith.com/womens"
+      }
+    },
+    {
+      "id": 23,
+      "title": "Women's Lilac Modal-Blend Zip Lounge Hoodie",
+      "product_code": "W1A-796-PU336-51",
+      "price": "$195.00",
+      "color": "Lilac",
+      "material": "65% Modal, 30% Polyester, 5% Elastane",
+      "made_in": "Thailand",
+      "description": "Made from a soft modal-blend jersey, this lilac zip lounge hoodie features a drawstring with 'Swirl Stripe' tips. Complete with two front pouch pockets, this hoodie is finished with a signature logo patch.",
+      "fit": {
+        "type": ["Regular-Fit"],
+        "description": "is relaxed through the body"
+      },
+      "components": [],
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1747665101/STILL/W1A/W1A-796-PU336-51/W1A-796-PU336-51_30",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1747665092/STILL/W1A/W1A-796-PU336-51/W1A-796-PU336-51_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1747665097/STILL/W1A/W1A-796-PU336-51/W1A-796-PU336-51_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1536/v1747665092/STILL/W1A/W1A-796-PU336-51/W1A-796-PU336-51_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1536/v1747665097/STILL/W1A/W1A-796-PU336-51/W1A-796-PU336-51_20"
+      ],
+      "video": null,
+      "related_product": [],
+      "options": {
+        "size_selection": "Select Size",
+        "mix_match_sizing": false,
+        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+      },
+      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "category": "Women's Loungewear",
+      "website": {
+        "main_url": "https://www.paulsmith.com/",
+        "current_section": "Womens",
+        "current_section_url": "https://www.paulsmith.com/womens"
+      }
+    },
+    {
+      "id": 24,
+      "title": "Women's Ecru Sweatshirt with 'Swirl' Trim",
+      "product_code": "W2R-373V-T21116-02",
+      "price": "$195.00",
+      "color": "Ecru",
+      "material": "100% Organic Cotton",
+      "made_in": "Bulgaria",
+      "description": "Elevate your casual wear with this organic cotton sweatshirt in a neutral ecru colourway with 'Swirl' trims for a distinctive touch. In a regular fit, the sweater features a loopback lining and a classic ribbed collar, hem, and cuffs. The 'Swirl' trims feature on the neckline and on the split side seams.",
+      "fit": {
+        "type": ["Regular-Fit"],
+        "description": "is relaxed through the body"
+      },
+      "components": [],
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1744381955/STILL/W2R/W2R-373V-T21116-02/W2R-373V-T21116-02_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1744381957/STILL/W2R/W2R-373V-T21116-02/W2R-373V-T21116-02_20",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1744385445/Product/W2R/W2R-373V-T21116-02/W2R-373V-T21116-02_1",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1744385447/Product/W2R/W2R-373V-T21116-02/W2R-373V-T21116-02_2",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1744385449/Product/W2R/W2R-373V-T21116-02/W2R-373V-T21116-02_3"
+      ],
+      "video": null,
+      "related_product": [
+        {
+          "name": "Women's Black 'Swirl' Logo Sweatshirt",
+          "url": "https://www.paulsmith.com/womens-black-swirl-logo-sweatshirt",
+          "price": "$205.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1715587419/STILL/W2R/W2R-352V-NP4786-79/W2R-352V-NP4786-79_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1715587417/STILL/W2R/W2R-352V-NP4786-79/W2R-352V-NP4786-79_10"
+          ]
+        },
+        {
+          "name": "Women's Black Organic Cotton 'Swirl Heart' Embroidered Sweatshirt",
+          "url": "https://www.paulsmith.com/womens-black-organic-cotton-swirl-heart-embroidered-sweatshirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747672233/STILL/W2R/W2R-352V-TP5179-79/W2R-352V-TP5179-79_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747672232/STILL/W2R/W2R-352V-TP5179-79/W2R-352V-TP5179-79_10"
+          ]
+        },
+        {
+          "name": "Women's Navy Cotton Zebra Logo Hoodie",
+          "url": "https://www.paulsmith.com/women-s-navy-cotton-zebra-hoodie",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1703155054/STILL/W2R/W2R-351V-M20616-49/W2R-351V-M20616-49_10",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1703060426/MODEL/ECOM/W2R/W2R-351V-M20616-49/W2R-351V-M20616-49_2"
+          ]
+        },
+        {
+          "name": "Women's Black Cotton Zebra Logo Hoodie",
+          "url": "https://www.paulsmith.com/women-s-black-cotton-zebra-hoodie",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1703060549/MODEL/ECOM/W2R/W2R-351V-M20616-79/W2R-351V-M20616-79_1",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1703060548/MODEL/ECOM/W2R/W2R-351V-M20616-79/W2R-351V-M20616-79_3"
+          ]
+        }
+      ],
+      "options": {
+        "size_selection": "Select Size",
+        "mix_match_sizing": false,
+        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+      },
+      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "category": "Women's Sweatshirts & Hoodies",
+      "website": {
+        "main_url": "https://www.paulsmith.com/",
+        "current_section": "Womens",
+        "current_section_url": "https://www.paulsmith.com/womens"
+      }
+    },
+    {
+      "id": 25,
+      "title": "Women's Steel Blue Zebra Logo Cotton Sweatshirt",
+      "product_code": "W2R-352V-M20616-43",
+      "price": "$132.00",
+      "original_price": "$165.00",
+      "color": "Steel Blue",
+      "material": "100% Organic Cotton",
+      "made_in": "Bulgaria",
+      "description": "Made from soft organically grown cotton, this steel blue crew neck sweatshirt is cut for a relaxed shape and features our classic zebra logo stitched on the chest.",
+      "fit": {
+        "type": ["Relaxed-Fit"],
+        "description": "is loose through the body"
+      },
+      "components": [],
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1740412883/MODEL/ECOM/W2R/W2R-352V-M20616-43/W2R-352V-M20616-43_3",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1740412879/MODEL/ECOM/W2R/W2R-352V-M20616-43/W2R-352V-M20616-43_2",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1732255482/STILL/W2R/W2R-352V-M20616-43/W2R-352V-M20616-43_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1732255484/STILL/W2R/W2R-352V-M20616-43/W2R-352V-M20616-43_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1732255488/STILL/W2R/W2R-352V-M20616-43/W2R-352V-M20616-43_30",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1740412875/MODEL/ECOM/W2R/W2R-352V-M20616-43/W2R-352V-M20616-43_1",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1732255337/Product/W2R/W2R-352V-M20616-43/W2R-352V-M20616-43_4",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1732255331/Product/W2R/W2R-352V-M20616-43/W2R-352V-M20616-43_2",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1732255329/Product/W2R/W2R-352V-M20616-43/W2R-352V-M20616-43_1",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1732255333/Product/W2R/W2R-352V-M20616-43/W2R-352V-M20616-43_3",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1762/v1740412883/MODEL/ECOM/W2R/W2R-352V-M20616-43/W2R-352V-M20616-43_3"
+      ],
+      "video": null,
+      "related_product": [
+        {
+          "name": "Women's Cotton-Blend Navy Pleated Cropped Trousers",
+          "url": "https://www.paulsmith.com/womens-cotton-blend-navy-pleated-cropped-trousers",
+          "price": "$430.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738148445/STILL/W2R/W2R-344T-P30368-48/W2R-344T-P30368-48_10",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739462436/MODEL/ECOM/W2R/W2R-344T-P30368-48/W2R-344T-P30368-48_1"
+          ]
+        },
+        {
+          "name": "Women's Leather Silver 'Dover' Retro Gum Trainers",
+          "url": "https://www.paulsmith.com/womens-leather-silver-dover-retro-gum-trainers",
+          "price": "$295.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1748509345/W1S-DVR09-PLEA-28_10_ncy1j2",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1737471712/STILL/W1S/W1S-DVR09-PLEA-28/W1S-DVR09-PLEA-28_10"
+          ]
+        }
+      ],
+      "options": {
+        "size_selection": "Select Size",
+        "mix_match_sizing": false,
+        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+      },
+      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "category": "Women's Sweatshirts & Hoodies",
+      "website": {
+        "main_url": "https://www.paulsmith.com/",
+        "current_section": "Womens",
+        "current_section_url": "https://www.paulsmith.com/womens"
+      }
+    },
+    {
+      "id": 26,
+      "title": "Women's Pink Cotton Zebra Logo Long-Sleeve T-Shirt",
+      "product_code": "W2R-141V-EP1846-21A",
+      "price": "$135.00",
+      "color": "Pink",
+      "material": "100% Organic Cotton",
+      "made_in": "Bulgaria",
+      "description": "Constructed from 100% organically grown cotton jersey, this pink long-sleeve T-shirt features our classic Zebra logo on the chest.",
+      "fit": {
+        "type": ["Regular-Fit"],
+        "description": "is relaxed through the body"
+      },
+      "components": [],
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1740670234/MODEL/ECOM/W2R/W2R-141V-EP1846-21A/W2R-141V-EP1846-21A_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1740670236/MODEL/ECOM/W2R/W2R-141V-EP1846-21A/W2R-141V-EP1846-21A_2",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1730827817/STILL/W2R/W2R-141V-EP1846-21A/W2R-141V-EP1846-21A_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1730827820/STILL/W2R/W2R-141V-EP1846-21A/W2R-141V-EP1846-21A_20",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1730822613/Product/W2R/W2R-141V-EP1846-21A/W2R-141V-EP1846-21A_1",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1730822617/Product/W2R/W2R-141V-EP1846-21A/W2R-141V-EP1846-21A_2",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1730822619/Product/W2R/W2R-141V-EP1846-21A/W2R-141V-EP1846-21A_3"
+      ],
+      "video": null,
+      "related_product": [
+        {
+          "name": "Women's Black Zebra Logo Cotton T-Shirt",
+          "url": "https://www.paulsmith.com/women-s-black-zebra-logo-organic-cotton-t-shirt",
+          "price": "$105.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1605789417/STILL/W2R/W2R-G799-EP1846-79/W2R-G799-EP1846-79_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1706873512/MODEL/ECOM/W2R/W2R-G799-EP1846-79/W2R-G799-EP1846-79_1"
+          ]
+        },
+        {
+          "name": "Women's Light Pink 'Rainbow Bunny' T-Shirt",
+          "url": "https://www.paulsmith.com/womens-light-pink-rainbow-bunny-t-shirt",
+          "price": "$115.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1726844559/STILL/W2R/W2R-G799-SP3620-21/W2R-G799-SP3620-21_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1726844557/STILL/W2R/W2R-G799-SP3620-21/W2R-G799-SP3620-21_10"
+          ]
+        },
+        {
+          "name": "Women's Black Cotton Zebra Logo Long-Sleeve T-Shirt",
+          "url": "https://www.paulsmith.com/women-s-black-organic-cotton-zebra-logo-long-sleeve-t-shirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1608645291/STILL/W2R/W2R-141V-EP1846-79/W2R-141V-EP1846-79_10",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1694687755/MODEL/ECOM/W2R/W2R-141V-EP1846-79/W2R-141V-EP1846-79_4"
+          ]
+        },
+        {
+          "name": "Women's Navy Organic Cotton Zebra Logo Long-Sleeve T-Shirt",
+          "url": "https://www.paulsmith.com/women-s-navy-organic-cotton-zebra-logo-long-sleeve-t-shirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1652360813/STILL/W2R/W2R-141V-EP1846-49/W2R-141V-EP1846-49_10",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744027306/MODEL/ECOM/W2R/W2R-141V-EP1846-49/W2R-141V-EP1846-49_7"
+          ]
+        },
+        {
+          "name": "Women's White Zebra Logo Cotton T-Shirt",
+          "url": "https://www.paulsmith.com/women-s-white-zebra-logo-organic-cotton-t-shirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719221471/STILL/W2R/W2R-G799-EP1846-01/W2R-G799-EP1846-01_10",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1740670266/MODEL/ECOM/W2R/W2R-G799-EP1846-01/W2R-G799-EP1846-01_1"
+          ]
+        },
+        {
+          "name": "Women's Powder Blue Zebra Logo Cotton T-Shirt",
+          "url": "https://www.paulsmith.com/womens-powder-blue-zebra-logo-cotton-t-shirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744718534/STILL/W2R/W2R-G799-EP1846-43A/W2R-G799-EP1846-43A_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744718531/STILL/W2R/W2R-G799-EP1846-43A/W2R-G799-EP1846-43A_10"
+          ]
+        },
+        {
+          "name": "Women's Navy Blue V-Neck Zebra T-Shirt",
+          "url": "https://www.paulsmith.com/womens-navy-blue-v-neck-zebra-t-shirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1729531828/STILL/W2R/W2R-172V-NP1846-49/W2R-172V-NP1846-49_10",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1740670241/MODEL/ECOM/W2R/W2R-172V-NP1846-49/W2R-172V-NP1846-49_1"
+          ]
+        },
+        {
+          "name": "Women's Navy Zebra Logo Cotton T-Shirt",
+          "url": "https://www.paulsmith.com/women-s-navy-zebra-logo-organic-cotton-t-shirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1719221484/STILL/W2R/W2R-G799-EP1846-49/W2R-G799-EP1846-49_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1618826950/STILL/W2R/W2R-G799-EP1846-49/W2R-G799-EP1846-49_10"
+          ]
+        },
+        {
+          "name": "Women's White 'Bloom' Print T-Shirt",
+          "url": "https://www.paulsmith.com/womens-white-bloom-print-t-shirt",
+          "price": "$95.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1746788552/STILL/W2R/W2R-G799-TP5172-01/W2R-G799-TP5172-01_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1746788549/STILL/W2R/W2R-G799-TP5172-01/W2R-G799-TP5172-01_10"
+          ]
+        },
+        {
+          "name": "Women's Brown 'Swirl' PS Logo T-Shirt",
+          "url": "https://www.paulsmith.com/womens-brown-swirl-logo-t-shirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1713171862/STILL/W2R/W2R-G799-NP4842-62/W2R-G799-NP4842-62_10",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744029035/MODEL/ECOM/W2R/W2R-G799-NP4842-62/W2R-G799-NP4842-62_5"
+          ]
+        }
+      ],
+      "options": {
+        "size_selection": "Select Size",
+        "mix_match_sizing": false,
+        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+      },
+      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "category": "Women's T-Shirts",
+      "website": {
+        "main_url": "https://www.paulsmith.com/",
+        "current_section": "Womens",
+        "current_section_url": "https://www.paulsmith.com/womens"
+      }
+    },
+    {
+      "id": 27,
+      "title": "Women's Silk-Blend 'Dusky Swirl' Print Shirt",
+      "product_code": "W2R-335B-N31190-92",
+      "price": "$395.00",
+      "color": "Swirl",
+      "material": "Silk-Blend Georgette",
+      "made_in": "Portugal",
+      "description": "Made in Portugal from silk-blend georgette composition for a lightweight feel, this shirt features a 'Dusky Swirl' pattern throughout, this shirt is cut for a relaxed-fit blouse-silhouette, creating the perfect shape for both smart casual and formal occasions. For a feminine feel the shirt features a delicately pleated cuff for a subtle finishing touch.",
+      "fit": {
+        "type": ["Relaxed-Fit"],
+        "description": "is loose through the body"
+      },
+      "components": [],
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1719820985/STILL/W2R/W2R-335B-N31190-92/W2R-335B-N31190-92_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1723735881/MODEL/ECOM/W2R/W2R-335B-N31190-92/W2R-335B-N31190-92_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1723735887/MODEL/ECOM/W2R/W2R-335B-N31190-92/W2R-335B-N31190-92_3",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1723735885/MODEL/ECOM/W2R/W2R-335B-N31190-92/W2R-335B-N31190-92_2",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1719820983/STILL/W2R/W2R-335B-N31190-92/W2R-335B-N31190-92_10",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1719820955/Product/W2R/W2R-335B-N31190-92/W2R-335B-N31190-92_2",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1719820953/Product/W2R/W2R-335B-N31190-92/W2R-335B-N31190-92_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1762/v1723735887/MODEL/ECOM/W2R/W2R-335B-N31190-92/W2R-335B-N31190-92_3"
+      ],
+      "video": null,
+      "related_product": [
+        {
+          "name": "Women's A Suit To Travel In - Navy Drawstring Wide Leg Trousers",
+          "url": "https://www.paulsmith.com/a-suit-to-travel-in-navy-drawstring-wide-leg-trousers",
+          "price": "$575.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1732715608/STILL/W1R/W1R-255T-N00001-49/W1R-255T-N00001-49_30",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1732715607/STILL/W1R/W1R-255T-N00001-49/W1R-255T-N00001-49_50"
+          ]
+        },
+        {
+          "name": "Women's Black Leather 'Signature Stripe' Cross-Body Bag",
+          "url": "https://www.paulsmith.com/women-s-black-leather-signature-stripe-crossbody-bag",
+          "price": "$695.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1702997364/MODEL/ECOM/W1A/W1A-7562-LSIGIN-79-0/W1A-7562-LSIGIN-79-0_2",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1699351396/STILL/W1A/W1A-7562-LSIGIN-79-0/W1A-7562-LSIGIN-79-0_10"
+          ]
+        },
+        {
+          "name": "Women's Black Leather 'Sonora' Heel Court Shoes",
+          "url": "https://www.paulsmith.com/womens-black-sonora-heel-court-shoes",
+          "price": "$550.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718615164/STILL/W1S/W1S-SNA05-NLEA-79/W1S-SNA05-NLEA-79_50",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718615155/STILL/W1S/W1S-SNA05-NLEA-79/W1S-SNA05-NLEA-79_10"
+          ]
+        },
+        {
+          "name": "Women's 'Faded Swirl' Shirt",
+          "url": "https://www.paulsmith.com/womens-faded-swirl-shirt",
+          "price": "$325.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1731686483/STILL/W2R/W2R-331B-P31281-92/W2R-331B-P31281-92_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1740414673/MODEL/ECOM/W2R/W2R-331B-P31281-92/W2R-331B-P31281-92_1"
+          ]
+        },
+        {
+          "name": "Women's Black Silk-Blend Blouse",
+          "url": "https://www.paulsmith.com/womens-black-silk-blend-blouse",
+          "price": "$375.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1724855499/STILL/W2R/W2R-335B-N31186-79/W2R-335B-N31186-79_10",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744027331/MODEL/ECOM/W2R/W2R-335B-N31186-79/W2R-335B-N31186-79_4"
+          ]
+        },
+        {
+          "name": "Women's Cream Silk-Blend Blouse",
+          "url": "https://www.paulsmith.com/womens-cream-silk-blend-blouse",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1724941853/STILL/W2R/W2R-335B-N31186-05/W2R-335B-N31186-05_10",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023808/MODEL/ECOM/W2R/W2R-335B-N31186-05/W2R-335B-N31186-05_4"
+          ]
+        },
+        {
+          "name": "Women's White Cotton 'Liberty Floral' Print Shirt",
+          "url": "https://www.paulsmith.com/womens-white-cotton-liberty-floral-print-shirt",
+          "price": "$350.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1745335839/STILL/W1R/W1R-329B-T02703-01/W1R-329B-T02703-01_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1745335836/STILL/W1R/W1R-329B-T02703-01/W1R-329B-T02703-01_10"
+          ]
+        },
+        {
+          "name": "Women's White Mixed Stripe and 'Painted Spot' Cotton Shirt",
+          "url": "https://www.paulsmith.com/womens-white-mixed-stripe-and-painted-spot-cotton-shirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747643493/STILL/W2R/W2R-331B-T31320-05/W2R-331B-T31320-05_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747643488/STILL/W2R/W2R-331B-T31320-05/W2R-331B-T31320-05_10"
+          ]
+        },
+        {
+          "name": "Women's Navy Cotton 'Liberty Floral' Print Shirt",
+          "url": "https://www.paulsmith.com/womens-navy-cotton-liberty-floral-print-shirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1745335848/STILL/W1R/W1R-329B-T02703-47/W1R-329B-T02703-47_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1745335844/STILL/W1R/W1R-329B-T02703-47/W1R-329B-T02703-47_10"
+          ]
+        },
+        {
+          "name": "Women's Tailored-Fit White 'Liberty Floral' Print Shirt",
+          "url": "https://www.paulsmith.com/womens-tailored-fit-white-liberty-floral-print-shirt",
+          "price": "$355.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1731497519/STILL/W1R/W1R-329B-P02562-01/W1R-329B-P02562-01_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1740412829/MODEL/ECOM/W1R/W1R-329B-P02562-01/W1R-329B-P02562-01_1"
+          ]
+        },
+        {
+          "name": "Women's Multicolour Check Shirt",
+          "url": "https://www.paulsmith.com/womens-multicolour-check-shirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747845325/STILL/W2R/W2R-372B-T22386-75/W2R-372B-T22386-75_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747845323/STILL/W2R/W2R-372B-T22386-75/W2R-372B-T22386-75_10"
+          ]
+        },
+        {
+          "name": "Women's Blue Cotton Stripe Shirt",
+          "url": "https://www.paulsmith.com/womens-blue-cotton-stripe-shirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747657828/STILL/W2R/W2R-372B-T31315-49/W2R-372B-T31315-49_30",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747657824/STILL/W2R/W2R-372B-T31315-49/W2R-372B-T31315-49_10"
+          ]
+        },
+        {
+          "name": "Women's 'Signature Stripe' Trim Shirt",
+          "url": "https://www.paulsmith.com/womens-signature-stripe-trim-shirt",
+          "price": "$425.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747652469/STILL/W1R/W1R-360B-T10955-20/W1R-360B-T10955-20_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747652466/STILL/W1R/W1R-360B-T10955-20/W1R-360B-T10955-20_10"
+          ]
+        },
+        {
+          "name": "Women's Cotton Navy Blue Stripe Shirt",
+          "url": "https://www.paulsmith.com/womens-cotton-navy-blue-stripe-shirt",
+          "price": "$475.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747652463/STILL/W1R/W1R-360B-P00811-47/W1R-360B-P00811-47_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747652459/STILL/W1R/W1R-360B-P00811-47/W1R-360B-P00811-47_10"
+          ]
+        },
+        {
+          "name": "Women's White 'Signature Stripe' Trim Shirt",
+          "url": "https://www.paulsmith.com/womens-white-signature-stripe-trim-shirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747672226/STILL/W1R/W1R-360B-T10955-01/W1R-360B-T10955-01_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747672224/STILL/W1R/W1R-360B-T10955-01/W1R-360B-T10955-01_10"
+          ]
+        }
+      ],
+      "options": {
+        "size_selection": "Select Size",
+        "mix_match_sizing": false,
+        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+      },
+      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "category": "Women's Shirts",
+      "website": {
+        "main_url": "https://www.paulsmith.com/",
+        "current_section": "Womens",
+        "current_section_url": "https://www.paulsmith.com/womens"
+      }
+    },
+    {
+      "id": 28,
+      "title": "Women's Navy and White Cotton Stripe 'Embroidered Flowers' Knitted Vest",
+      "product_code": "W2R-560N-P31302-49",
+      "price": "$295.00",
+      "color": "Navy and White",
+      "material": "100% Organic Cotton",
+      "made_in": "China",
+      "description": "Crafted from organically grown cotton this navy and white vest features a lightweight knit construction and is complemented with seasonal 'Embroidered Flowers' for a distinctive touch. With a V-neck neckline, this vest can easily be paired with a shirt for luxurious layering or worn individually during warmer days.",
+      "fit": {
+        "type": ["Regular-Fit"],
+        "description": "Relaxed through the body"
+      },
+      "components": [],
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739462449/MODEL/ECOM/W2R/W2R-560N-P31302-49/W2R-560N-P31302-49_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739462454/MODEL/ECOM/W2R/W2R-560N-P31302-49/W2R-560N-P31302-49_3",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739462452/MODEL/ECOM/W2R/W2R-560N-P31302-49/W2R-560N-P31302-49_2",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1736416891/STILL/W2R/W2R-560N-P31302-49/W2R-560N-P31302-49_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1736416892/STILL/W2R/W2R-560N-P31302-49/W2R-560N-P31302-49_20",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1736285836/Product/W2R/W2R-560N-P31302-49/W2R-560N-P31302-49_2",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1736285837/Product/W2R/W2R-560N-P31302-49/W2R-560N-P31302-49_3",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1736285834/Product/W2R/W2R-560N-P31302-49/W2R-560N-P31302-49_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1762/v1739462454/MODEL/ECOM/W2R/W2R-560N-P31302-49/W2R-560N-P31302-49_3"
+      ],
+      "video": null,
+      "related_product": [
+        {
+          "name": "Women's Relaxed-Fit Navy Cotton-Blend Blazer",
+          "url": "https://www.paulsmith.com/womens-relaxed-fit-navy-cotton-blend-blazer",
+          "price": "$745.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738940499/STILL/W2R/W2R-392JB-P30368-48/W2R-392JB-P30368-48_10",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739462442/MODEL/ECOM/W2R/W2R-392JB-P30368-48/W2R-392JB-P30368-48_1"
+          ]
+        },
+        {
+          "name": "Women's Cotton-Blend Navy Pleated Cropped Trousers",
+          "url": "https://www.paulsmith.com/womens-cotton-blend-navy-pleated-cropped-trousers",
+          "price": "$430.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738148445/STILL/W2R/W2R-344T-P30368-48/W2R-344T-P30368-48_10",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739462436/MODEL/ECOM/W2R/W2R-344T-P30368-48/W2R-344T-P30368-48_1"
+          ]
+        },
+        {
+          "name": "Women's Nubuck Purple 'Dover' Colourblock Retro Gum Trainers",
+          "url": "https://www.paulsmith.com/womens-nubuck-purple-dover-colourblock-retro-gum-trainers",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739871059/MODEL/ECOM/W1S/W1S-DVR07-PNUB-53/W1S-DVR07-PNUB-53_1",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1737471702/STILL/W1S/W1S-DVR07-PNUB-53/W1S-DVR07-PNUB-53_10"
+          ]
+        }
+      ],
+      "options": {
+        "size_selection": "Select Size",
+        "mix_match_sizing": false,
+        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+      },
+      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "category": "Women's Knitwear",
+      "subcategory": "Women's V Necks",
+      "website": {
+        "main_url": "https://www.paulsmith.com/",
+        "current_section": "Womens",
+        "current_section_url": "https://www.paulsmith.com/womens"
+      }
+    },
+    {
+      "id": 28,
+      "title": "Women's Light Blue Shirt With 'Swirl' Cuff Lining",
+      "product_code": "W2R-019BB-P21598-41",
+      "price": "$250.00",
+      "color": "Light Blue",
+      "material": "96% Cotton, 4% Elastane",
+      "made_in": "Portugal",
+      "description": "Made in Portugal from lightweight cotton with stretch for added comfort, this light blue long-sleeve shirt features our timeless 'Swirl' print as a contrast cuff lining. A wardrobe essential, this shirt is perfect for pairing with tailoring or styling with jeans and trainers for a laid-back look.",
+      "fit": {
+        "type": ["Regular-Fit"],
+        "description": "is relaxed through the body"
+      },
+      "components": [],
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1733248835/STILL/W2R/W2R-019BB-P21598-41/W2R-019BB-P21598-41_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1733248837/STILL/W2R/W2R-019BB-P21598-41/W2R-019BB-P21598-41_20",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1733248815/Product/W2R/W2R-019BB-P21598-41/W2R-019BB-P21598-41_1",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1733248819/Product/W2R/W2R-019BB-P21598-41/W2R-019BB-P21598-41_2",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1733248822/Product/W2R/W2R-019BB-P21598-41/W2R-019BB-P21598-41_3",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1733248825/Product/W2R/W2R-019BB-P21598-41/W2R-019BB-P21598-41_4"
+      ],
+      "video": null,
+      "related_product": [],
+      "options": {
+        "size_selection": "Select Size",
+        "mix_match_sizing": false,
+        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+      },
+      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "category": "Women's Shirts",
+      "website": {
+        "main_url": "https://www.paulsmith.com/",
+        "current_section": "Womens",
+        "current_section_url": "https://www.paulsmith.com/womens"
+      }
+    },
+    {
+      "id": 29,
+      "title": "Women's White Cotton Broderie Panel Shirt",
+      "product_code": "W2R-324B-P21598-01",
+      "price": "$250.00",
+      "color": "White",
+      "material": "Cotton with Stretch",
+      "made_in": "Portugal",
+      "description": "Made in Portugal from a lightweight cotton with stretch for comfort, this summer-ready shirt features tonal Broderie panels on the shoulders and a laid-back open collar.",
+      "fit": {
+        "type": ["Regular-Fit"],
+        "description": "Relaxed through the body"
+      },
+      "components": [],
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1740414663/MODEL/ECOM/W2R/W2R-324B-P21598-01/W2R-324B-P21598-01_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1740414670/MODEL/ECOM/W2R/W2R-324B-P21598-01/W2R-324B-P21598-01_4",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1740414668/MODEL/ECOM/W2R/W2R-324B-P21598-01/W2R-324B-P21598-01_3",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1740414665/MODEL/ECOM/W2R/W2R-324B-P21598-01/W2R-324B-P21598-01_2",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpt,q_auto,w_1228/v1733227272/STILL/W2R/W2R-324B-P21598-01/W2R-324B-P21598-01_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1733227274/STILL/W2R/W2R-324B-P21598-01/W2R-324B-P21598-01_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1733227277/STILL/W2R/W2R-324B-P21598-01/W2R-324B-P21598-01_30",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1733227248/Product/W2R/W2R-324B-P21598-01/W2R-324B-P21598-01_1",
+        "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1733227252/Product/W2R/W2R-324B-P21598-01/W2R-324B-P21598-01_2"
+      ],
+      "video": null,
+      "related_product": [
+        {
+          "name": "Women's Straight-Fit Laser 'Swirl' Jeans",
+          "url": "https://www.paulsmith.com/womens-straight-fit-laser-swirl-jeans",
+          "price": "$325.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1735905629/STILL/W2R/W2R-257TP-P21404-PR/W2R-257TP-P21404-PR_10",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739464265/MODEL/ECOM/W2R/W2R-257TP-P21404-PR/W2R-257TP-P21404-PR_1"
+          ]
+        },
+        {
+          "name": "Women's Leather Silver 'Dover' Retro Gum Trainers",
+          "url": "https://www.paulsmith.com/womens-leather-silver-dover-retro-gum-trainers",
+          "price": "$295.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1748509345/W1S-DVR09-PLEA-28_10_ncy1j2",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1737471712/STILL/W1S/W1S-DVR09-PLEA-28/W1S-DVR09-PLEA-28_10"
+          ]
+        },
+        {
+          "name": "Women's White 'Signature Stripe' Cuff Cotton Shirt",
+          "url": "https://www.paulsmith.com/women-s-white-signature-stripe-cuff-shirt",
+          "price": "$355.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1707903053/STILL/W1R/W1R-329B-M10955-01/W1R-329B-M10955-01_10",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744023757/MODEL/ECOM/W1R/W1R-329B-M10955-01/W1R-329B-M10955-01_4"
+          ]
+        },
+        {
+          "name": "Women's White Stretch-Cotton 'Swirl' Cuff Shirt",
+          "url": "https://www.paulsmith.com/womens-white-stretch-cotton-swirl-cuff-shirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1717601497/STILL/W2R/W2R-019BB-N21598-01/W2R-019BB-N21598-01_10",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1728918073/MODEL/ECOM/W2R/W2R-019BB-N21598-01/W2R-019BB-N21598-01_1"
+          ]
+        },
+        {
+          "name": "Women's White 'Painted Spot' Cotton Shirt",
+          "url": "https://www.paulsmith.com/womens-white-painted-spot-cotton-shirt",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747643509/STILL/W2R/W2R-371B-T31320-01/W2R-371B-T31320-01_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747643506/STILL/W2R/W2R-371B-T31320-01/W2R-371B-T31320-01_10"
+          ]
+        },
+        {
+          "name": "Women's Light Blue Shirt With 'Swirl' Cuff Lining",
+          "url": "https://www.paulsmith.com/womens-light-blue-shirt-with-swirl-cuff-lining",
+          "price": null,
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1733248837/STILL/W2R/W2R-019BB-P21598-41/W2R-019BB-P21598-41_20",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1733248835/STILL/W2R/W2R-019BB-P21598-41/W2R-019BB-P21598-41_10"
+          ]
+        }
+      ],
+      "options": {
+        "size_selection": "Select Size",
+        "mix_match_sizing": false,
+        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+      },
+      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "category": "Women's Shirts",
+      "website": {
+        "main_url": "https://www.paulsmith.com/",
+        "current_section": "Womens",
+        "current_section_url": "https://www.paulsmith.com/womens"
+      }
+    },
+    {
+      "id": 30,
+      "title": "Women's Navy Blue Silk-Blend Fluted Top",
+      "product_code": "W2R-271M-P31186-47",
+      "price": "$225.00",
+      "color": "Blue",
+      "material": "Silk-Blend",
+      "made_in": "Portugal",
+      "description": "Crafted in Portugal from a soft silk-blend, this navy blue top features fluted sleeves, for an elegant silhouette. Complete with a 'Swirl' trim key hole fastening, this elevated staple is ideal for versatile, day-to-night styling.",
+      "fit": {
+        "type": ["Regular-Fit"],
+        "description": "Relaxed through the body"
+      },
+      "components": [],
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1740414639/MODEL/ECOM/W2R/W2R-271M-P31186-47/W2R-271M-P31186-47_3",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1740414636/MODEL/ECOM/W2R/W2R-271M-P31186-47/W2R-271M-P31186-47_2",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1738254739/STILL/W2R/W2R-271M-P31186-47/W2R-271M-P31186-47_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1738254742/STILL/W2R/W2R-271M-P31186-47/W2R-271M-P31186-47_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1740414634/MODEL/ECOM/W2R/W2R-271M-P31186-47/W2R-271M-P31186-47_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1536/v1740414634/MODEL/ECOM/W2R/W2R-271M-P31186-47/W2R-271M-P31186-47_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1536/v1738254739/STILL/W2R/W2R-271M-P31186-47/W2R-271M-P31186-47_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1762/v1740414639/MODEL/ECOM/W2R/W2R-271M-P31186-47/W2R-271M-P31186-47_3"
+      ],
+      "video": null,
+      "related_product": [
+        {
+          "name": "Women's Blue Cotton-Blend Dogtooth Jacket",
+          "url": "https://www.paulsmith.com/womens-blue-cotton-blend-dogtooth-jacket",
+          "price": "$695.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1740414656/MODEL/ECOM/W2R/W2R-298JC-P31259-44/W2R-298JC-P31259-44_1"
+          ],
+          "video": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_800/e_volume:mute/v1741706125/VIDEO/W2R-298JC-P31259-44/W2R-298JC-P31259-44.mp4"
+        },
+        {
+          "name": "Women's Cotton-Blend Navy Pleated Cropped Trousers",
+          "url": "https://www.paulsmith.com/womens-cotton-blend-navy-pleated-cropped-trousers",
+          "price": "$430.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738148445/STILL/W2R/W2R-344T-P30368-48/W2R-344T-P30368-48_10",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739462436/MODEL/ECOM/W2R/W2R-344T-P30368-48/W2R-344T-P30368-48_1"
+          ]
+        },
+        {
+          "name": "Women's Leather Silver 'Dover' Retro Gum Trainers",
+          "url": "https://www.paulsmith.com/womens-leather-silver-dover-retro-gum-trainers",
+          "price": "$295.00",
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1748509345/W1S-DVR09-PLEA-28_10_ncy1j2",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1737471712/STILL/W1S/W1S-DVR09-PLEA-28/W1S-DVR09-PLEA-28_10"
+          ]
+        }
+      ],
+      "options": {
+        "size_selection": "Select Size",
+        "mix_match_sizing": false,
+        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+      },
+      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "category": "Women's Tops",
+      "subcategory": "Women's Short Sleeve Tops",
       "website": {
         "main_url": "https://www.paulsmith.com/",
         "current_section": "Womens",

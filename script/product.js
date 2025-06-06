@@ -6,6 +6,8 @@ async function get_data() {
   const res = await fetch("http://localhost:3000/discription");
   const data = await res.json();
 
+  document.getElementById("items").innerText = `${data.length} items`;
+
   local_json_data = data;
 
   get_data_list(data);
@@ -69,8 +71,10 @@ sorting_filter.addEventListener("change", () => {
     sorted_data.sort((a, b) => a.price - b.price);
   } else if (selected === "hight to low") {
     sorted_data.sort((a, b) => b.price - a.price);
-  } else if (selected === "Latest items") {
-    sorted_data.sort((a, b) => new Date(b.date) - new Date(a.date)); // assuming you have `date`
+  } else if (selected === "Women") {
+    sorted_data = sorted_data.filter((el, i) => el.title.includes("Women") || el.title.includes("Women's"))
+    get_data_list(sorted_data);
+    // sorted_data.sort((a, b) => new Date(b.date) - new Date(a.date)); // assuming you have `date`
   } //else if (selected === "Recomended") {
     // Optional: define your recommended logic, or reset
   //   sorted_data = [...local_json_data]; // or some recommendation logic

@@ -22,20 +22,20 @@ async function get_data() {
   document.getElementById("price").innerHTML = data.price;
   document.getElementById("color").innerHTML = data.color;
 
-  if(data.components.length>=2){
-    document.getElementById("img-1").innerHTML = create_element("img", ["w-full", "h-auto", "rounded"], data.components[0].images[0])
-    document.getElementById("img-2").innerHTML = create_element("img", ["w-full", "h-auto", "rounded"], data.components[1].images[0])
-  }else{
-    document.getElementById("img-1").src = data.images[0]
-    document.getElementById("img-2").src = data.images[1]
-  }
-
-  map_image(data.images);
+  map_image(data, data.images);
 }
 
 get_data();
 
-function map_image(images) {
+function map_image(data, images) {
+  if(data.components && data.components.length){
+    document.getElementById("img-1-container").appendChild(create_element("img", ["w-full", "h-auto", "rounded"], data.components[0].images[0]))
+    document.getElementById("img-2-container").appendChild(create_element("img", ["w-full", "h-auto", "rounded"], data.components[1].images[0]))
+  }else{
+    document.getElementById("img-1").src = data.images[0]
+    document.getElementById("img-2").src = data.images[1]
+  }
+  
   const image_list = images.map((el, i) => create_element("img", ["w-full", "h-auto", "rounded"], el))
 
   image_list.forEach((img) =>{
