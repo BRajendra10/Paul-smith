@@ -39,8 +39,6 @@ function product_info(images){
     </div>
   </div>`
 
-  console.log(product);
-
   document.getElementById("product-info").innerHTML = product;
 }
 

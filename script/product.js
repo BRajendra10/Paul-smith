@@ -1,16 +1,19 @@
 const products_container = document.getElementById("products-container");
 const sorting_filter = document.getElementById("filter");
 const filter_color = document.getElementById("filter-color");
-let local_json_data;
 
+const data = await get_data();
+let local_json_data = data;
+
+get_data_list(data);
+
+document.getElementById("items").innerText = `${data.length} items`;
 
 async function get_data() {
   const res = await fetch("http://localhost:3000/discription");
   const data = await res.json();
 
-  document.getElementById("items").innerText = `${data.length} items`;
-  local_json_data = data;
-  get_data_list(data);
+  return data
 }
 
 async function get_colors_data() {
@@ -19,8 +22,6 @@ async function get_colors_data() {
 
   return data;
 }
-
-get_data();
 
 function get_data_list(data) {
   const data_list = data.map((el, i) => product(el));
@@ -91,7 +92,7 @@ filter_color.addEventListener("change", () => {
   let selected = filter_color.value;
   let sorted_data = [...local_json_data]; // clone
 
-  const colorGroup = colors.find((color) => color.name === selected);
+  const colorGroup = colors.find((color) => color.name.toLowerCase() === selected.toLowerCase());
 
   if (colorGroup) {
     const selectedColorNames = colorGroup.color.map(c => c.name);
