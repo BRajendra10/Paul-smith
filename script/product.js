@@ -69,16 +69,13 @@ sorting_filter.addEventListener("change", () => {
 
   if (selected === "low to high") {
     sorted_data.sort((a, b) => a.price - b.price);
-    get_data_list(sorted_data);
   } else if (selected === "hight to low") {
     sorted_data.sort((a, b) => b.price - a.price);
-    get_data_list(sorted_data);
   } else if (selected === "Women") {
     sorted_data = sorted_data.filter((el, i) => el.title.includes("Women's"))
-    get_data_list(sorted_data);
   } else if (selected === "Men") {
-    console.log(selected);
     sorted_data = sorted_data.filter((el, i) => el.title.includes("Men's"))
-    get_data_list(sorted_data);
   }
+
+  get_data_list(sorted_data);
 });
