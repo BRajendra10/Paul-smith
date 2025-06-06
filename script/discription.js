@@ -19,10 +19,16 @@ async function get_data() {
   const data = await res.json();
 
   document.getElementById("title").innerHTML = data.title;
-  document.getElementById("price").innerHTML = data.formatted_price;
+  document.getElementById("price").innerHTML = data.price;
   document.getElementById("color").innerHTML = data.color;
-  document.getElementById("img-1").src = data.images[0].url
-  document.getElementById("img-2").src = data.images[1].url
+
+  if(data.components.length>=2){
+    document.getElementById("img-1").innerHTML = create_element("img", ["w-full", "h-auto", "rounded"], data.components[0].images[0])
+    document.getElementById("img-2").innerHTML = create_element("img", ["w-full", "h-auto", "rounded"], data.components[1].images[0])
+  }else{
+    document.getElementById("img-1").src = data.images[0]
+    document.getElementById("img-2").src = data.images[1]
+  }
 
   map_image(data.images);
 }

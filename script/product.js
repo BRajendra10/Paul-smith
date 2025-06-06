@@ -1,7 +1,7 @@
 const products_container = document.getElementById("products-container");
 
 async function get_data() {
-  const res = await fetch("http://localhost:3000/product");
+  const res = await fetch("http://localhost:3000/discription");
   const data = await res.json();
 
   console.log(data)
@@ -39,7 +39,7 @@ function product(product_data) {
     <div class="w-full mt-2 px-1">
       <div class="flex justify-between items-start flex-wrap gap-y-1">
         <h4 class="w-[75%] text-sm sm:text-xs uppercase font-semibold cursor-pointer" data-id="${product_data.id}">
-          ${product_data.name}
+          ${product_data.title}
         </h4>
         <p class="text-sm sm:text-xs font-semibold">
           ${product_data.price}
