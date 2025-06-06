@@ -15,74 +15,34 @@ const id = z.get("id");
 const data = await get_data();
 map_image(data);
 
-(function product_info(){
+product_info(data.related_product.images);
+
+function product_info(images){
   const product = `
   <div class="w-full h-fit mb-5">
-    <h6 class="leading-7 uppercase text-base mb-3">The fit</h6>
+    <h6 class="leading-7 uppercase text-base">The fit</h6>
     <h3 class="leading-7 text-base font-bold">${data.title}</h3>
     <p class="leading-7 text-base font-normal">- ${data.description}</p>
   </div>
-  <div class="flex items-center justify-between mt-4">
-    <div id="carousel" class="flex overflow-x-auto gap-2 scroll-smooth scrollbar-hide w-full px-2">
-      ${data.images.slice(0, 5).map(img => `
-        <img src="${img}" alt="product" class="w-28 h-28 object-cover rounded-md border" />
-      `).join('')}
+  <div class="w-full h-fit mb-5">
+    <div class="flex">
+      <p class="text-base me-3">product code:</p>
+      <p class="leading-7 text-base font-normal">${data.product_code}</p>
+    </div>
+    <div class="flex">
+      <p class="text-base me-3">material:</p>
+      <p class="leading-7 text-base font-normal">${data.material}</p>
+    </div>
+    <div class="flex">
+      <p class="text-base me-3">made in:</p>
+      <p class="leading-7 text-base font-normal">${data.made_in}</p>
     </div>
   </div>`
 
+  console.log(product);
+
   document.getElementById("product-info").innerHTML = product;
-})();
-
-
-// (function(){
-//   const product = `
-//   <div class="flex flex-col lg:flex-row w-full h-fit border-t-1 py-2">
-//     <div class="w-fit lg:w-[20%]">
-//       <h6 class="uppercase text-sm leading-6">Material</h6>
-//     </div>
-//     <div>
-//       <p class="text-sm leading-6 uppercase leading-6">${data.material}</p>
-//     </div>
-//   </div>
-//   <div class="flex flex-col lg:flex-row w-full h-fit border-t-1 py-2">
-//     <div class="w-fit lg:w-[20%]">
-//       <h6 class="uppercase text-sm leading-6">Made in</h6>
-//     </div>
-//     <div>
-//       <p class="text-sm leading-6 uppercase leading-6">${data.made_in}</p>
-//     </div>
-//   </div>
-//   <div class="flex flex-col lg:flex-row w-full h-fit border-t-1 py-2">
-//     <div class="w-fit lg:w-[20%]">
-//       <h6 class="uppercase text-sm leading-6">Product code</h6>
-//     </div>
-//     <div>
-//       <p class="text-sm leading-6 uppercase leading-6">${data.product_code}</p>
-//     </div>
-//   </div>
-//   <div class="flex flex-col lg:flex-row w-full h-fit border-t-1 py-2">
-//     <div class="w-fit lg:w-[20%]">
-//       <h6 class="uppercase text-sm leading-6">services</h6>
-//     </div>
-//     <div>
-//       <p class="text-sm leading-6 uppercase leading-6">${data.product_code}</p>
-//     </div>
-//   </div>
-//   <div class="w-full h-fit my-2 border-t-1 py-2">
-//     <button class="uppercase text-sm py-3 hover:bg-gray-200"><a href="#">Read more</a></button>
-//   </div>
-//   `
-//   document.getElementById("product-information").innerHTML = product;
-// })();
-
-/*<div class="flex flex-col lg:flex-row w-full h-fit border-t-1 py-2">
-  <div class="w-fit lg:w-[20%]">
-    <h6 class="uppercase text-sm leading-6">Material</h6>
-  </div>
-  <div>
-    <p class="text-sm leading-6 leading-6">100% Linen Lining: 100% Viscose</p>
-  </div>
-</div>*/
+}
 
 document.getElementById("title").innerText = data.title;
 document.getElementById("price").innerText = `$${data.price}.00`;
