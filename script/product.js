@@ -1,10 +1,12 @@
 const products_container = document.getElementById("products-container");
+const sorting_filter = document.getElementById("filter");
+let local_json_data;
 
 async function get_data() {
   const res = await fetch("http://localhost:3000/discription");
   const data = await res.json();
 
-  console.log(data)
+  local_json_data = data;
 
   get_data_list(data);
 }
@@ -42,7 +44,7 @@ function product(product_data) {
           ${product_data.title}
         </h4>
         <p class="text-sm sm:text-xs font-semibold">
-          ${product_data.price}
+          $${product_data.price}
         </p>
       </div>
 
@@ -56,3 +58,23 @@ function product(product_data) {
 
   return product;
 }
+
+sorting_filter.addEventListener("change", () => {
+  let selected = sorting_filter.value;
+
+  console.log(selected);
+  let sorted_data = [...local_json_data]; // Clone original array
+
+  if (selected === "low to high") {
+    sorted_data.sort((a, b) => a.price - b.price);
+  } else if (selected === "hight to low") {
+    sorted_data.sort((a, b) => b.price - a.price);
+  } else if (selected === "Latest items") {
+    sorted_data.sort((a, b) => new Date(b.date) - new Date(a.date)); // assuming you have `date`
+  } //else if (selected === "Recomended") {
+    // Optional: define your recommended logic, or reset
+  //   sorted_data = [...local_json_data]; // or some recommendation logic
+  // }
+
+  get_data_list(sorted_data);
+});
