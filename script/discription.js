@@ -19,8 +19,15 @@ map_image(data);
   const product = `
   <div class="w-full h-fit mb-5">
     <h6 class="leading-7 uppercase text-base mb-3">The fit</h6>
-    <p class="leading-7 text-base font-bold">${data.title}</p>
-    <p class="leading-7 text-lg font-normal">- ${data.description}</p>
+    <h3 class="leading-7 text-base font-bold">${data.title}</h3>
+    <p class="leading-7 text-base font-normal">- ${data.description}</p>
+  </div>
+  <div class="flex items-center justify-between mt-4">
+    <div id="carousel" class="flex overflow-x-auto gap-2 scroll-smooth scrollbar-hide w-full px-2">
+      ${data.images.slice(0, 5).map(img => `
+        <img src="${img}" alt="product" class="w-28 h-28 object-cover rounded-md border" />
+      `).join('')}
+    </div>
   </div>`
 
   document.getElementById("product-info").innerHTML = product;
