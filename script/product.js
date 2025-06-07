@@ -8,7 +8,7 @@ let local_json_data = data;
 
 get_data_list(data);
 
-document.getElementById("items").innerText = `${data.length} items`;
+// document.getElementById("items").innerText = `${data.length} items`;
 
 async function get_data() {
   const res = await fetch("http://localhost:3000/discription");
@@ -28,6 +28,7 @@ function get_data_list(data) {
   const data_list = data.map((el, i) => product(el.id, el.title, el.images, el.price));
 
   products_container.innerHTML = data_list.join("");
+  document.getElementById("items").innerText = `${data.length} items`;
 }
 
 function product(id, title, images, price) {

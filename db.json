@@ -3576,6 +3576,75 @@
         "current_section": "Womens",
         "current_section_url": "https://www.paulsmith.com/womens"
       }
+    },
+    {
+      "id": 7,
+      "title": "A Suit To Travel In - Women's Dark Navy Two-Button Wool Blazer",
+      "product_code": "W1R-111P-M00001-49",
+      "price": 895,
+      "color": "Navy",
+      "material": "100% Wool, 100% Cupro Lining",
+      "made_in": "Italy",
+      "description": "Made in Italy as part of the Paul Smith 'A Suit To Travel In' collection, this dark navy two-button blazer is constructed using a high-twist yarn to create a quick recovery, crease-resistant 100% wool-twill cloth; providing a versatile and highly-practical piece of tailoring. Featuring a notched lapel, this jacket comes complete with functioning four-button 'kissing' cuffs and tonal buttons throughout.",
+      "fit": {
+        "type": [
+          "Classic-Fit",
+          "Soho-Fit"
+        ],
+        "description": "Classic-Fit also known as Soho-Fit is slightly longer and less fitted than our slim-fit blazer.",
+        "model_info": "- Model wears a size 40 (UK 8)\n- Height 5’ 11.5’’ / 181cm\n- Chest 32’’ / 81cm\n- Waist 24”/ 60 cm"
+      },
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1723737626/MODEL/ECOM/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1723737630/MODEL/ECOM/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_2",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1723737632/MODEL/ECOM/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_3",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1719398005/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1719398007/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1719398010/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_30",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1719398014/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_40"
+      ],
+      "video": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_auto/e_volume:mute/v1724319891/VIDEO/W1R-111P-M00001-49/W1R-111P-M00001-49.mp4",
+      "options": {
+        "size_selection": [
+          "4",
+          "6",
+          "8",
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
+        "mix_match_sizing": false,
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ],
+        "width": ""
+      },
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
+      "category": "Women's A Suits To Travel In",
+      "website": {
+        "main_url": "https://www.paulsmith.com/",
+        "current_section": "Womens",
+        "current_section_url": "https://www.paulsmith.com/womens"
+      },
+      "details": [
+        "Signature label stitched internally",
+        "Contrast panel cupro lining",
+        "Fabric properties label stitched internally",
+        "'Kissing' button detail on each cuff"
+      ],
+      "features": [
+        "Two-button fastening",
+        "Notched lapel",
+        "Functioning four-button 'kissing' cuffs",
+        "Tonal buttons throughout"
+      ],
+      "notes": "This product is excluded from promotions."
     }
   ]
 }

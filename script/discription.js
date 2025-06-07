@@ -8,6 +8,12 @@ const z = new URLSearchParams(window.location.search);
 const id = z.get("id");
 const data = await get_data();
 map_image(data);
+product_info();
+
+document.getElementById("title").innerText = data.title;
+document.getElementById("price").innerText = `$${data.price}.00`;
+document.getElementById("img-1").src = data.images[0]
+document.getElementById("img-2").src = data.images[1]
 
 nextBtn.addEventListener("click", () => {
   carousel.scrollBy({ left: 300, behavior: "smooth" });
@@ -17,13 +23,7 @@ prevBtn.addEventListener("click", () => {
   carousel.scrollBy({ left: -300, behavior: "smooth" });
 });
 
-if (data.related_product) {
-  product_info(data.related_product.images);
-} else {
-  product_info(data.images);
-}
-
-function product_info(images) {
+function product_info() {
   const product = `
   <div class="w-full h-fit mb-5">
     <h6 class="leading-7 uppercase text-base">The fit</h6>
