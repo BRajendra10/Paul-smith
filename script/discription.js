@@ -15,9 +15,13 @@ const id = z.get("id");
 const data = await get_data();
 map_image(data);
 
-product_info(data.related_product.images);
+if (data.related_product) {
+  product_info(data.related_product.images);
+} else {
+  product_info(data.images);
+}
 
-function product_info(images){
+function product_info(images) {
   const product = `
   <div class="w-full h-fit mb-5">
     <h6 class="leading-7 uppercase text-base">The fit</h6>

@@ -1,6 +1,7 @@
 const products_container = document.getElementById("products-container");
 const sorting_filter = document.getElementById("filter");
 const filter_color = document.getElementById("filter-color");
+const filter_category = document.getElementById("filter-category");
 
 const data = await get_data();
 let local_json_data = data;
@@ -85,7 +86,6 @@ sorting_filter.addEventListener("change", () => {
     sorted_data = [...local_json_data];
   }
 
-
   get_data_list(sorted_data);
 });
 
@@ -111,7 +111,17 @@ filter_color.addEventListener("change", () => {
   get_data_list(sorted_data);
 });
 
-// (function(){
-//   const allNames = local_json_data.map((item) => item.color);
-//     console.log(allNames);
-// })();
+// filter_category.addEventListener("change", () => {
+//   let selected = filter_category.value;
+//   let sorted_data = [...local_json_data]; // clone
+//   let selectedColorNames = [];
+
+//   const colorGroup = colors.find((color) => color.name.toLowerCase() === selected.toLowerCase());
+
+//   get_data_list(sorted_data);
+// });
+
+(function(){
+  const allNames = local_json_data.map((item) => item.related_product);
+    console.log(allNames);
+})();
