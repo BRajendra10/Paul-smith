@@ -90,3 +90,7 @@ function create_element(tag, class_name = [], tag_info) {
 
   return el;
 }
+
+document.getElementById("add-to-cart").addEventListener("click", () => {
+  alert("hello")
+})

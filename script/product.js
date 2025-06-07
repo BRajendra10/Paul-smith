@@ -31,9 +31,8 @@ function get_data_list(data) {
 }
 
 function product(id, title, images, price) {
-  // console.log(id, title, images[0], price)
   const product = `
-  <div class="group w-full sm:w-[49%] lg:w-[24%] mb-6">
+  <div class="w-full sm:w-[49%] lg:w-[24%] mb-6">
     <a href="discription.html?id=${encodeURIComponent(id)}">
       <div class="w-full aspect-[3/4] relative overflow-hidden">
         <img 
@@ -50,7 +49,7 @@ function product(id, title, images, price) {
       </div>
     </a>
 
-    <div class="w-full mt-2 px-1">
+    <div class="w-full h-fit mt-2 px-1">
       <div class="flex justify-between items-start flex-wrap gap-y-1">
         <h4 class="w-[75%] text-sm sm:text-xs uppercase font-semibold cursor-pointer" data-id="${id}">
           ${title}
@@ -60,9 +59,9 @@ function product(id, title, images, price) {
         </p>
       </div>
 
-      <div class="flex justify-between items-center mt-2 hidden group-hover:flex">
-        <button class="text-xs uppercase font-semibold">Add <i class="ri-add-line"></i></button>
-        <button class="text-xs uppercase font-semibold"><i class="ri-bookmark-line"></i></button>
+      <div class="flex justify-between items-center mt-2">
+        <button type="button" class="text-sm uppercase font-semibold cursor-pointer">Add <i class="ri-add-line"></i></button>
+        <button type="button" class="text-sm uppercase font-semibold cursor-pointer"><i class="ri-bookmark-line"></i></button>
       </div>
     </div>
   </div>
@@ -73,7 +72,7 @@ function product(id, title, images, price) {
 
 sorting_filter.addEventListener("change", () => {
   let selected = sorting_filter.value;
-  let sorted_data = [...local_json_data]; // Clone original array
+  let sorted_data = [...local_json_data]; 
 
   if (selected === "low to high") {
     sorted_data.sort((a, b) => a.price - b.price);
@@ -115,20 +114,18 @@ filter_color.addEventListener("change", () => {
 filter_category.addEventListener("change", () => {
   const selectedCategory = filter_category.value.toLowerCase(); // Normalize value
 
-  // Filter matching category data
   const filteredCategoryData = local_json_data.filter(item => {
     console.log(item.category.toLowerCase().includes(selectedCategory));
     return item.category.toLowerCase().includes(selectedCategory)
   });
 
-  // Output the result
   console.log("Filtered Data:", filteredCategoryData);
 
   get_data_list(filteredCategoryData);
 });
 
-(function () {
-  const names = local_json_data.map((item, i) => item.category)
+// (function () {
+//   const names = local_json_data.map((item, i) => item.category)
 
-  console.log(names);
-})();
+//   console.log(names);
+// })();
