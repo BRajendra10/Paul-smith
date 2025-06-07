@@ -25,37 +25,38 @@ async function get_colors_data() {
 }
 
 function get_data_list(data) {
-  const data_list = data.map((el, i) => product(el));
+  const data_list = data.map((el, i) => product(el.id, el.title, el.images, el.price));
 
   products_container.innerHTML = data_list.join("");
 }
 
-function product(product_data) {
+function product(id, title, images, price) {
+  // console.log(id, title, images[0], price)
   const product = `
   <div class="group w-full sm:w-[49%] lg:w-[24%] mb-6">
-    <a href="discription.html?id=${encodeURIComponent(product_data.id)}">
+    <a href="discription.html?id=${encodeURIComponent(id)}">
       <div class="w-full aspect-[3/4] relative overflow-hidden">
         <img 
           class="group-hover:hidden absolute top-0 left-0 w-full h-full object-cover duration-700 ease-in-out" 
-          src="${product_data.images[0]}" 
+          src="${images[0]}" 
           alt="img-1" 
-          id="${product_data.id}">
+          id="${id}">
           
         <img 
           class="hidden group-hover:block absolute top-0 left-0 w-full h-full object-cover duration-700 ease-in-out" 
-          src="${product_data.images[1]}" 
+          src="${images[1]}" 
           alt="img-2" 
-          id="${product_data.id}">
+          id="${id}">
       </div>
     </a>
 
     <div class="w-full mt-2 px-1">
       <div class="flex justify-between items-start flex-wrap gap-y-1">
-        <h4 class="w-[75%] text-sm sm:text-xs uppercase font-semibold cursor-pointer" data-id="${product_data.id}">
-          ${product_data.title}
+        <h4 class="w-[75%] text-sm sm:text-xs uppercase font-semibold cursor-pointer" data-id="${id}">
+          ${title}
         </h4>
         <p class="text-sm sm:text-xs font-semibold">
-          $${product_data.price}
+          $${price}
         </p>
       </div>
 
@@ -111,17 +112,23 @@ filter_color.addEventListener("change", () => {
   get_data_list(sorted_data);
 });
 
-// filter_category.addEventListener("change", () => {
-//   let selected = filter_category.value;
-//   let sorted_data = [...local_json_data]; // clone
-//   let selectedColorNames = [];
+filter_category.addEventListener("change", () => {
+  const selectedCategory = filter_category.value.toLowerCase(); // Normalize value
 
-//   const colorGroup = colors.find((color) => color.name.toLowerCase() === selected.toLowerCase());
+  // Filter matching category data
+  const filteredCategoryData = local_json_data.filter(item => {
+    console.log(item.category.toLowerCase().includes(selectedCategory));
+    return item.category.toLowerCase().includes(selectedCategory)
+  });
 
-//   get_data_list(sorted_data);
-// });
+  // Output the result
+  console.log("Filtered Data:", filteredCategoryData);
 
-(function(){
-  const allNames = local_json_data.map((item) => item.related_product);
-    console.log(allNames);
+  get_data_list(filteredCategoryData);
+});
+
+(function () {
+  const names = local_json_data.map((item, i) => item.category)
+
+  console.log(names);
 })();
