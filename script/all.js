@@ -36,7 +36,7 @@ tabs.forEach((tab) => {
   tab.addEventListener("click", () => {
 
     tabs.forEach((t) => t.classList.remove("text-blue-600", "border-blue-600"));
-    
+
     contents.forEach((c) => c.classList.add("hidden"));
 
     tab.classList.add("text-blue-600", "border-blue-600");
@@ -98,4 +98,20 @@ function cart(title, images, price) {
   return cart;
 }
 
-console.log(document.querySelectorAll("#qty"))
+const quantity = document.querySelectorAll("#qty");
+
+quantity.forEach((el, i) => {
+  el.addEventListener("change", async () => {
+    const newData = {...cart_data[i], quantity: el.value };
+
+    const res = await fetch(`http://localhost:3000/cart/${cart_data[i].id}`, {
+      method: "PUT",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(newData),
+    });
+    const data = await res.json();
+
+    console.log(data);
+  })
+})
+
