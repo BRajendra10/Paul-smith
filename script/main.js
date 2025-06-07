@@ -39,25 +39,6 @@ document.querySelectorAll(".accordion-toggle").forEach((button) => {
   });
 });
 
-const tabs = document.querySelectorAll(".tab-link");
-const contents = document.querySelectorAll(".tab-content");
-
-tabs.forEach((tab) => {
-  tab.addEventListener("click", () => {
-    // Remove active styles from all tabs
-    tabs.forEach((t) => t.classList.remove("text-blue-600", "border-blue-600"));
-    // Hide all content
-    contents.forEach((c) => c.classList.add("hidden"));
-
-    // Add active style to current tab
-    tab.classList.add("text-blue-600", "border-blue-600");
-
-    // Show related content
-    const target = tab.getAttribute("data-tab");
-    document.getElementById(`tab-${target}`).classList.remove("hidden");
-  });
-});
-
 
 // data handling
 

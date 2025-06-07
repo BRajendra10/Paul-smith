@@ -7,7 +7,7 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738249370/MODEL/ECOM/M2R/M2R-798Y-P22342-32/M2R-798Y-P22342-32_1",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747229679/MODEL/ECOM/M2R/M2R-798Y-P22342-32/M2R-798Y-P22342-32_4"
       ],
-      "price": 225.0,
+      "price": 225,
       "action": "Add",
       "highlights": []
     },
@@ -18,7 +18,7 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744038207/MODEL/ECOM/M2R/M2R-436Z-P22342-79/M2R-436Z-P22342-79_4",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1744038204/MODEL/ECOM/M2R/M2R-436Z-P22342-79/M2R-436Z-P22342-79_3"
       ],
-      "price": 195.0,
+      "price": 195,
       "action": "Add",
       "highlights": []
     },
@@ -29,7 +29,7 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747911706/MODEL/ECOM/M2R/M2R-695U-T22375-19/M2R-695U-T22375-19_4",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747911704/MODEL/ECOM/M2R/M2R-695U-T22375-19/M2R-695U-T22375-19_3"
       ],
-      "price": 225.0,
+      "price": 225,
       "action": "Add",
       "highlights": []
     },
@@ -40,9 +40,11 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1724319829/AW24_EYEWEAR_5x7_12",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723800746/STILL/GRL/GRL-MPSS-L46223-01A/GRL-MPSS-L46223-01A_10"
       ],
-      "price": 325.0,
+      "price": 325,
       "action": "Add",
-      "highlights": ["Monogram"]
+      "highlights": [
+        "Monogram"
+      ]
     },
     {
       "id": 5,
@@ -51,7 +53,7 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1742209950/STILL/M2R/M2R-861Y-P22119-01/M2R-861Y-P22119-01_10",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1723478492/MODEL/ECOM/M2R/M2R-861Y-N22119-01/M2R-861Y-N22119-01_1"
       ],
-      "price": 95.0,
+      "price": 95,
       "action": "Add",
       "highlights": []
     },
@@ -62,7 +64,7 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1746178289/STILL/M2S/M2S-DVR80-TLEA-02/M2S-DVR80-TLEA-02_50",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1746178278/STILL/M2S/M2S-DVR80-TLEA-02/M2S-DVR80-TLEA-02_10"
       ],
-      "price": 295.0,
+      "price": 295,
       "action": "Add",
       "highlights": []
     },
@@ -75,7 +77,9 @@
       ],
       "price": null,
       "action": "Add",
-      "highlights": ["20% OFF"]
+      "highlights": [
+        "20% OFF"
+      ]
     },
     {
       "id": 8,
@@ -84,7 +88,7 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1745417625/2025-04-16_MALIK27230_gmrkwc",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1731081694/STILL/M1A/M1A-987DT-PZEBRA-35-0/M1A-987DT-PZEBRA-35-0_10"
       ],
-      "price": 75.0,
+      "price": 75,
       "action": "Add",
       "highlights": []
     },
@@ -95,7 +99,7 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747911735/MODEL/ECOM/M2R/M2R-695UP-T22383-02/M2R-695UP-T22383-02_2",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747911738/MODEL/ECOM/M2R/M2R-695UP-T22383-02/M2R-695UP-T22383-02_4"
       ],
-      "price": 225.0,
+      "price": 225,
       "action": "Add",
       "highlights": []
     },
@@ -106,7 +110,7 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1732123838/STILL/M2R/M2R-035R-P21553-40/M2R-035R-P21553-40_10",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1735299027/MODEL/ECOM/M2R/M2R-035R-P21553-40/M2R-035R-P21553-40_1"
       ],
-      "price": 175.0,
+      "price": 175,
       "action": "Add",
       "highlights": []
     },
@@ -117,7 +121,7 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1746718312/STILL/M2S/M2S-DLN06-TSUE-63/M2S-DLN06-TSUE-63_50",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1746718301/STILL/M2S/M2S-DLN06-TSUE-63/M2S-DLN06-TSUE-63_10"
       ],
-      "price": 225.0,
+      "price": 225,
       "action": "Add",
       "highlights": []
     },
@@ -128,7 +132,7 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747231309/MODEL/ECOM/M2R/M2R-220X-TP5159-01/M2R-220X-TP5159-01_2",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747231307/MODEL/ECOM/M2R/M2R-220X-TP5159-01/M2R-220X-TP5159-01_1"
       ],
-      "price": 95.0,
+      "price": 95,
       "action": "Add",
       "highlights": []
     },
@@ -139,7 +143,7 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1743607853/MODEL/ECOM/M1R/M1R-438Z-P02629-34/M1R-438Z-P02629-34_2",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1743607852/MODEL/ECOM/M1R/M1R-438Z-P02629-34/M1R-438Z-P02629-34_1"
       ],
-      "price": 525.0,
+      "price": 525,
       "action": "Add",
       "highlights": []
     },
@@ -150,7 +154,7 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739802654/STILL/M1S/M1S-TRU01-PSUE-66/M1S-TRU01-PSUE-66_20",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739802652/STILL/M1S/M1S-TRU01-PSUE-66/M1S-TRU01-PSUE-66_10"
       ],
-      "price": 495.0,
+      "price": 495,
       "action": "Add",
       "highlights": []
     },
@@ -161,7 +165,7 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1743778915/STILL/M2R/M2R-011R-PP5130-30C/M2R-011R-PP5130-30C_20",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1743778911/STILL/M2R/M2R-011R-PP5130-30C/M2R-011R-PP5130-30C_10"
       ],
-      "price": 95.0,
+      "price": 95,
       "action": "Add",
       "highlights": []
     },
@@ -172,7 +176,7 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1743609684/MODEL/ECOM/M2R/M2R-070Z-P22339-35/M2R-070Z-P22339-35_2",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1743609686/MODEL/ECOM/M2R/M2R-070Z-P22339-35/M2R-070Z-P22339-35_3"
       ],
-      "price": 225.0,
+      "price": 225,
       "action": "Add",
       "highlights": []
     },
@@ -183,9 +187,11 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1740067240/STILL/GRL/GRL-MPSS-L41105-01A/GRL-MPSS-L41105-01A_30",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1740067237/STILL/GRL/GRL-MPSS-L41105-01A/GRL-MPSS-L41105-01A_10"
       ],
-      "price": 355.0,
+      "price": 355,
       "action": "Add",
-      "highlights": ["Monogram"]
+      "highlights": [
+        "Monogram"
+      ]
     },
     {
       "id": 18,
@@ -194,7 +200,7 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747229581/MODEL/ECOM/M2R/M2R-695U-P22309-20/M2R-695U-P22309-20_4",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1742572910/MODEL/ECOM/M2R/M2R-695U-P22309-20/M2R-695U-P22309-20_3"
       ],
-      "price": 175.0,
+      "price": 175,
       "action": "Add",
       "highlights": []
     },
@@ -205,7 +211,7 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1734521455/STILL/M2R/M2R-035R-P21697-55/M2R-035R-P21697-55_10",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1735912829/MODEL/ECOM/M2R/M2R-035R-P21697-55/M2R-035R-P21697-55_1"
       ],
-      "price": 195.0,
+      "price": 195,
       "action": "Add",
       "highlights": []
     },
@@ -216,7 +222,7 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1748436414/M1A-594-MU477-42A_10_gqvasm",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747911650/MODEL/ECOM/M1A/M1A-594-MU477-42A/M1A-594-MU477-42A_1"
       ],
-      "price": 175.0,
+      "price": 175,
       "action": "Add",
       "highlights": []
     },
@@ -227,7 +233,7 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1743609709/MODEL/ECOM/M2R/M2R-220X-P22325-92/M2R-220X-P22325-92_2",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1743609707/MODEL/ECOM/M2R/M2R-220X-P22325-92/M2R-220X-P22325-92_1"
       ],
-      "price": 125.0,
+      "price": 125,
       "action": "Add",
       "highlights": []
     },
@@ -238,9 +244,11 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1740067233/STILL/GRL/GRL-MPSS-L41104-01A/GRL-MPSS-L41104-01A_30",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1740067230/STILL/GRL/GRL-MPSS-L41104-01A/GRL-MPSS-L41104-01A_10"
       ],
-      "price": 355.0,
+      "price": 355,
       "action": "Add",
-      "highlights": ["Monogram"]
+      "highlights": [
+        "Monogram"
+      ]
     },
     {
       "id": 23,
@@ -249,9 +257,11 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747992653/STILL/M1A/M1A-ECOMM-ZEBSWIM11-0/M1A-ECOMM-ZEBSWIM11-0_50",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1747992643/STILL/M1A/M1A-ECOMM-ZEBSWIM11-0/M1A-ECOMM-ZEBSWIM11-0_10"
       ],
-      "price": 190.0,
+      "price": 190,
       "action": null,
-      "highlights": ["Mix & Match Sizing"]
+      "highlights": [
+        "Mix & Match Sizing"
+      ]
     },
     {
       "id": 24,
@@ -260,7 +270,7 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739532631/STILL/M1A/M1A-987DT-P01427-34A-0/M1A-987DT-P01427-34A-0_30",
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739530861/STILL/M1A/M1A-987DT-P01427-34A-0/M1A-987DT-P01427-34A-0_10"
       ],
-      "price": 125.0,
+      "price": 125,
       "action": "Add",
       "highlights": []
     }
@@ -270,13 +280,16 @@
       "id": 1,
       "title": "Women's Dark Navy Skirt Suit",
       "product_code": "W1R-SUIT2-P01427-49A",
-      "price": 1990.0,
+      "price": 1990,
       "color": "Dark Navy",
       "material": "Linen composition",
       "made_in": "Italy",
       "description": "Made in Italy from a linen composition this dark navy skirt suit features a double-breasted blazer and maxi-length skirt. The blazer is cut to a straight fit with subtle shaping to the back and an exaggerated peak lapel for a feminine feel. The blazer features contrast 'Signature Stripe' lining trims for a distinctive touch. The maxi skirt is the perfect transitional piece for seasonal styling. Complete with partial viscose lining, the skirt features twin side pockets, button fastened pockets to the back, concealed zip fly, belt loops, and contrast button fastening to the waistband, effortlessly combining functionality and style.",
       "fit": {
-        "type": ["Straight-Fit", "Relaxed-Fit"],
+        "type": [
+          "Straight-Fit",
+          "Relaxed-Fit"
+        ],
         "description": "is loose through the body"
       },
       "components": [
@@ -347,9 +360,16 @@
       "options": {
         "size_selection": "Select Size",
         "mix_match_sizing": true,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's Suits",
       "website": {
         "name_url": "https://www.paulsmith.com/",
@@ -361,13 +381,16 @@
       "id": 2,
       "title": "Women's Sea Green Wool Suit",
       "product_code": "W2R-SUIT-P31053-43",
-      "price": 1120.0,
+      "price": 1120,
       "color": "Sea Green",
       "material": "Wool hopsack",
       "made_in": "Portugal",
       "description": "Made in Portugal from a rich wool hopsack composition, this sea-green suit features a single-button blazer and wide-leg trousers. The blazer has jetted pockets, a contrast lining, and four button cuffs. The trousers have a pleated front, soft viscose lining, and angled side pockets.",
       "fit": {
-        "type": ["Regular-Fit", "Wide-Leg"],
+        "type": [
+          "Regular-Fit",
+          "Wide-Leg"
+        ],
         "description": "is relaxed through the body"
       },
       "components": [
@@ -468,9 +491,16 @@
       "options": {
         "size_selection": "Select Size",
         "mix_match_sizing": true,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's Suits",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -482,13 +512,15 @@
       "id": 3,
       "title": "Women's Coral Wool Suit",
       "product_code": "W2R-SUIT-P31053-16",
-      "price": 1105.0,
+      "price": 1105,
       "color": "Coral",
       "material": "Wool-hopsack",
       "made_in": "Portugal",
       "description": "Made in Portugal from a rich wool-hopsack cloth, this coral suit is perfect for adding a subtle pop of colour to any outfit. The blazer features a double-breasted fastening and flap pockets, is complete with contrast lining, and three button cuffs. The trousers showcase a cropped length. Features include pleated detail, tonal stitching, zip fly fastening.",
       "fit": {
-        "type": ["Regular-Fit"],
+        "type": [
+          "Regular-Fit"
+        ],
         "description": "is relaxed through the body"
       },
       "components": [
@@ -544,9 +576,16 @@
       "options": {
         "size_selection": "Select Size",
         "mix_match_sizing": true,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's Suits",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -558,13 +597,16 @@
       "id": 4,
       "title": "Women's Dusty Rose Wool Suit",
       "product_code": "W2R-SUIT-P31053-54",
-      "price": 1070.0,
+      "price": 1070,
       "color": "Dusty Rose",
       "material": "Wool hopsack",
       "made_in": "Portugal",
       "description": "Made in Portugal from a rich wool hopsack composition, this dusty rose suit features a single-button blazer and slim-fit trousers. The blazer has jetted pockets, a contrast lining, and four button cuffs. The trousers feature concealed side pockets, an additional back pocket for added practicality, and an asymmetrical button fastening for a unique touch of style.",
       "fit": {
-        "type": ["Regular-Fit", "Slim-Fit"],
+        "type": [
+          "Regular-Fit",
+          "Slim-Fit"
+        ],
         "description": "is relaxed through the body. is cut for a close fit through the body."
       },
       "components": [
@@ -666,9 +708,16 @@
       "options": {
         "size_selection": "Select Size",
         "mix_match_sizing": true,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's Suits",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -680,13 +729,15 @@
       "id": 5,
       "title": "Women's A Suit To Travel In - Black Wool Double Breasted Blazer",
       "product_code": "W1R-369JA-N00001-79",
-      "price": 1095.0,
+      "price": 1095,
       "color": "Black",
       "material": "100% Wool, Lining: 100% Viscose",
       "made_in": "Italy",
       "description": "Made in Italy from a luxe wool crease-resistant composition, this black blazer features a double-breasted fastening. Cut to a straight fit with subtle shaping to the back and an exaggerated peak lapel for a feminine feel. The blazer features a contrast lining and 'Signature Stripe' trims.",
       "fit": {
-        "type": ["Straight-Fit"],
+        "type": [
+          "Straight-Fit"
+        ],
         "description": "- Straight-Fit is tailored with a clean silhouette through the body\n- Subtle shaping to the back\n- Exaggerated peak lapel for a feminine feel",
         "model_info": "- Model wears a size 40 (UK 8)\n- Height 5’ 10’’ / 177.5cm\n- Waist 24.5”/ 62cm"
       },
@@ -739,14 +790,31 @@
         ]
       },
       "options": {
-        "size_selection": ["4", "6", "8", "10", "12", "14", "16"],
+        "size_selection": [
+          "4",
+          "6",
+          "8",
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
         "mix_match_sizing": true,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"],
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ],
         "width": "",
-        "additional_colors": ["3 more colours"]
+        "additional_colors": [
+          "3 more colours"
+        ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
-      "category": "Women's A Suits To Travel In" ,
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
+      "category": "Women's A Suits To Travel In",
       "website": {
         "main_url": "https://www.paulsmith.com/",
         "current_section": "Womens",
@@ -778,13 +846,15 @@
       "id": 6,
       "title": "A Suit To Travel In - Women's Dark Navy Wool Travel Blazer",
       "product_code": "W1R-254J-M00001-49",
-      "price": 850.0,
+      "price": 850,
       "color": "Navy",
       "material": "100% Wool, Lining: 100% Cupro",
       "made_in": "Italy",
       "description": "Made in Italy as part of the Paul Smith 'A Suit To Travel In' collection, this dark navy one button blazer is constructed using a high-twist yarn to create a quick recovery, crease-resistant 100% wool-twill cloth; providing a versatile and highly-practical piece of tailoring.",
       "fit": {
-        "type": ["Straight-Fit"],
+        "type": [
+          "Straight-Fit"
+        ],
         "description": "Straight-Fit travel blazer is cut for a boxy-fit that finishes at a longer length that ends around the hips and has thin shoulder pads for a more casual and refined look.\n- Single vent",
         "model_info": "- Model wears a size M\n- Height 5’ 11’’ / 181cm\n- Bust 32’’ / 81 cm\n- Waist 24”/ 60cm"
       },
@@ -839,13 +909,30 @@
         }
       ],
       "options": {
-        "size_selection": ["4", "6", "8", "10", "12", "14", "16"],
+        "size_selection": [
+          "4",
+          "6",
+          "8",
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
         "mix_match_sizing": true,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"],
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ],
         "width": "",
-        "additional_colors": ["1 more colour"]
+        "additional_colors": [
+          "1 more colour"
+        ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's A Suits To Travel In",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -863,13 +950,16 @@
       "id": 7,
       "title": "A Suit To Travel In - Women's Dark Navy Two-Button Wool Blazer",
       "product_code": "W1R-111P-M00001-49",
-      "price": 895.0,
+      "price": 895,
       "color": "Navy",
       "material": "100% Wool, 100% Cupro Lining",
       "made_in": "Italy",
       "description": "Made in Italy as part of the Paul Smith 'A Suit To Travel In' collection, this dark navy two-button blazer is constructed using a high-twist yarn to create a quick recovery, crease-resistant 100% wool-twill cloth; providing a versatile and highly-practical piece of tailoring. Featuring a notched lapel, this jacket comes complete with functioning four-button 'kissing' cuffs and tonal buttons throughout.",
       "fit": {
-        "type": ["Classic-Fit", "Soho-Fit"],
+        "type": [
+          "Classic-Fit",
+          "Soho-Fit"
+        ],
         "description": "Classic-Fit also known as Soho-Fit is slightly longer and less fitted than our slim-fit blazer.",
         "model_info": "- Model wears a size 40 (UK 8)\n- Height 5’ 11.5’’ / 181cm\n- Chest 32’’ / 81cm\n- Waist 24”/ 60 cm"
       },
@@ -884,12 +974,27 @@
       ],
       "video": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_auto/e_volume:mute/v1724319891/VIDEO/W1R-111P-M00001-49/W1R-111P-M00001-49.mp4",
       "options": {
-        "size_selection": ["4", "6", "8", "10", "12", "14", "16"],
+        "size_selection": [
+          "4",
+          "6",
+          "8",
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
         "mix_match_sizing": false,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"],
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ],
         "width": ""
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's A Suits To Travel In",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -914,13 +1019,15 @@
       "id": 8,
       "title": "Women's A Suit To Travel In - Dusty Blue Wool Two-Button Blazer",
       "product_code": "W1R-111P-N00001-43A",
-      "price": 1095.0,
+      "price": 1095,
       "color": "Dusty Blue",
       "material": "100% Wool, Lining: 100% Viscose",
       "made_in": "Italy",
       "description": "Made in Italy as part of the Paul Smith 'A Suit To Travel In' collection, this dusty blue two-button blazer is constructed using a high-twist yarn to create a quick recovery, crease-resistant 100% wool-twill cloth; providing a versatile and highly-practical piece of tailoring. Featuring a notched lapel, this jacket comes complete with a full viscose lining.",
       "fit": {
-        "type": ["Regular-Fit"],
+        "type": [
+          "Regular-Fit"
+        ],
         "description": "- Regular-Fit is relaxed through the body.",
         "model_info": "- Model wears a size 40 (UK 8)\n- Height 5’9.5” / 176.5 cm\n- Chest 29” / 73.6 cm\n- Waist 24” / 60.9 cm"
       },
@@ -1009,13 +1116,30 @@
         }
       ],
       "options": {
-        "size_selection": ["4", "6", "8", "10", "12", "14", "16"],
+        "size_selection": [
+          "4",
+          "6",
+          "8",
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
         "mix_match_sizing": true,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"],
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ],
         "width": "",
-        "additional_colors": ["2 more colours"]
+        "additional_colors": [
+          "2 more colours"
+        ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's A Suits To Travel In",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -1045,13 +1169,15 @@
       "id": 9,
       "title": "Women's Buttercup Yellow Wool Waistcoat",
       "product_code": "W1R-388J-P00108-11",
-      "price": 625.0,
+      "price": 625,
       "color": "Buttercup Yellow",
       "material": "100% Wool, Lining: 100% Viscose",
       "made_in": "Italy",
       "description": "Made in Italy from a rich wool composition, this buttercup yellow waistcoat offers versatile styling options, whether paired with matching tailored pieces or worn with jeans for a more laid-back look. Complete with a contrast five-button closure, the waistcoat features a subtle rear vent, faux pockets at the front, and a luxurious viscose lining.",
       "fit": {
-        "type": ["Tailored-Fit"],
+        "type": [
+          "Tailored-Fit"
+        ],
         "description": "Tailored-Fit has a streamlined shape following the natural form of the torso.",
         "model_info": "- Model wears a size 40 (UK 8)\n- Height 5’9.5” / 176.5 cm\n- Chest 29” / 73.6 cm\n- Waist 24” / 60.9 cm"
       },
@@ -1133,12 +1259,27 @@
         }
       ],
       "options": {
-        "size_selection": ["4", "6", "8", "10", "12", "14", "16"],
+        "size_selection": [
+          "4",
+          "6",
+          "8",
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
         "mix_match_sizing": true,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"],
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ],
         "width": ""
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's Tops",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -1164,13 +1305,15 @@
       "id": 10,
       "title": "A Suit To Travel In - Women's Black Slim-Fit Wool Trousers",
       "product_code": "W1R-071T-B00001-79",
-      "price": 555.0,
+      "price": 555,
       "color": "Black",
       "material": "100% Wool",
       "made_in": "Italy",
       "description": "Made in Italy as part of the Paul Smith 'A Suit To Travel In' collection, these black trousers are constructed using a high-twist 100% wool yarn to create a quick recovery, crease-resistant cloth; providing a versatile and highly-practical piece of tailoring. Finishing at the ankle for a modern, elegant silhouette, these slim-fit trousers come complete with colour-flash interior detailing.",
       "fit": {
-        "type": ["Slim-Fit"],
+        "type": [
+          "Slim-Fit"
+        ],
         "description": "Slim-Fit trousers are cut for a close fit through the thigh and calf\n- Internal rubber waistband strip to keep shirting secure",
         "model_info": ""
       },
@@ -1257,13 +1400,28 @@
         }
       ],
       "options": {
-        "size_selection": ["6", "8", "10", "12", "14"],
+        "size_selection": [
+          "6",
+          "8",
+          "10",
+          "12",
+          "14"
+        ],
         "mix_match_sizing": false,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"],
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ],
         "width": "",
-        "additional_colors": ["1 more colour"]
+        "additional_colors": [
+          "1 more colour"
+        ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's A Suit To Travel In",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -1281,13 +1439,16 @@
       "id": 11,
       "title": "Women's Navy Wool-Hopsack Wide Leg Trousers",
       "product_code": "W2R-206T-L30408-49",
-      "price": 475.0,
+      "price": 475,
       "color": "Navy",
       "material": "Woven, 100% Wool",
       "made_in": "Portugal",
       "description": "Dress up or dress down, these navy wide leg trousers are cut to sit high on the waist and skim over the hip. Featuring a pleated front, blue internal detailing and angled side pockets.",
       "fit": {
-        "type": ["Relaxed-Fit", "Wide Leg"],
+        "type": [
+          "Relaxed-Fit",
+          "Wide Leg"
+        ],
         "description": "- Relaxed-Fit is loose through the body\n- Wide Leg is cut for a loose fit around the thigh and calf",
         "model_info": "- Model wears a size 40 (UK 8)\n- Height 5’ 11’’ / 181cm\n- Bust 32’’ / 81 cm\n- Waist 24”/ 60cm"
       },
@@ -1354,12 +1515,27 @@
         }
       ],
       "options": {
-        "size_selection": ["4", "6", "8", "10", "12", "14", "16"],
+        "size_selection": [
+          "4",
+          "6",
+          "8",
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
         "mix_match_sizing": false,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"],
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ],
         "width": ""
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's Wide Leg Trousers",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -1377,7 +1553,7 @@
       "id": 12,
       "title": "A Suit To Travel In - Women's Dusty Blue Slim-Fit Wool Trousers",
       "collection": "Shop the look",
-      "price": 525.0,
+      "price": 525,
       "color": "Dusty Blue",
       "color_options": "3 more colours",
       "description": "Made in Italy as part of the Paul Smith 'A Suit To Travel In' collection, these dusty blue trousers are constructed using a high-twist 100% wool yarn to create a quick recovery, crease-resistant cloth; providing a versatile and highly-practical piece of tailoring.",
@@ -1408,7 +1584,15 @@
         }
       ],
       "size_fit": {
-        "available_sizes": ["4", "6", "8", "10", "12", "14", "16"],
+        "available_sizes": [
+          "4",
+          "6",
+          "8",
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
         "model_info": {
           "size_worn": "40 (UK 8)",
           "height": "5'9.5\" / 176.5 cm",
@@ -1417,8 +1601,15 @@
         },
         "fit_description": "Slim-Fit"
       },
-      "actions": ["Notify me", "Add to Bag", "Find in Store"],
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "actions": [
+        "Notify me",
+        "Add to Bag",
+        "Find in Store"
+      ],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "specifications": {
         "material": "100% Wool",
         "made_in": "Italy",
@@ -1486,7 +1677,7 @@
       "id": 13,
       "title": "Women's Wool-Blend Navy Seersucker Pinstripe Wide Leg Trousers",
       "collection": "Shop the look",
-      "price": 855.0,
+      "price": 855,
       "original_price": "$1,195.00",
       "discount": "20% OFF",
       "color": "Navy",
@@ -1514,7 +1705,15 @@
         }
       ],
       "size_fit": {
-        "available_sizes": ["4", "6", "8", "10", "12", "14", "16"],
+        "available_sizes": [
+          "4",
+          "6",
+          "8",
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
         "model_info": {
           "size_worn": "40 (UK 8)",
           "height": "5'9.5\" / 176.5 cm",
@@ -1526,8 +1725,15 @@
           "Wide Leg is cut for a loose fit around the thigh and calf"
         ]
       },
-      "actions": ["Notify me", "Add to Bag", "Find in Store"],
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "actions": [
+        "Notify me",
+        "Add to Bag",
+        "Find in Store"
+      ],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "specifications": {
         "material": "97% Wool, 2% Elastane, 1% Polyamide",
         "made_in": "Italy",
@@ -1570,7 +1776,7 @@
       "id": 14,
       "title": "Women's Camel 'Storm System' Wool Belted Mac",
       "collection": "Shop the look",
-      "price": 1895.0,
+      "price": 1895,
       "color": "Camel",
       "color_options": "2 more colours",
       "description": "Elevate your outerwear this transitional season with this camel trench coat crafted from luxurious Loro Piana 'Green Storm System' wool. Made in Italy this coat oozes timeless appeal with features including a belted design, detachable quilted liner, concealed placket with contrast top button, and twin pockets.",
@@ -1613,7 +1819,15 @@
         }
       ],
       "size_fit": {
-        "available_sizes": ["4", "6", "8", "10", "12", "14", "16"],
+        "available_sizes": [
+          "4",
+          "6",
+          "8",
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
         "model_info": {
           "size_worn": "40 (UK 8)",
           "height": "5'11'' / 181cm",
@@ -1622,8 +1836,15 @@
         },
         "fit_description": "Regular-fit is relaxed through the body."
       },
-      "actions": ["Notify me", "Add to Bag", "Find in Store"],
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "actions": [
+        "Notify me",
+        "Add to Bag",
+        "Find in Store"
+      ],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "specifications": {
         "material": "Loro Piana 'Green Storm System' wool",
         "made_in": "Italy",
@@ -1646,7 +1867,7 @@
       "id": 15,
       "title": "Women's Terracotta Suede Jacket",
       "collection": "Shop the look",
-      "price": 850.0,
+      "price": 850,
       "color": "Terracotta",
       "description": "This terracotta jacket, crafted from rich suede, offers a sleek, streamlined design enhanced by subtle brand details. With a concealed zip-fastened placket for a clean look, along with a press-stud fastening at the collar for added versatility. The jacket is designed with belt loops at the hem and press-stud closure pockets for both style and functionality. Finished with a contrasting viscose lining, this statement jacket is the ideal transitional piece, blending style and practicality for a standout addition to your wardrobe.",
       "category": "Women's Sweatshirts & Hoodies",
@@ -1660,7 +1881,6 @@
         "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1736416877/STILL/W2R/W2R-401JL-P31132-18/W2R-401JL-P31132-18_40"
       ],
       "video": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_auto/e_volume:mute/v1739900310/VIDEO/W2R-401JL-P31132-18/W2R-401JL-P31132-18.mp4",
-
       "details": [
         {
           "title": "'Swirl' stripe trim",
@@ -1708,7 +1928,15 @@
         }
       ],
       "size_fit": {
-        "available_sizes": ["4", "6", "8", "10", "12", "14", "16"],
+        "available_sizes": [
+          "4",
+          "6",
+          "8",
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
         "model_info": {
           "size_worn": "40 (UK 8)",
           "height": "5'9.5\" / 176.5 cm",
@@ -1717,8 +1945,15 @@
         },
         "fit_description": "Regular-Fit is relaxed through the body"
       },
-      "actions": ["Notify me", "Add to Bag", "Find in Store"],
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "actions": [
+        "Notify me",
+        "Add to Bag",
+        "Find in Store"
+      ],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "specifications": {
         "material": "Suede",
         "lining": "Contrast viscose",
@@ -1759,13 +1994,15 @@
       "id": 17,
       "title": "Women's Straight-Fit Laser 'Swirl' Jeans",
       "product_code": "W2R-257TP-P21404-PR",
-      "price": 325.0,
+      "price": 325,
       "color": "Blue Wash",
       "material": "99% Organically Grown Cotton, 1% Elastane",
       "made_in": null,
       "description": "These straight-fit jeans, crafted from organically grown cotton with added stretch, offer both comfort and style. The distinctive laser 'Swirl' design adds a unique flair. Featuring a classic five-pocket design, the jeans also boast a tan 'Happy' logo waistband patch and branded hardware. Finished with a zip fly, they blend timeless design with modern details. Perfect for everyday wear, these jeans are a versatile addition to any wardrobe.",
       "fit": {
-        "type": ["Straight-Fit"],
+        "type": [
+          "Straight-Fit"
+        ],
         "description": "Comfortable, classic silhouette that maintains an even width from hip to ankle, Features a regular rise that sits at the natural waist, Designed with a touch of stretch for ease of movement while maintaining shape"
       },
       "components": [
@@ -1838,7 +2075,10 @@
           "Gift Wrapping"
         ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's Jeans",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -1850,13 +2090,15 @@
       "id": 18,
       "title": "Women's Straight-Fit Light-Wash Jeans",
       "product_code": "W2R-257T-P21404-LT",
-      "price": 225.0,
+      "price": 225,
       "color": "Light-Wash",
       "material": "99% Organic Cotton, 1% Elastane",
       "made_in": null,
       "description": "Made from organically grown cotton with stretch for added comfort, these jeans feature a bleached light-wash finish - for a well worn look. Cut for a straight-fit, these jeans are finished with a 'Happy' waistband patch.",
       "fit": {
-        "type": ["Straight-Fit"],
+        "type": [
+          "Straight-Fit"
+        ],
         "description": "Comfortable, classic silhouette that maintains an even width from hip to ankle"
       },
       "components": [
@@ -1897,7 +2139,10 @@
           "Gift Wrapping"
         ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's Jeans",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -1909,13 +2154,15 @@
       "id": 19,
       "title": "Women's Indigo Rinse Slim-Fit 'Happy' Jeans",
       "product_code": "W2R-256T-L21404-R",
-      "price": 195.0,
+      "price": 195,
       "color": "Indigo",
       "material": "99% Cotton, 1% Elastane",
       "made_in": "China",
       "description": "Made from a stretch-cotton denim, these indigo rinse jeans are designed for a slim-fit, and have a classic five-pocket styling. Complete with a tan 'Happy' logo waistband patch and branded hardware, these jeans are finished with a zip fly.",
       "fit": {
-        "type": ["Slim-Fit"],
+        "type": [
+          "Slim-Fit"
+        ],
         "description": "is cut for a close fit through the leg"
       },
       "components": [],
@@ -1969,9 +2216,16 @@
       "options": {
         "size_selection": "Select Size",
         "mix_match_sizing": false,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's Jeans",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -1983,13 +2237,15 @@
       "id": 20,
       "title": "Women's Wool Navy Knitted Roll Neck Sweater",
       "product_code": "W2R-420N-N31241-49",
-      "price": 335.0,
+      "price": 335,
       "color": "Navy",
       "material": "97% Wool, 2% Nylon, 1% Polyester",
       "made_in": "China",
       "description": "Made from a wool blend with a slight stretch this navy roll-neck sweater is constructed in lightweight knit. This sweater is complimented with a ribbed roll neck, a straight hem, and sleeve cuffs with contrast sheer trims infused with glitter thread.",
       "fit": {
-        "type": ["Regular-Fit"],
+        "type": [
+          "Regular-Fit"
+        ],
         "description": "is relaxed through the body"
       },
       "components": [],
@@ -2017,9 +2273,16 @@
       "options": {
         "size_selection": "Select Size",
         "mix_match_sizing": false,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's Knitwear",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -2031,13 +2294,15 @@
       "id": 21,
       "title": "Women's Navy Lounge Sweatshirt With 'Swirl' Cuffs",
       "product_code": "W1A-795M-MU1020-47",
-      "price": 125.0,
+      "price": 125,
       "color": "Navy",
       "material": "100% Cotton",
       "made_in": "Thailand",
       "description": "The perfect loungewear piece, this navy 100% cotton sweatshirt features raglan sleeves and contrasting 'Swirl' stripe cuffs. Designed for a comfortable fit, this loungewear essential will seamlessly elevate your at-home wardrobe.",
       "fit": {
-        "type": ["Regular-Fit"],
+        "type": [
+          "Regular-Fit"
+        ],
         "description": "is relaxed through the body"
       },
       "components": [],
@@ -2074,9 +2339,16 @@
       "options": {
         "size_selection": "Select Size",
         "mix_match_sizing": false,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's Loungewear",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -2088,13 +2360,15 @@
       "id": 22,
       "title": "Women's Pink Cotton Zebra Logo Long-Sleeve T-Shirt",
       "product_code": "W2R-141V-EP1846-21A",
-      "price": 135.0,
+      "price": 135,
       "color": "Pink",
       "material": "100% Organic Cotton",
       "made_in": "Bulgaria",
       "description": "Constructed from 100% organically grown cotton jersey, this pink long-sleeve T-shirt features our classic Zebra logo on the chest.",
       "fit": {
-        "type": ["Regular-Fit"],
+        "type": [
+          "Regular-Fit"
+        ],
         "description": "is relaxed through the body"
       },
       "components": [],
@@ -2203,9 +2477,16 @@
       "options": {
         "size_selection": "Select Size",
         "mix_match_sizing": false,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's T-Shirts",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -2217,13 +2498,15 @@
       "id": 23,
       "title": "Women's Lilac Modal-Blend Zip Lounge Hoodie",
       "product_code": "W1A-796-PU336-51",
-      "price": 195.0,
+      "price": 195,
       "color": "Lilac",
       "material": "65% Modal, 30% Polyester, 5% Elastane",
       "made_in": "Thailand",
       "description": "Made from a soft modal-blend jersey, this lilac zip lounge hoodie features a drawstring with 'Swirl Stripe' tips. Complete with two front pouch pockets, this hoodie is finished with a signature logo patch.",
       "fit": {
-        "type": ["Regular-Fit"],
+        "type": [
+          "Regular-Fit"
+        ],
         "description": "is relaxed through the body"
       },
       "components": [],
@@ -2239,9 +2522,16 @@
       "options": {
         "size_selection": "Select Size",
         "mix_match_sizing": false,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's Loungewear",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -2253,13 +2543,15 @@
       "id": 24,
       "title": "Women's Ecru Sweatshirt with 'Swirl' Trim",
       "product_code": "W2R-373V-T21116-02",
-      "price": 195.0,
+      "price": 195,
       "color": "Ecru",
       "material": "100% Organic Cotton",
       "made_in": "Bulgaria",
       "description": "Elevate your casual wear with this organic cotton sweatshirt in a neutral ecru colourway with 'Swirl' trims for a distinctive touch. In a regular fit, the sweater features a loopback lining and a classic ribbed collar, hem, and cuffs. The 'Swirl' trims feature on the neckline and on the split side seams.",
       "fit": {
-        "type": ["Regular-Fit"],
+        "type": [
+          "Regular-Fit"
+        ],
         "description": "is relaxed through the body"
       },
       "components": [],
@@ -2312,9 +2604,16 @@
       "options": {
         "size_selection": "Select Size",
         "mix_match_sizing": false,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's Sweatshirts & Hoodies",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -2326,14 +2625,16 @@
       "id": 25,
       "title": "Women's Steel Blue Zebra Logo Cotton Sweatshirt",
       "product_code": "W2R-352V-M20616-43",
-      "price": 132.0,
+      "price": 132,
       "original_price": "$165.00",
       "color": "Steel Blue",
       "material": "100% Organic Cotton",
       "made_in": "Bulgaria",
       "description": "Made from soft organically grown cotton, this steel blue crew neck sweatshirt is cut for a relaxed shape and features our classic zebra logo stitched on the chest.",
       "fit": {
-        "type": ["Relaxed-Fit"],
+        "type": [
+          "Relaxed-Fit"
+        ],
         "description": "is loose through the body"
       },
       "components": [],
@@ -2374,9 +2675,16 @@
       "options": {
         "size_selection": "Select Size",
         "mix_match_sizing": false,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's Sweatshirts & Hoodies",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -2388,13 +2696,15 @@
       "id": 26,
       "title": "Women's Pink Cotton Zebra Logo Long-Sleeve T-Shirt",
       "product_code": "W2R-141V-EP1846-21A",
-      "price": 135.0,
+      "price": 135,
       "color": "Pink",
       "material": "100% Organic Cotton",
       "made_in": "Bulgaria",
       "description": "Constructed from 100% organically grown cotton jersey, this pink long-sleeve T-shirt features our classic Zebra logo on the chest.",
       "fit": {
-        "type": ["Regular-Fit"],
+        "type": [
+          "Regular-Fit"
+        ],
         "description": "is relaxed through the body"
       },
       "components": [],
@@ -2503,9 +2813,16 @@
       "options": {
         "size_selection": "Select Size",
         "mix_match_sizing": false,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's T-Shirts",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -2517,13 +2834,15 @@
       "id": 27,
       "title": "Women's Silk-Blend 'Dusky Swirl' Print Shirt",
       "product_code": "W2R-335B-N31190-92",
-      "price": 395.0,
+      "price": 395,
       "color": "Swirl",
       "material": "Silk-Blend Georgette",
       "made_in": "Portugal",
       "description": "Made in Portugal from silk-blend georgette composition for a lightweight feel, this shirt features a 'Dusky Swirl' pattern throughout, this shirt is cut for a relaxed-fit blouse-silhouette, creating the perfect shape for both smart casual and formal occasions. For a feminine feel the shirt features a delicately pleated cuff for a subtle finishing touch.",
       "fit": {
-        "type": ["Relaxed-Fit"],
+        "type": [
+          "Relaxed-Fit"
+        ],
         "description": "is loose through the body"
       },
       "components": [],
@@ -2678,9 +2997,16 @@
       "options": {
         "size_selection": "Select Size",
         "mix_match_sizing": false,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's Shirts",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -2692,13 +3018,15 @@
       "id": 28,
       "title": "Women's Navy and White Cotton Stripe 'Embroidered Flowers' Knitted Vest",
       "product_code": "W2R-560N-P31302-49",
-      "price": 295.0,
+      "price": 295,
       "color": "Navy and White",
       "material": "100% Organic Cotton",
       "made_in": "China",
       "description": "Crafted from organically grown cotton this navy and white vest features a lightweight knit construction and is complemented with seasonal 'Embroidered Flowers' for a distinctive touch. With a V-neck neckline, this vest can easily be paired with a shirt for luxurious layering or worn individually during warmer days.",
       "fit": {
-        "type": ["Regular-Fit"],
+        "type": [
+          "Regular-Fit"
+        ],
         "description": "Relaxed through the body"
       },
       "components": [],
@@ -2746,9 +3074,16 @@
       "options": {
         "size_selection": "Select Size",
         "mix_match_sizing": false,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's Knitwear",
       "subcategory": "Women's V Necks",
       "website": {
@@ -2761,13 +3096,15 @@
       "id": 28,
       "title": "Women's Light Blue Shirt With 'Swirl' Cuff Lining",
       "product_code": "W2R-019BB-P21598-41",
-      "price": 250.0,
+      "price": 250,
       "color": "Light Blue",
       "material": "96% Cotton, 4% Elastane",
       "made_in": "Portugal",
       "description": "Made in Portugal from lightweight cotton with stretch for added comfort, this light blue long-sleeve shirt features our timeless 'Swirl' print as a contrast cuff lining. A wardrobe essential, this shirt is perfect for pairing with tailoring or styling with jeans and trainers for a laid-back look.",
       "fit": {
-        "type": ["Regular-Fit"],
+        "type": [
+          "Regular-Fit"
+        ],
         "description": "is relaxed through the body"
       },
       "components": [],
@@ -2784,9 +3121,16 @@
       "options": {
         "size_selection": "Select Size",
         "mix_match_sizing": false,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's Shirts",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -2798,13 +3142,15 @@
       "id": 29,
       "title": "Women's White Cotton Broderie Panel Shirt",
       "product_code": "W2R-324B-P21598-01",
-      "price": 250.0,
+      "price": 250,
       "color": "White",
       "material": "Cotton with Stretch",
       "made_in": "Portugal",
       "description": "Made in Portugal from a lightweight cotton with stretch for comfort, this summer-ready shirt features tonal Broderie panels on the shoulders and a laid-back open collar.",
       "fit": {
-        "type": ["Regular-Fit"],
+        "type": [
+          "Regular-Fit"
+        ],
         "description": "Relaxed through the body"
       },
       "components": [],
@@ -2879,9 +3225,16 @@
       "options": {
         "size_selection": "Select Size",
         "mix_match_sizing": false,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's Shirts",
       "website": {
         "main_url": "https://www.paulsmith.com/",
@@ -2893,13 +3246,15 @@
       "id": 30,
       "title": "Women's Navy Blue Silk-Blend Fluted Top",
       "product_code": "W2R-271M-P31186-47",
-      "price": 225.0,
+      "price": 225,
       "color": "Blue",
       "material": "Silk-Blend",
       "made_in": "Portugal",
       "description": "Crafted in Portugal from a soft silk-blend, this navy blue top features fluted sleeves, for an elegant silhouette. Complete with a 'Swirl' trim key hole fastening, this elevated staple is ideal for versatile, day-to-night styling.",
       "fit": {
-        "type": ["Regular-Fit"],
+        "type": [
+          "Regular-Fit"
+        ],
         "description": "Relaxed through the body"
       },
       "components": [],
@@ -2946,9 +3301,16 @@
       "options": {
         "size_selection": "Select Size",
         "mix_match_sizing": false,
-        "actions": ["Add to Bag", "Notify me", "Find in Store"]
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ]
       },
-      "services": ["Delivery + Returns", "Gift Wrapping"],
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
       "category": "Women's Tops",
       "subcategory": "Women's Short Sleeve Tops",
       "website": {
@@ -2961,7 +3323,10 @@
   "colors": [
     {
       "name": "Black",
-      "color": ["Black", "Black"]
+      "color": [
+        "Black",
+        "Black"
+      ]
     },
     {
       "name": "Blue",
@@ -2985,27 +3350,232 @@
     },
     {
       "name": "Pink",
-      "color": ["Dusty Rose", "Pink", "Pink", "Lilac"]
+      "color": [
+        "Dusty Rose",
+        "Pink",
+        "Pink",
+        "Lilac"
+      ]
     },
     {
       "name": "Green",
-      "color": ["Sea Green"]
+      "color": [
+        "Sea Green"
+      ]
     },
     {
       "name": "Yellow",
-      "color": ["Buttercup Yellow"]
+      "color": [
+        "Buttercup Yellow"
+      ]
     },
     {
       "name": "Brown",
-      "color": ["Camel", "Terracotta"]
+      "color": [
+        "Camel",
+        "Terracotta"
+      ]
     },
     {
       "name": "White",
-      "color": ["White", "Ecru"]
+      "color": [
+        "White",
+        "Ecru"
+      ]
     },
     {
       "name": "Multicolor",
-      "color": ["Swirl"]
+      "color": [
+        "Swirl"
+      ]
+    }
+  ],
+  "cart": [
+    {
+      "id": 3,
+      "title": "Women's Coral Wool Suit",
+      "product_code": "W2R-SUIT-P31053-16",
+      "price": 1105,
+      "color": "Coral",
+      "material": "Wool-hopsack",
+      "made_in": "Portugal",
+      "description": "Made in Portugal from a rich wool-hopsack cloth, this coral suit is perfect for adding a subtle pop of colour to any outfit. The blazer features a double-breasted fastening and flap pockets, is complete with contrast lining, and three button cuffs. The trousers showcase a cropped length. Features include pleated detail, tonal stitching, zip fly fastening.",
+      "fit": {
+        "type": [
+          "Regular-Fit"
+        ],
+        "description": "is relaxed through the body"
+      },
+      "components": [
+        {
+          "name": "Women's Coral Wool Double-Breasted Blazer",
+          "url": "https://www.paulsmith.com/womens-coral-wool-double-breasted-blazer-orange",
+          "price": "$ 695.0",
+          "details": [
+            "Signature PS by Paul Smith logo label",
+            "Tonal stitching throughout",
+            "Three button functioning cuff",
+            "Viscose lining to flap pockets",
+            "Classic notched lapel",
+            "Polka dot panel lining",
+            "Subtle 'PS' branding to the interior lining"
+          ],
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739458838/MODEL/ECOM/W2R/W2R-246J-P31053-16/W2R-246J-P31053-16_1",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739458843/MODEL/ECOM/W2R/W2R-246J-P31053-16/W2R-246J-P31053-16_3"
+          ]
+        },
+        {
+          "name": "Women's Coral Wool Cropped Pleated Trousers",
+          "url": "https://www.paulsmith.com/womens-coral-wool-cropped-pleated-trousers",
+          "price": "$ 410.0",
+          "details": [
+            "Back button fastened pockets",
+            "Jetted pockets to side seams",
+            "Contrast viscose lining trims",
+            "Interior 'PS' Paul Smith label",
+            "Wool-hopsack construction",
+            "Pleat detailing down the centre"
+          ],
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739458850/MODEL/ECOM/W2R/W2R-350T-P31053-16/W2R-350T-P31053-16_1",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738751462/STILL/W2R/W2R-350T-P31053-16/W2R-350T-P31053-16_10"
+          ]
+        }
+      ],
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739458856/MODEL/ECOM/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739458858/MODEL/ECOM/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_2",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739458861/MODEL/ECOM/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_3",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739458863/MODEL/ECOM/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_4",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739458865/MODEL/ECOM/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_5",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739194245/STILL/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739194248/STILL/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739194250/STILL/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_30",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739194253/STILL/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_40",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739194255/STILL/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_50",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739194257/STILL/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_60"
+      ],
+      "options": {
+        "size_selection": "Select Size",
+        "mix_match_sizing": true,
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ]
+      },
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
+      "category": "Women's Suits",
+      "website": {
+        "main_url": "https://www.paulsmith.com/",
+        "current_section": "Womens",
+        "current_section_url": "https://www.paulsmith.com/womens"
+      }
+    },
+    {
+      "id": 1,
+      "title": "Women's Dark Navy Skirt Suit",
+      "product_code": "W1R-SUIT2-P01427-49A",
+      "price": 1990,
+      "color": "Dark Navy",
+      "material": "Linen composition",
+      "made_in": "Italy",
+      "description": "Made in Italy from a linen composition this dark navy skirt suit features a double-breasted blazer and maxi-length skirt. The blazer is cut to a straight fit with subtle shaping to the back and an exaggerated peak lapel for a feminine feel. The blazer features contrast 'Signature Stripe' lining trims for a distinctive touch. The maxi skirt is the perfect transitional piece for seasonal styling. Complete with partial viscose lining, the skirt features twin side pockets, button fastened pockets to the back, concealed zip fly, belt loops, and contrast button fastening to the waistband, effortlessly combining functionality and style.",
+      "fit": {
+        "type": [
+          "Straight-Fit",
+          "Relaxed-Fit"
+        ],
+        "description": "is loose through the body"
+      },
+      "components": [
+        {
+          "name": "Women's Dark Navy Double Breasted Linen Blazer",
+          "url": "https://www.paulsmith.com/womens-dark-navy-double-breasted-linen-blazer",
+          "price": "$1195.0",
+          "details": [
+            "'Signature Stripe' partial lining to the interior",
+            "Interior signature Paul Smith label",
+            "Double-breasted button fastening",
+            "Four-button cuff fastening",
+            "Exaggerated peak lapel"
+          ],
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739880047/MODEL/ECOM/W1R/W1R-369JB-P01427-49A/W1R-369JB-P01427-49A_1",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1736416834/STILL/W1R/W1R-369JB-P01427-49A/W1R-369JB-P01427-49A_10",
+            "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1736285776/Product/W1R/W1R-369JB-P01427-49A/W1R-369JB-P01427-49A_8",
+            "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1736285774/Product/W1R/W1R-369JB-P01427-49A/W1R-369JB-P01427-49A_7",
+            "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1736285778/Product/W1R/W1R-369JB-P01427-49A/W1R-369JB-P01427-49A_9",
+            "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1736285772/Product/W1R/W1R-369JB-P01427-49A/W1R-369JB-P01427-49A_6"
+          ]
+        },
+        {
+          "name": "Women's Dark Navy Maxi Skirt",
+          "url": "https://www.paulsmith.com/womens-dark-navy-maxi-skirt",
+          "price": "$795.0",
+          "details": [
+            "'Made in Italy' label",
+            "Gold hardware detailing",
+            "Riri zip fastening",
+            "'Signature Stripe' tape detailing to the interior",
+            "Button fastening to the waist"
+          ],
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739880034/MODEL/ECOM/W1R/W1R-290S-P01427-49A/W1R-290S-P01427-49A_1",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739880038/MODEL/ECOM/W1R/W1R-290S-P01427-49A/W1R-290S-P01427-49A_3",
+            "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1736285750/Product/W1R/W1R-290S-P01427-49A/W1R-290S-P01427-49A_1",
+            "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1736285751/Product/W1R/W1R-290S-P01427-49A/W1R-290S-P01427-49A_2",
+            "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1736285753/Product/W1R/W1R-290S-P01427-49A/W1R-290S-P01427-49A_3",
+            "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1736285754/Product/W1R/W1R-290S-P01427-49A/W1R-290S-P01427-49A_4"
+          ]
+        }
+      ],
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739880086/MODEL/ECOM/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739880090/MODEL/ECOM/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_2",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739880094/MODEL/ECOM/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_3",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739880098/MODEL/ECOM/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_4",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739880101/MODEL/ECOM/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_5",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1738080024/STILL/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1738080026/STILL/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1738080028/STILL/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_30",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1738080030/STILL/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_40",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1738080033/STILL/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_50",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1738080036/STILL/W1R/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A_60"
+      ],
+      "video": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_auto/e_volume:mute/v1741692995/VIDEO/W1R-SUIT2-P01427-49A/W1R-SUIT2-P01427-49A.mp4.mp4",
+      "related_product": {
+        "name": "Women's Green 'Signature Stripe' Cuff Cotton Shirt",
+        "url": "https://www.paulsmith.com/womens-green-signature-stripe-cuff-cotton-shirt",
+        "price": "$ 355.0",
+        "images": [
+          "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1731686463/STILL/W1R/W1R-329B-M10955-34/W1R-329B-M10955-34_10",
+          "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739880041/MODEL/ECOM/W1R/W1R-329B-M10955-34/W1R-329B-M10955-34_1"
+        ]
+      },
+      "options": {
+        "size_selection": "Select Size",
+        "mix_match_sizing": true,
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ]
+      },
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
+      "category": "Women's Suits",
+      "website": {
+        "name_url": "https://www.paulsmith.com/",
+        "current_section": "Womens",
+        "current_section_url": "https://www.paulsmith.com/womens"
+      }
     }
   ]
 }
