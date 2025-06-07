@@ -92,7 +92,61 @@
             </div>
         </header>
         <main class="relative w-full h-fit bg-gray-50 z-5">
-            
+            <section class=" w-full h-fit py-10 px-5">
+                <div class="flex flex-col justify-between items-center w-full h-[800px] bg-gray-50 p-5">
+                    <div>
+                        <h1 class="mt-5 text-5xl">Create an account</h1>
+                        <p class="text-center">Already have an account? <a href="#" class="hover:underline">Login</a></p>
+                    </div>
+
+                    <form action="" class="flex flex-col justify-between items-start w-[800px] h-fit m-3 p-3 bg-gray-200" id="sign up">
+                        <label for="personal-info" class="text-xl font-bold">Personal information</label>
+
+                        <div class="w-full flex justify-between items-center">
+                            <div class="relative w-[48%] h-fit m-2">
+                                <input id="email" type="text" placeholder="First name" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent"/>
+                                <label for="email" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
+                                    First name
+                                </label>
+                            </div>
+                            <div class="relative w-[48%] h-fit m-2">
+                                <input id="email" type="text" placeholder="Last name" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent"/>
+                                <label for="email" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
+                                    Last name
+                                </label>
+                            </div>
+                        </div>
+                        <div class="relative w-full h-fit mb-8">
+                            <input id="email" type="text" placeholder="Enter your email" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent"/>
+                            <label for="email" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
+                                Enter your email
+                            </label>
+                        </div>
+
+                        <label for="personal-info" class="text-xl font-bold mb-5">Personal information</label>
+
+                        <div class="relative w-full h-fit my-2">
+                            <input id="email" type="text" placeholder="New password" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent"/>
+                            <label for="email" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
+                                New password
+                            </label>
+                        </div>
+                        <div class="relative w-full h-fit">
+                            <input id="email" type="text" placeholder="Confirm password" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent"/>
+                            <label for="email" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
+                                Confirm password
+                            </label>
+                        </div>
+
+                        <div class="mt-5 mb-8 flex justify-between items-center">
+                            <input type="checkbox" class="w-4 h-4 text-black border-gray-300 focus:ring-2 focus:ring-black">
+                            <p class="w-[95%]">Please tick this box if you don't want to sign up for email updates. When you subscribe you accept Paul Smith's Privacy Policy.</p>
+                        </div>
+
+                        <button type="submit" class="self-center bg-gray-900 text-gray-50 px-8 py-2"><a href="#">Submit</a></button>
+                    </form>
+                </div>
+            </section>
         </main>
         <footer class="relative w-full bg-blue-500 z-0">
             <div class="w-full h-[1000px] bg-red-300">
@@ -362,7 +416,6 @@
 
 
     <!-- JS file linked -->
-    <script type="module" src="script/main.js"></script>
     <script type="module" src="script/all.js"></script>
 </body>
 </html>
