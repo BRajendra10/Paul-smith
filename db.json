@@ -284,6 +284,7 @@
       "color": "Dark Navy",
       "material": "Linen composition",
       "made_in": "Italy",
+      "quantity": 1,
       "description": "Made in Italy from a linen composition this dark navy skirt suit features a double-breasted blazer and maxi-length skirt. The blazer is cut to a straight fit with subtle shaping to the back and an exaggerated peak lapel for a feminine feel. The blazer features contrast 'Signature Stripe' lining trims for a distinctive touch. The maxi skirt is the perfect transitional piece for seasonal styling. Complete with partial viscose lining, the skirt features twin side pockets, button fastened pockets to the back, concealed zip fly, belt loops, and contrast button fastening to the waistband, effortlessly combining functionality and style.",
       "fit": {
         "type": [
@@ -385,6 +386,7 @@
       "color": "Sea Green",
       "material": "Wool hopsack",
       "made_in": "Portugal",
+      "quantity": 1,
       "description": "Made in Portugal from a rich wool hopsack composition, this sea-green suit features a single-button blazer and wide-leg trousers. The blazer has jetted pockets, a contrast lining, and four button cuffs. The trousers have a pleated front, soft viscose lining, and angled side pockets.",
       "fit": {
         "type": [
@@ -516,6 +518,7 @@
       "color": "Coral",
       "material": "Wool-hopsack",
       "made_in": "Portugal",
+      "quantity": 1,
       "description": "Made in Portugal from a rich wool-hopsack cloth, this coral suit is perfect for adding a subtle pop of colour to any outfit. The blazer features a double-breasted fastening and flap pockets, is complete with contrast lining, and three button cuffs. The trousers showcase a cropped length. Features include pleated detail, tonal stitching, zip fly fastening.",
       "fit": {
         "type": [
@@ -601,6 +604,7 @@
       "color": "Dusty Rose",
       "material": "Wool hopsack",
       "made_in": "Portugal",
+      "quantity": 1,
       "description": "Made in Portugal from a rich wool hopsack composition, this dusty rose suit features a single-button blazer and slim-fit trousers. The blazer has jetted pockets, a contrast lining, and four button cuffs. The trousers feature concealed side pockets, an additional back pocket for added practicality, and an asymmetrical button fastening for a unique touch of style.",
       "fit": {
         "type": [
@@ -733,6 +737,7 @@
       "color": "Black",
       "material": "100% Wool, Lining: 100% Viscose",
       "made_in": "Italy",
+      "quantity": 1,
       "description": "Made in Italy from a luxe wool crease-resistant composition, this black blazer features a double-breasted fastening. Cut to a straight fit with subtle shaping to the back and an exaggerated peak lapel for a feminine feel. The blazer features a contrast lining and 'Signature Stripe' trims.",
       "fit": {
         "type": [
@@ -850,6 +855,7 @@
       "color": "Navy",
       "material": "100% Wool, Lining: 100% Cupro",
       "made_in": "Italy",
+      "quantity": 1,
       "description": "Made in Italy as part of the Paul Smith 'A Suit To Travel In' collection, this dark navy one button blazer is constructed using a high-twist yarn to create a quick recovery, crease-resistant 100% wool-twill cloth; providing a versatile and highly-practical piece of tailoring.",
       "fit": {
         "type": [
@@ -954,6 +960,7 @@
       "color": "Navy",
       "material": "100% Wool, 100% Cupro Lining",
       "made_in": "Italy",
+      "quantity": 1,
       "description": "Made in Italy as part of the Paul Smith 'A Suit To Travel In' collection, this dark navy two-button blazer is constructed using a high-twist yarn to create a quick recovery, crease-resistant 100% wool-twill cloth; providing a versatile and highly-practical piece of tailoring. Featuring a notched lapel, this jacket comes complete with functioning four-button 'kissing' cuffs and tonal buttons throughout.",
       "fit": {
         "type": [
@@ -1023,6 +1030,7 @@
       "color": "Dusty Blue",
       "material": "100% Wool, Lining: 100% Viscose",
       "made_in": "Italy",
+      "quantity": 1,
       "description": "Made in Italy as part of the Paul Smith 'A Suit To Travel In' collection, this dusty blue two-button blazer is constructed using a high-twist yarn to create a quick recovery, crease-resistant 100% wool-twill cloth; providing a versatile and highly-practical piece of tailoring. Featuring a notched lapel, this jacket comes complete with a full viscose lining.",
       "fit": {
         "type": [
@@ -1173,6 +1181,7 @@
       "color": "Buttercup Yellow",
       "material": "100% Wool, Lining: 100% Viscose",
       "made_in": "Italy",
+      "quantity": 1,
       "description": "Made in Italy from a rich wool composition, this buttercup yellow waistcoat offers versatile styling options, whether paired with matching tailored pieces or worn with jeans for a more laid-back look. Complete with a contrast five-button closure, the waistcoat features a subtle rear vent, faux pockets at the front, and a luxurious viscose lining.",
       "fit": {
         "type": [
@@ -1309,6 +1318,7 @@
       "color": "Black",
       "material": "100% Wool",
       "made_in": "Italy",
+      "quantity": 1,
       "description": "Made in Italy as part of the Paul Smith 'A Suit To Travel In' collection, these black trousers are constructed using a high-twist 100% wool yarn to create a quick recovery, crease-resistant cloth; providing a versatile and highly-practical piece of tailoring. Finishing at the ankle for a modern, elegant silhouette, these slim-fit trousers come complete with colour-flash interior detailing.",
       "fit": {
         "type": [
@@ -1443,6 +1453,7 @@
       "color": "Navy",
       "material": "Woven, 100% Wool",
       "made_in": "Portugal",
+      "quantity": 1,
       "description": "Dress up or dress down, these navy wide leg trousers are cut to sit high on the waist and skim over the hip. Featuring a pleated front, blue internal detailing and angled side pockets.",
       "fit": {
         "type": [
@@ -1556,6 +1567,7 @@
       "price": 525,
       "color": "Dusty Blue",
       "color_options": "3 more colours",
+      "quantity": 1,
       "description": "Made in Italy as part of the Paul Smith 'A Suit To Travel In' collection, these dusty blue trousers are constructed using a high-twist 100% wool yarn to create a quick recovery, crease-resistant cloth; providing a versatile and highly-practical piece of tailoring.",
       "category": "Women's Wide Leg Trousers",
       "images": [
@@ -1681,6 +1693,7 @@
       "original_price": "$1,195.00",
       "discount": "20% OFF",
       "color": "Navy",
+      "quantity": 1,
       "description": "Made in Italy using a wool seersucker cloth with stretch for added comfort from Tessibiella, these navy wide leg trousers feature a blue pinstripe pattern throughout. Cut for a relaxed, wide leg shape, these trousers are finished with a drawstring waist.",
       "category": "Women's Wide Leg Trousers",
       "images": [
@@ -1779,6 +1792,7 @@
       "price": 1895,
       "color": "Camel",
       "color_options": "2 more colours",
+      "quantity": 1,
       "description": "Elevate your outerwear this transitional season with this camel trench coat crafted from luxurious Loro Piana 'Green Storm System' wool. Made in Italy this coat oozes timeless appeal with features including a belted design, detachable quilted liner, concealed placket with contrast top button, and twin pockets.",
       "category": "Women's Sweatshirts & Hoodies",
       "images": [
@@ -1869,6 +1883,7 @@
       "collection": "Shop the look",
       "price": 850,
       "color": "Terracotta",
+      "quantity": 1,
       "description": "This terracotta jacket, crafted from rich suede, offers a sleek, streamlined design enhanced by subtle brand details. With a concealed zip-fastened placket for a clean look, along with a press-stud fastening at the collar for added versatility. The jacket is designed with belt loops at the hem and press-stud closure pockets for both style and functionality. Finished with a contrasting viscose lining, this statement jacket is the ideal transitional piece, blending style and practicality for a standout addition to your wardrobe.",
       "category": "Women's Sweatshirts & Hoodies",
       "images": [
@@ -1998,6 +2013,7 @@
       "color": "Blue Wash",
       "material": "99% Organically Grown Cotton, 1% Elastane",
       "made_in": null,
+      "quantity": 1,
       "description": "These straight-fit jeans, crafted from organically grown cotton with added stretch, offer both comfort and style. The distinctive laser 'Swirl' design adds a unique flair. Featuring a classic five-pocket design, the jeans also boast a tan 'Happy' logo waistband patch and branded hardware. Finished with a zip fly, they blend timeless design with modern details. Perfect for everyday wear, these jeans are a versatile addition to any wardrobe.",
       "fit": {
         "type": [
@@ -2094,6 +2110,7 @@
       "color": "Light-Wash",
       "material": "99% Organic Cotton, 1% Elastane",
       "made_in": null,
+      "quantity": 1,
       "description": "Made from organically grown cotton with stretch for added comfort, these jeans feature a bleached light-wash finish - for a well worn look. Cut for a straight-fit, these jeans are finished with a 'Happy' waistband patch.",
       "fit": {
         "type": [
@@ -2158,6 +2175,7 @@
       "color": "Indigo",
       "material": "99% Cotton, 1% Elastane",
       "made_in": "China",
+      "quantity": 1,
       "description": "Made from a stretch-cotton denim, these indigo rinse jeans are designed for a slim-fit, and have a classic five-pocket styling. Complete with a tan 'Happy' logo waistband patch and branded hardware, these jeans are finished with a zip fly.",
       "fit": {
         "type": [
@@ -2241,6 +2259,7 @@
       "color": "Navy",
       "material": "97% Wool, 2% Nylon, 1% Polyester",
       "made_in": "China",
+      "quantity": 1,
       "description": "Made from a wool blend with a slight stretch this navy roll-neck sweater is constructed in lightweight knit. This sweater is complimented with a ribbed roll neck, a straight hem, and sleeve cuffs with contrast sheer trims infused with glitter thread.",
       "fit": {
         "type": [
@@ -2298,6 +2317,7 @@
       "color": "Navy",
       "material": "100% Cotton",
       "made_in": "Thailand",
+      "quantity": 1,
       "description": "The perfect loungewear piece, this navy 100% cotton sweatshirt features raglan sleeves and contrasting 'Swirl' stripe cuffs. Designed for a comfortable fit, this loungewear essential will seamlessly elevate your at-home wardrobe.",
       "fit": {
         "type": [
@@ -2364,6 +2384,7 @@
       "color": "Pink",
       "material": "100% Organic Cotton",
       "made_in": "Bulgaria",
+      "quantity": 1,
       "description": "Constructed from 100% organically grown cotton jersey, this pink long-sleeve T-shirt features our classic Zebra logo on the chest.",
       "fit": {
         "type": [
@@ -2502,6 +2523,7 @@
       "color": "Lilac",
       "material": "65% Modal, 30% Polyester, 5% Elastane",
       "made_in": "Thailand",
+      "quantity": 1,
       "description": "Made from a soft modal-blend jersey, this lilac zip lounge hoodie features a drawstring with 'Swirl Stripe' tips. Complete with two front pouch pockets, this hoodie is finished with a signature logo patch.",
       "fit": {
         "type": [
@@ -2547,6 +2569,7 @@
       "color": "Ecru",
       "material": "100% Organic Cotton",
       "made_in": "Bulgaria",
+      "quantity": 1,
       "description": "Elevate your casual wear with this organic cotton sweatshirt in a neutral ecru colourway with 'Swirl' trims for a distinctive touch. In a regular fit, the sweater features a loopback lining and a classic ribbed collar, hem, and cuffs. The 'Swirl' trims feature on the neckline and on the split side seams.",
       "fit": {
         "type": [
@@ -2630,6 +2653,7 @@
       "color": "Steel Blue",
       "material": "100% Organic Cotton",
       "made_in": "Bulgaria",
+      "quantity": 1,
       "description": "Made from soft organically grown cotton, this steel blue crew neck sweatshirt is cut for a relaxed shape and features our classic zebra logo stitched on the chest.",
       "fit": {
         "type": [
@@ -2700,6 +2724,7 @@
       "color": "Pink",
       "material": "100% Organic Cotton",
       "made_in": "Bulgaria",
+      "quantity": 1,
       "description": "Constructed from 100% organically grown cotton jersey, this pink long-sleeve T-shirt features our classic Zebra logo on the chest.",
       "fit": {
         "type": [
@@ -2838,6 +2863,7 @@
       "color": "Swirl",
       "material": "Silk-Blend Georgette",
       "made_in": "Portugal",
+      "quantity": 1,
       "description": "Made in Portugal from silk-blend georgette composition for a lightweight feel, this shirt features a 'Dusky Swirl' pattern throughout, this shirt is cut for a relaxed-fit blouse-silhouette, creating the perfect shape for both smart casual and formal occasions. For a feminine feel the shirt features a delicately pleated cuff for a subtle finishing touch.",
       "fit": {
         "type": [
@@ -3022,6 +3048,7 @@
       "color": "Navy and White",
       "material": "100% Organic Cotton",
       "made_in": "China",
+      "quantity": 1,
       "description": "Crafted from organically grown cotton this navy and white vest features a lightweight knit construction and is complemented with seasonal 'Embroidered Flowers' for a distinctive touch. With a V-neck neckline, this vest can easily be paired with a shirt for luxurious layering or worn individually during warmer days.",
       "fit": {
         "type": [
@@ -3100,6 +3127,7 @@
       "color": "Light Blue",
       "material": "96% Cotton, 4% Elastane",
       "made_in": "Portugal",
+      "quantity": 1,
       "description": "Made in Portugal from lightweight cotton with stretch for added comfort, this light blue long-sleeve shirt features our timeless 'Swirl' print as a contrast cuff lining. A wardrobe essential, this shirt is perfect for pairing with tailoring or styling with jeans and trainers for a laid-back look.",
       "fit": {
         "type": [
@@ -3146,6 +3174,7 @@
       "color": "White",
       "material": "Cotton with Stretch",
       "made_in": "Portugal",
+      "quantity": 1,
       "description": "Made in Portugal from a lightweight cotton with stretch for comfort, this summer-ready shirt features tonal Broderie panels on the shoulders and a laid-back open collar.",
       "fit": {
         "type": [
@@ -3250,6 +3279,7 @@
       "color": "Blue",
       "material": "Silk-Blend",
       "made_in": "Portugal",
+      "quantity": 1,
       "description": "Crafted in Portugal from a soft silk-blend, this navy blue top features fluted sleeves, for an elegant silhouette. Complete with a 'Swirl' trim key hole fastening, this elevated staple is ideal for versatile, day-to-night styling.",
       "fit": {
         "type": [
@@ -3399,6 +3429,7 @@
       "color": "Coral",
       "material": "Wool-hopsack",
       "made_in": "Portugal",
+      "quantity": 1,
       "description": "Made in Portugal from a rich wool-hopsack cloth, this coral suit is perfect for adding a subtle pop of colour to any outfit. The blazer features a double-breasted fastening and flap pockets, is complete with contrast lining, and three button cuffs. The trousers showcase a cropped length. Features include pleated detail, tonal stitching, zip fly fastening.",
       "fit": {
         "type": [
@@ -3484,6 +3515,7 @@
       "color": "Dark Navy",
       "material": "Linen composition",
       "made_in": "Italy",
+      "quantity": 1,
       "description": "Made in Italy from a linen composition this dark navy skirt suit features a double-breasted blazer and maxi-length skirt. The blazer is cut to a straight fit with subtle shaping to the back and an exaggerated peak lapel for a feminine feel. The blazer features contrast 'Signature Stripe' lining trims for a distinctive touch. The maxi skirt is the perfect transitional piece for seasonal styling. Complete with partial viscose lining, the skirt features twin side pockets, button fastened pockets to the back, concealed zip fly, belt loops, and contrast button fastening to the waistband, effortlessly combining functionality and style.",
       "fit": {
         "type": [
@@ -3585,6 +3617,7 @@
       "color": "Navy",
       "material": "100% Wool, 100% Cupro Lining",
       "made_in": "Italy",
+      "quantity": 1,
       "description": "Made in Italy as part of the Paul Smith 'A Suit To Travel In' collection, this dark navy two-button blazer is constructed using a high-twist yarn to create a quick recovery, crease-resistant 100% wool-twill cloth; providing a versatile and highly-practical piece of tailoring. Featuring a notched lapel, this jacket comes complete with functioning four-button 'kissing' cuffs and tonal buttons throughout.",
       "fit": {
         "type": [
