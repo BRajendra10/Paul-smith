@@ -118,16 +118,17 @@ add_to_cart_btn.addEventListener("click", async () => {
 async function add_cart_data() {
   let newData = await get_data();
 
-   await fetch("http://localhost:3000/cart", {
+  const res = await fetch("http://localhost:3000/cart", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
-    body: JSON.stringify(newData),
+    body: JSON.stringify({ ...newData, quantity: 1 }),
   });
-  const data = await res.json();
 
+  const data = await res.json();
   console.log(data);
   return data;
 }
+
 
 async function get_cart_data() {
   const res = await fetch("http://localhost:3000/cart");

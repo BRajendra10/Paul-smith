@@ -97,3 +97,5 @@ function cart(title, images, price) {
 
   return cart;
 }
+
+console.log(document.querySelectorAll("#qty"))
