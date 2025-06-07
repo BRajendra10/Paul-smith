@@ -13,11 +13,14 @@
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <!-- remix cdn linked -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.5.0/remixicon.css" integrity="sha512-6p+GTq7fjTHD/sdFPWHaFoALKeWOU9f9MPBoPnvJEWBkGS4PKVVbCpMps6IXnTiXghFbxlgDE8QRHc3MU91lJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 </head>
 <body>
     
-    <div class="w-full h-screen">
-        <header class="relative w-full">
+
+    <!-- full web page -->
+    <div class="w-full h-fit">
+        <header class="relative w-full z-10">
             <nav class="fixed flex justify-between items-center w-full h-[50px] bg-gray-50 px-4 z-10">
                 <div class="w-[100px] lg:w-[120px]">
                     <img class="w-[100%] h-[25px]" src="assets/logo.png" alt="logo">
@@ -43,7 +46,7 @@
                             </a>
                         </li>
                         <li class="hidden xl:block">
-                            <a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900 btn login-btn" id="login-btn" href="signup.html">Login 
+                            <a class="font-bold text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900 btn login-btn" id="login-btn" href="#">Login 
                                 <i class="ri-emotion-happy-line font-normal text-lg"></i>
                             </a>
                         </li>
@@ -78,162 +81,18 @@
                     </ul>
                 </div>
             </nav>
+
+            <div class="absolute bottom-[0%] w-full sm:w-[440px] h-fit p-5">
+                <h1 class="text-3xl text-gray-50 mb-3">Get ready for your getaway</h1>
+                <p class="text-gray-50 mb-5">Complete your holiday wardrobe with our sun-drenched summer collection.</p>
+                <ul class="flex">
+                    <li class="pr-5"><a class="text-sm text-gray-50 uppercase" href="#">For him <i class="ri-arrow-right-up-line"></i></a></li>
+                    <li class="pr-2"><a class="text-sm text-gray-50 uppercase" href="#">For her <i class="ri-arrow-right-up-line"></i></a></li>
+                </ul>
+            </div>
         </header>
-        <main class="relative top-8 w-full h-fit py-5 z-5 bg-gray-50">
-            <!-- CAROUSEL SECTION -->
-            <section class="relative w-full h-fit">
-                <div id="carousel" class="flex gap-4 overflow-x-auto scroll-smooth scrollbar-hide px-8">
-                    <!-- json_data images gone added here -->
-
-                    <div class="absolute bottom-0 right-0 w-full lg:w-[840px] h-[350px] bg-gray-50 p-5">
-                        <div class="w-full h-[70px] flex flex-col justify-between mb-8">
-                            <div class="w-full flex justify-between">
-                                <h2 class="text-2xl font-normal" id="title"></h2>
-                                <button class="text-base uppercase font-semibold cursor-pointer"><i class="ri-bookmark-line"></i></button>
-                            </div>
-                            <div class="w-full flex justify-start">
-                                <span class="text-base pr-6" id="price"></span>
-                                <span class="text-base pr-6" id="color">Ivory</span>
-                                <!-- <span class="text-base pr-6">color</span> -->
-                            </div>
-                        </div>
-                        <div class="w-full h-[70px] flex flex-col justify-between mb-8">
-                            <div class="w-fit flex">
-                                <h5 class="uppercase text-sm pe-5">Width</h5>
-                                <a class="uppercase text-sm hover:underline" href="#">Size guide</a>
-                            </div>
-                            <div class="flex justify-between items-center">
-                                <div class="flex items-center w-[12%] h-[40px] p-2 bg-gray-100 hover:bg-gray-300">
-                                    <span>4</span>
-                                </div>
-                                <div class="flex items-center w-[12%] h-[40px] p-2 bg-gray-100 hover:bg-gray-300">
-                                    <span>6</span>
-                                </div>
-                                <div class="flex items-center w-[12%] h-[40px] p-2 bg-gray-100 hover:bg-gray-300">
-                                    <span>8</span>
-                                </div>
-                                <div class="flex items-center w-[12%] h-[40px] p-2 bg-gray-100 hover:bg-gray-300">
-                                    <span>10</span>
-                                </div>
-                                <div class="flex items-center w-[12%] h-[40px] p-2 bg-gray-100 hover:bg-gray-300">
-                                    <span>12</span>
-                                </div>
-                                <div class="flex items-center w-[12%] h-[40px] p-2 bg-gray-100 hover:bg-gray-300">
-                                    <span>8</span>
-                                </div>
-                                <div class="flex items-center w-[12%] h-[40px] p-2 bg-gray-100 hover:bg-gray-300">
-                                    <span>14</span>
-                                </div>
-                                <div class="flex items-center w-[12%] h-[40px] p-2 bg-gray-100 hover:bg-gray-300">
-                                    <span>16</span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="flex justify-between items-center">
-                            <ul class="flex flex-col group">
-                                <li class="font-medium text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900 px-3 leading-6"><a href="#">Dilivery & return</a></li>
-                                <li class="font-medium text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900 px-3 leading-6"><a href="#">Gift wrapping</a></li>
-                                <li class="font-medium text-xs uppercase group-hover:text-stone-500 hover:text-stone-900 text-stone-900 px-3 leading-6"><a href="#">find a store</a></li>
-                            </ul>
-
-                            <div class="w-[200px] h-[50px]">
-                                <button class="w-full h-full bg-yellow-400" id="add-to-cart">
-                                <a href="#">add to bag <i class="ri-add-fill"></i></a>
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="absolute bottom-8 left-8 hidden lg:block w-[200px] h-fit">
-                        <div class="w-full h-fit">
-                            <button class="p-2 bg-gray-50" id="prevBtn"><i class="ri-arrow-left-line"></i></button>
-                            <button class="p-2 bg-gray-50" id="nextBtn"><i class="ri-arrow-right-line"></i></button>
-                            <button class="p-2 bg-gray-50"><a href="#">shop the look</a></button>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- PRODUCT INFO SECTION -->
-            <section class="flex flex-col w-full h-fit py-8">
-                <div class="flex flex-col justify-between items-end w-full h-fit">
-                    <div class="flex flex-col lg:flex-row justify-between w-full lg:w-[85%] h-fit mb-5">
-                        <div class="w-full lg:w-[40%] flex justify-between h-fit">
-                            <div class="w-[49.5%]" id="img-1-container">
-                                <img src="" alt="" id="img-1">
-                            </div>
-                            <div class="w-[49.5%]" id="img-2-container">
-                                <img src="" alt="" id="img-2">
-                            </div>
-                        </div>
-                        <div class="flex flex-col items-start w-full lg:w-[60%] h-[400px] p-5" id="product-info">
-                            <!-- <div class="w-full h-fit mb-5">
-                                <h6 class="leading-7 uppercase">The fit</h6>
-                                <p class="leading-7 font-bold">Model wears a size 40 (UK 8)</p>
-                                <p class="leading-7">Model measures: Height 5’9.5” / 176.5 cm | Chest 29”  / 73.6 cm | Waist 24” / 60.9 cm</p>
-                            </div>
-                            <div class="w-full h-fit mb-5">
-                                <h6 class="leading-7">The fit</h6>
-                                <p>- This Straight-Fit travel blazer is cut for a boxy-fit that finishes at a longer length that ends around the hips and has thin shoulder pads for a more casual and refined look. </p>
-                            </div> -->
-
-                            <!-- <button class="p-2 hover:bg-gray-200"><a href="#">Size guide</a></button> -->
-                        </div>
-                    </div>
-                    <!-- <div class="w-full lg:w-[85%] h-fit" id="product-information">
-                        <div class="flex flex-col lg:flex-row w-full h-fit border-t-1 py-2">
-                            <div class="w-fit lg:w-[20%]">
-                                <h6 class="uppercase text-sm leading-6">Material</h6>
-                            </div>
-                            <div>
-                                <p class="text-sm leading-6 leading-6">100% Linen Lining: 100% Viscose</p>
-                            </div>
-                        </div>
-                        <div class="flex flex-col lg:flex-row w-full h-fit border-t-1 py-2">
-                            <div class="w-fit lg:w-[20%]">
-                                <h6 class="uppercase text-sm leading-6">Made In</h6>
-                            </div>
-                            <div>
-                                <p class="text-sm leading-6">italy</p>
-                            </div>
-                        </div>
-                        <div class="flex flex-col lg:flex-row w-full h-fit border-t-1 py-2">
-                            <div class="w-fit lg:w-[20%]">
-                                <h6 class="uppercase text-sm leading-6">Product Code</h6>
-                            </div>
-                            <div>
-                                <p class="text-sm leading-6">W1R-254JC-P01427-04</p>
-                            </div>
-                        </div>
-                        <div class="flex flex-col lg:flex-row w-full h-fit border-t-1 py-2">
-                            <div class="w-fit lg:w-[20%]">
-                                <h6 class="uppercase text-sm leading-6">Care Info</h6>
-                            </div>
-                            <div>
-                                <p class="text-sm leading-6">Dry Clean Only</p>
-                            </div>
-                        </div>
-                        <div class="flex flex-col lg:flex-row w-full h-fit border-t-1 py-2">
-                            <div class="w-fit lg:w-[20%]">
-                                <h6 class="uppercase text-sm leading-6">Features</h6>
-                            </div>
-                            <ul>
-                                <li class="uppercase text-sm"><a href="#">Single-button fastening</a></li>
-                                <li class="uppercase text-sm"><a href="#">Jetted pockets</a></li>
-                                <li class="uppercase text-sm"><a href="#">Thin shoulder pads</a></li>
-                                <li class="uppercase text-sm"><a href="#">Partially lined construction</a></li>
-                                <li class="uppercase text-sm"><a href="#">Designed for travel comfort</a></li>
-                            </ul>
-                        </div>
-
-                        <div class="w-full h-fit my-2 border-t-1 py-2">
-                            <button class="uppercase text-sm p-2 hover:bg-gray-200"><a href="#">Read more</a></button>
-                        </div>
-                    </div> -->
-                </div>
-            </section>
-
+        <main class="relative w-full h-fit bg-gray-50 z-5">
+            
         </main>
         <footer class="relative w-full bg-blue-500 z-0">
             <div class="w-full h-[1000px] bg-red-300">
@@ -241,7 +100,7 @@
                 <img class="block lg:hidden fixed bottom-0 left-0 w-full h-[1000px] z-0" src="assets/Paul-smith-footer-img-2.jpg" alt="paul-smith-image">
             </div>
 
-            <div class="absolute top-2/4 lg:top-3/4 left-2/4 -translate-x-1/2 -translate-y-1/2 flex flex-col lg:flex-row justify-between items-center w-[95%] h-[800px] lg:h-[400px] p-2 bg-gray-50">
+            <div class="absolute top-2/4 lg:top-3/4 left-2/4 -translate-x-1/2 -translate-y-1/2 flex flex-col lg:flex-row justify-between items-center w-[95%] h-[800px] lg:h-[400px] bg-gray-50">
                 <div class="flex flex-col justify-between w-full lg:w-[40%] h-[250px] lg:h-[400px] p-6">
                     <div class="w-[60%]">
                         <h1 class="font-medium text-2xl mb-5">You can find inspiration in everything (and if you can't, look again).</h1>
@@ -250,7 +109,7 @@
                     </div>
                    <div class="relative w-full lg:w-[50%] h-fit">
                         <input id="email" type="text" placeholder="Enter your email" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent"/>
-                        <label for="email" class="absolute left-0 top-2 text-sm t p-2ext-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:t p-2ext-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
+                        <label for="email" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
                             Enter your email
                         </label>
                     </div>
@@ -359,7 +218,6 @@
             </div>
         </footer>
     </div>
-
 
     <!-- MODALS -->
     <!--- HELP MODAL --->
@@ -503,8 +361,8 @@
     </div>
 
 
-    <!-- js file linked -->
-    <script type="module" src="script/discription.js"></script>
+    <!-- JS file linked -->
+    <script type="module" src="script/main.js"></script>
     <script type="module" src="script/all.js"></script>
 </body>
 </html>
