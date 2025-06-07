@@ -13,10 +13,6 @@ btns.forEach((btn, i) => {
       help_modal.classList.remove("hidden");
     } else if (target.contains("help-modal-close")) {
       help_modal.classList.add("hidden");
-    } else if (target.contains("login-btn")) {
-      login_modal.classList.remove("hidden");
-    } else if (target.contains("login-modal-close")) {
-      login_modal.classList.add("hidden");
     } else if (target.contains("bag-wishlist-btn")) {
       bag_modal.classList.remove("hidden");
     } else if (target.contains("bag-modal-close")) {
