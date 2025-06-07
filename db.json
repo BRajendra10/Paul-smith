@@ -3663,5 +3663,14 @@
       "notes": "",
       "quantity": 1
     }
+  ],
+  "user":[
+    {
+      "id": 1,
+      "first_name": "Rajendra",
+      "last_name": "Behera",
+      "name": "Rajendra Behera",
+      "password": "!Rajendra_b_18"
+    }
   ]
 }
