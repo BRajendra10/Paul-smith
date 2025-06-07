@@ -99,19 +99,19 @@
                         <p class="text-xs sm:text-lg text-center">Already have an account? <a href="login.html" class="hover:underline">Login</a></p>
                     </div>
 
-                    <form action="" class="flex flex-col justify-between items-start w-fit lg:w-[800px] h-fit m-3 p-3 bg-gray-200" id="sign up">
+                    <form action="" class="flex flex-col justify-between items-start w-fit lg:w-[800px] h-fit m-3 p-3" id="signup">
                         <label for="personal-info" class="text-xl font-bold">Personal information</label>
 
                         <div class="w-full flex-col sm:flex-row flex justify-between items-center">
                             <div class="relative w-full sm:w-[48%] h-fit m-2">
-                                <input id="email" type="text" placeholder="First name" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent"/>
-                                <label for="email" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
+                                <input id="first-name" type="text" placeholder="First name" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent"/>
+                                <label for="text" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
                                     First name
                                 </label>
                             </div>
                             <div class="relative w-full sm:w-[48%] h-fit m-2">
-                                <input id="email" type="text" placeholder="Last name" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent"/>
-                                <label for="email" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
+                                <input id="last-name" type="text" placeholder="Last name" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent"/>
+                                <label for="text" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
                                     Last name
                                 </label>
                             </div>
@@ -126,14 +126,14 @@
                         <label for="personal-info" class="text-xl font-bold mb-5">Personal information</label>
 
                         <div class="relative w-full h-fit my-2">
-                            <input id="email" type="text" placeholder="New password" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent"/>
-                            <label for="email" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
+                            <input id="password" type="text" placeholder="New password" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent"/>
+                            <label for="password" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
                                 New password
                             </label>
                         </div>
                         <div class="relative w-full h-fit">
-                            <input id="email" type="text" placeholder="Confirm password" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent"/>
-                            <label for="email" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
+                            <input id="confirm-password" type="text" placeholder="Confirm password" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent"/>
+                            <label for="password" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
                                 Confirm password
                             </label>
                         </div>
@@ -162,7 +162,7 @@
                         <img class="w-[110px]" src="assets/logo.png" alt="">
                     </div>
                    <div class="relative w-full lg:w-[50%] h-fit">
-                        <input id="email" type="text" placeholder="Enter your email" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent"/>
+                        <input type="text" placeholder="Enter your email" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent"/>
                         <label for="email" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
                             Enter your email
                         </label>
@@ -416,7 +416,7 @@
 
 
     <!-- JS file linked -->
-    <script type="module" src="script/validation.js"></script>
+    <script type="module" src="script/signup.js"></script>
     <script type="module" src="script/all.js"></script>
 </body>
 </html>

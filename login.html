@@ -101,14 +101,14 @@
 
                     <form action="" class="flex flex-col justify-between items-start w-fit lg:w-[800px] h-fit m-3 p-3 " id="login">
                         <div class="relative w-full h-fit my-3">
-                            <input id="email" type="text" placeholder="Enter your email" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent" required>
+                            <input id="email" type="text" placeholder="Enter your email" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent">
                             <label for="email" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
                                 Enter your email
                             </label>
                         </div>
 
                         <div class="relative w-full h-fit my-3">
-                            <input id="email" type="text" placeholder="password" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent" required>
+                            <input id="password" type="password" placeholder="password" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent">
                             <label for="email" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
                                 password
                             </label>
@@ -118,7 +118,7 @@
                             <a class="text-base hover:underline" href="#">Forgot password?</a>
                         </div>
 
-                        <button type="submit" class="self-center bg-gray-900 text-gray-50 px-8 py-2"><a href="#">Submit</a></button>
+                        <button type="submit" class="self-center bg-gray-900 text-gray-50 px-8 py-2" id="login-btn">submit</button>
                     </form>
                 </div>
             </section>
@@ -137,7 +137,7 @@
                         <img class="w-[110px]" src="assets/logo.png" alt="">
                     </div>
                    <div class="relative w-full lg:w-[50%] h-fit">
-                        <input id="email" type="text" placeholder="Enter your email" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent"/>
+                        <input type="text" placeholder="Enter your email" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent"/>
                         <label for="email" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
                             Enter your email
                         </label>
@@ -391,7 +391,7 @@
 
 
     <!-- JS file linked -->
-    <script type="module" src="script/validation.js"></script>
+    <script type="module" src="script/login.js"></script>
     <script type="module" src="script/all.js"></script>
 </body>
 </html>

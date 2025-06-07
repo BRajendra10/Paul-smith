@@ -3664,13 +3664,24 @@
       "quantity": 1
     }
   ],
-  "user":[
+  "user": [
     {
-      "id": 1,
-      "first_name": "Rajendra",
-      "last_name": "Behera",
-      "name": "Rajendra Behera",
-      "password": "!Rajendra_b_18"
+      "email": "rajendrabehera8116@gmail.com",
+      "firstName": "Rajendra",
+      "lastName": "Behera",
+      "name": "RajendraBehera",
+      "password": "!Rajendra_b_18",
+      "logedIn": true,
+      "id": 1
+    },
+    {
+      "email": "chitrasen192@gmail.com",
+      "firstName": "Chitrasen",
+      "lastName": "Behera",
+      "name": "ChitrasenBehera",
+      "password": "@chitrasen921",
+      "logedIn": true,
+      "id": 2
     }
   ]
 }
