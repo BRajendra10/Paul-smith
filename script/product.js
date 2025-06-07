@@ -81,7 +81,10 @@ sorting_filter.addEventListener("change", () => {
     sorted_data = sorted_data.filter((el, i) => el.title.includes("Women's"))
   } else if (selected === "Men") {
     sorted_data = sorted_data.filter((el, i) => el.title.includes("Men's"))
+  } else {
+    sorted_data = [...local_json_data];
   }
+
 
   get_data_list(sorted_data);
 });
@@ -91,16 +94,24 @@ const colors = await get_colors_data();
 filter_color.addEventListener("change", () => {
   let selected = filter_color.value;
   let sorted_data = [...local_json_data]; // clone
+  let selectedColorNames = [];
 
   const colorGroup = colors.find((color) => color.name.toLowerCase() === selected.toLowerCase());
 
   if (colorGroup) {
-    const selectedColorNames = colorGroup.color.map(c => c.name);
+    colorGroup.color.forEach((el) => {
+      selectedColorNames.push(el);
+    })
 
-    sorted_data = local_json_data.filter(item =>
+    sorted_data = local_json_data.filter((item) =>
       selectedColorNames.includes(item.color)
     );
   }
 
   get_data_list(sorted_data);
 });
+
+// (function(){
+//   const allNames = local_json_data.map((item) => item.color);
+//     console.log(allNames);
+// })();

@@ -352,7 +352,7 @@
       "services": ["Delivery + Returns", "Gift Wrapping"],
       "category": "Women's Suits",
       "website": {
-        "main_url": "https://www.paulsmith.com/",
+        "name_url": "https://www.paulsmith.com/",
         "current_section": "Womens",
         "current_section_url": "https://www.paulsmith.com/womens"
       }
@@ -2957,37 +2957,52 @@
   ],
   "colors": [
     {
-      "name": "blue",
+      "name": "Black",
+      "color": ["Black", "Black"]
+    },
+    {
+      "name": "Blue",
       "color": [
-        { "name": "Dark Navy", "hex": "#000a1f" },
-        { "name": "Navy", "hex": "#001f3f" },
-        { "name": "Dusty Blue", "hex": "#7a9e9f" },
-        { "name": "Steel Blue", "hex": "#4682b4" },
-        { "name": "Indigo", "hex": "#4b0082" },
-        { "name": "Blue", "hex": "#0000ff" },
-        { "name": "Blue Wash", "hex": "#a3c1da" },
-        { "name": "Light-Wash", "hex": "#cfdbe6" },
-        { "name": "Light Blue", "hex": "#add8e6" },
-        { "name": "Navy and White", "hex": "#001f3f" }
+        "Dark Navy",
+        "Navy",
+        "Navy",
+        "Dusty Blue",
+        "Navy",
+        "Dusty Blue",
+        "Navy",
+        "Blue Wash",
+        "Light-Wash",
+        "Indigo",
+        "Navy",
+        "Navy and White",
+        "Light Blue",
+        "Blue",
+        "Steel Blue"
       ]
     },
     {
-      "name": "green",
-      "color": [
-        { "name": "Sea Green", "hex": "#2e8b57" },
-        { "name": "Mint", "hex": "#98ff98" },
-        { "name": "Teal", "hex": "#008080" },
-        { "name": "Pale Aqua", "hex": "#b2fefa" }
-      ]
+      "name": "Pink",
+      "color": ["Dusty Rose", "Pink", "Pink", "Lilac"]
     },
     {
-      "name": "purple",
-      "color": [
-        { "name": "Lilac", "hex": "#c8a2c8" },
-        { "name": "Lavender", "hex": "#e6e6fa" },
-        { "name": "Mauve", "hex": "#e0b0ff" },
-        { "name": "Periwinkle", "hex": "#ccccff" }
-      ]
+      "name": "Green",
+      "color": ["Sea Green"]
+    },
+    {
+      "name": "Yellow",
+      "color": ["Buttercup Yellow"]
+    },
+    {
+      "name": "Brown",
+      "color": ["Camel", "Terracotta"]
+    },
+    {
+      "name": "White",
+      "color": ["White", "Ecru"]
+    },
+    {
+      "name": "Multicolor",
+      "color": ["Swirl"]
     }
   ]
 }
