@@ -1,13 +1,17 @@
 const modal_container = document.getElementById("modal-container");
-const help_btn = document.getElementById("help-btn");
-const usd_btn = document.getElementById("usd-btn");
-const bag_wishlist_btn = document.getElementById("bag-wishlist-btn");
 const cart_count = document.getElementById("cart-count");
+const help_btn_desktop = document.querySelector(".help-btn-desktop");
+const usd_btn_desktop = document.querySelector(".usd-btn-desktop");
+const bag_wishlist_btn_desktop = document.querySelector(".bag-wishlist-btn-desktop");
+
+const help_btn_tab_mobile = document.querySelector(".help-btn_tab_mobile");
+const usd_btn_tab_mobile = document.querySelector(".usd-btn_tab_mobile");
+const bag_wishlist_btn_tab_mobile = document.querySelector(".bag-wishlist-btn_tab_mobile");
 
 const cart_data = await get_cart_data();
 cart_count.innerText = cart_data.length;
 
-help_btn.addEventListener("click", () => {
+help_btn_desktop.addEventListener("click", () => {
     const modal = help_modal();
     modal_container.innerHTML = modal;
 
@@ -15,7 +19,7 @@ help_btn.addEventListener("click", () => {
     modal_functionality(closeBtn)
 })
 
-usd_btn.addEventListener("click", () => {
+usd_btn_desktop.addEventListener("click", () => {
     const modal = usd_modal();
     modal_container.innerHTML = modal;
 
@@ -23,7 +27,39 @@ usd_btn.addEventListener("click", () => {
     modal_functionality(closeBtn)
 })
 
-bag_wishlist_btn.addEventListener("click", async () => {
+bag_wishlist_btn_desktop.addEventListener("click", async () => {
+    const total_cart_price = cart_data.reduce((acc, el) => acc + el.price + el.quantity, 0)
+    console.log(total_cart_price)
+    const modal = bag_modal(total_cart_price);
+    modal_container.innerHTML = modal;
+
+    const bag_container = document.getElementById("tab-bag");
+    const cart_list = map_data(cart_data);
+
+    bag_container.innerHTML = cart_list.join("");
+    get_cart_delet_btn();
+
+    const closeBtn = document.getElementById("bag-modal-close");
+    modal_functionality(closeBtn)
+})
+
+help_btn_tab_mobile.addEventListener("click", () => {
+    const modal = help_modal();
+    modal_container.innerHTML = modal;
+
+    const closeBtn = document.getElementById("help-modal-close");
+    modal_functionality(closeBtn)
+})
+
+usd_btn_tab_mobile.addEventListener("click", () => {
+    const modal = usd_modal();
+    modal_container.innerHTML = modal;
+
+    const closeBtn = document.getElementById("usd-modal-close");
+    modal_functionality(closeBtn)
+})
+
+bag_wishlist_btn_tab_mobile.addEventListener("click", async () => {
     const total_cart_price = cart_data.reduce((acc, el) => acc + el.price + el.quantity, 0)
     console.log(total_cart_price)
     const modal = bag_modal(total_cart_price);
