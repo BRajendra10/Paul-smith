@@ -24,7 +24,8 @@ usd_btn.addEventListener("click", () => {
 })
 
 bag_wishlist_btn.addEventListener("click", async () => {
-    const modal = bag_modal();
+    const total_cart_price = cart_data.reduce((acc, el) => acc + el.price * el.quantity, 0)
+    const modal = bag_modal(total_cart_price);
     modal_container.innerHTML = modal;
 
     const bag_container = document.getElementById("tab-bag");
@@ -178,7 +179,7 @@ function usd_modal() {
     return usd;
 }
 
-function bag_modal() {
+function bag_modal(total) {
     const bag = `
     <div class="fixed top-0 right-0 w-full lg:w-[700px] h-[90vh] bg-gray-50 p-5" id="bag-modal">
         <div class="flex flex-col h-full">
@@ -213,7 +214,7 @@ function bag_modal() {
                 <div class="w-full h-fit bg-gray-200 mb-2">
                     <div class="flex justify-between">
                         <h5 class="leading-6" id="Subtotal">Subtotal</h5>
-                        <p>$695.00</p>
+                        <p>$${total}.00</p>
                     </div>
                     <div class="flex justify-between">
                         <h5 class="leading-6">Shipping</h5>
@@ -221,7 +222,7 @@ function bag_modal() {
                     </div>
                     <div class="flex justify-between">
                         <h5 class="leading-6" id="Total">Total</h5>
-                        <p>$695.00</p>
+                        <p>$${total}.00</p>
                     </div>
                 </div>
                 <button class="w-full py-3 bg-gray-900 hover:bg-gray-700 transition-colors">
