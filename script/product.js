@@ -35,7 +35,7 @@ function product(id, title, images, price) {
   const product = `
   <div class="w-full sm:w-[49%] lg:w-[24%] mb-6">
     <a href="discription.html?id=${encodeURIComponent(id)}">
-      <div class="w-full aspect-[3/4] relative overflow-hidden">
+      <div class="group w-full aspect-[3/4] relative overflow-hidden">
         <img 
           class="group-hover:hidden absolute top-0 left-0 w-full h-full object-cover duration-700 ease-in-out" 
           src="${images[0]}" 

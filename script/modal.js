@@ -85,7 +85,7 @@ function tab_funclitionality() {
 
 function help_modal() {
     const help = `
-    <div class="absolute top-0 right-0 w-full sm:w-[500px] h-[100vh] bg-gray-200 p-5" id="help-modal">
+    <div class="absolute top-0 right-0 w-full sm:w-[500px] h-[100vh] bg-gray-100 p-5" id="help-modal">
         <div class="flex justify-end items-center mb-5">
             <button class="text-2xl cursor-pointer btn help-modal-close" id="help-modal-close"><i class="ri-close-fill"></i></button>
         </div>
@@ -124,7 +124,7 @@ function help_modal() {
 
 function usd_modal() {
     const usd = `
-    <div class="absolute top-0 right-0 w-full md:w-[750px] h-fit bg-gray-50 p-5" id="usd-modal">
+    <div class="absolute top-0 right-0 w-full md:w-[750px] h-fit bg-gray-100 p-5" id="usd-modal">
         <div class="flex justify-end items-center mb-5">
             <button class="text-2xl cursor-pointer btn usd-modal-close" id="usd-modal-close"><i class="ri-close-fill"></i></button>
         </div>
@@ -195,7 +195,7 @@ function usd_modal() {
 
 function bag_modal(total) {
     const bag = `
-    <div class="fixed top-0 right-0 w-full lg:w-[700px] h-[90vh] bg-gray-50 p-5" id="bag-modal">
+    <div class="fixed top-0 right-0 w-full lg:w-[700px] h-[90vh] bg-gray-100 p-5" id="bag-modal">
         <div class="flex flex-col h-full">
             
             <div class="flex justify-end mb-4">
@@ -225,7 +225,7 @@ function bag_modal(total) {
             </div>
 
             <div class="pt-4">
-                <div class="w-full h-fit bg-gray-200 mb-2">
+                <div class="w-full h-fit mb-2">
                     <div class="flex justify-between">
                         <h5 class="leading-6" id="Subtotal">Subtotal</h5>
                         <p>$${total}.00</p>
@@ -240,7 +240,7 @@ function bag_modal(total) {
                     </div>
                 </div>
                 <button class="w-full py-3 bg-gray-900 hover:bg-gray-700 transition-colors">
-                    <a class="text-gray-50 block text-center" href="#">Submit</a>
+                    <a class="text-gray-50 block text-center" href="#">Buy now</a>
                 </button>
             </div>
         </div>
