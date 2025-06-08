@@ -3,12 +3,9 @@ const help_btn = document.getElementById("help-btn");
 const usd_btn = document.getElementById("usd-btn");
 const bag_wishlist_btn = document.getElementById("bag-wishlist-btn");
 const cart_count = document.getElementById("cart-count");
-let bag_container;
-let cart_list;
 
 const cart_data = await get_cart_data();
 cart_count.innerText = cart_data.length;
-
 
 help_btn.addEventListener("click", () => {
     const modal = help_modal();
@@ -30,8 +27,10 @@ bag_wishlist_btn.addEventListener("click", async () => {
     const modal = bag_modal();
     modal_container.innerHTML = modal;
 
-    bag_container = document.getElementById("tab-bag");
-    cart_list = map_data(cart_data);
+    const bag_container = document.getElementById("tab-bag");
+    const cart_list = map_data(cart_data);
+
+    bag_container.innerHTML = cart_list.join("");
 
     const closeBtn = document.getElementById("bag-modal-close");
     modal_functionality(closeBtn)
