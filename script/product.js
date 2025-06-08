@@ -8,8 +8,6 @@ let local_json_data = data;
 
 get_data_list(data);
 
-// document.getElementById("items").innerText = `${data.length} items`;
-
 async function get_data() {
   const res = await fetch("http://localhost:3000/discription");
   const data = await res.json();

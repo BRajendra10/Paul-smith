@@ -1,5 +1,6 @@
 const modal_container = document.getElementById("modal-container");
 const cart_count = document.getElementById("cart-count");
+const menu_btn = document.querySelector(".menu-btn");
 
 // variables for desktop special button
 const help_btn_desktop = document.querySelector(".help-btn-desktop");
@@ -14,13 +15,45 @@ const bag_wishlist_btn_tab_mobile = document.querySelector(".bag-wishlist-btn_ta
 const cart_data = await get_cart_data();
 cart_count.innerText = cart_data.length;
 
+menu_btn.addEventListener("click", () => {
+    const modal = menu_modal()
+    modal_container.innerHTML = modal;
+
+    const closeBtn = document.getElementById("menu-modal-close");
+    modal_functionality(closeBtn)
+})
+
+function menu_modal(){
+    const menu = `
+    <div class="absolute top-0 right-0 w-full sm:w-[500px] h-[100vh] bg-gray-100 p-5" id="help-modal">
+        <div class="flex justify-end items-center mb-5">
+            <button class="text-2xl cursor-pointer btn help-modal-close" id="menu-modal-close"><i class="ri-close-fill"></i></button>
+        </div>
+        <div class="w-full h-fit">
+            <h1 class="text-xl">Modal List</h1>
+            <ul class="ps-3 my-5">
+                <li class="text-base uppercase leading-7"><a href="index.html">new in</a></li>
+                <li class="text-base uppercase leading-7"><a href="products.html">men</a></li>
+                <li class="text-base uppercase leading-7"><a href="products.html">women</a></li>
+                <li class="text-base uppercase leading-7"><a href="products.html">junior</a></li>
+                <li class="text-base uppercase leading-7"><a href="#">gifts</a></li>
+                <li class="text-base uppercase leading-7"><a href="#">home</a></li>
+                <li class="text-base uppercase leading-7"><a href="#">discover</a></li>
+            </ul>
+        </div>
+    </div>
+    `
+
+    return menu;
+}
+
 // evenlisnter for desktop special button
 help_btn_desktop.addEventListener("click", () => {
     const modal = help_modal();
     modal_container.innerHTML = modal;
 
-    const closeBtn = document.getElementById("help-modal-close");
-    modal_functionality(closeBtn)
+    // const closeBtn = document.getElementById("help-modal-close");
+    // modal_functionality(closeBtn)
 })
 
 usd_btn_desktop.addEventListener("click", () => {
