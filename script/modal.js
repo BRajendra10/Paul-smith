@@ -2,6 +2,13 @@ const modal_container = document.getElementById("modal-container");
 const help_btn = document.getElementById("help-btn");
 const usd_btn = document.getElementById("usd-btn");
 const bag_wishlist_btn = document.getElementById("bag-wishlist-btn");
+const cart_count = document.getElementById("cart-count");
+let bag_container;
+let cart_list;
+
+const cart_data = await get_cart_data();
+cart_count.innerText = cart_data.length;
+
 
 help_btn.addEventListener("click", () => {
     const modal = help_modal();
@@ -19,17 +26,22 @@ usd_btn.addEventListener("click", () => {
     modal_functionality(closeBtn)
 })
 
-bag_wishlist_btn.addEventListener("click", () => {
+bag_wishlist_btn.addEventListener("click", async () => {
     const modal = bag_modal();
     modal_container.innerHTML = modal;
+
+    bag_container = document.getElementById("tab-bag");
+    cart_list = map_data(cart_data);
 
     const closeBtn = document.getElementById("bag-modal-close");
     modal_functionality(closeBtn)
 })
 
-function modal_functionality(closeBtn){
+function modal_functionality(closeBtn) {
     modal_container.classList.remove("z-0", "opacity-0", "pointer-events-none");
     modal_container.classList.add("z-50", "opacity-100", "pointer-events-auto");
+
+    tab_funclitionality();
 
     closeBtn.addEventListener("click", () => {
         modal_container.classList.remove("z-50", "opacity-100", "pointer-events-auto");
@@ -38,7 +50,26 @@ function modal_functionality(closeBtn){
     });
 }
 
-function help_modal(){
+function tab_funclitionality() {
+    const tabs = document.querySelectorAll(".tab-link");
+    const contents = document.querySelectorAll(".tab-content");
+
+    tabs.forEach((tab) => {
+        tab.addEventListener("click", () => {
+
+            tabs.forEach((t) => t.classList.remove("text-blue-600", "border-blue-600"));
+
+            contents.forEach((c) => c.classList.add("hidden"));
+
+            tab.classList.add("text-blue-600", "border-blue-600");
+
+            const target = tab.getAttribute("data-tab");
+            document.getElementById(`tab-${target}`).classList.remove("hidden");
+        });
+    });
+}
+
+function help_modal() {
     const help = `
     <div class="absolute top-0 right-0 w-full sm:w-[500px] h-[100vh] bg-gray-200 p-5" id="help-modal">
         <div class="flex justify-end items-center mb-5">
@@ -77,7 +108,7 @@ function help_modal(){
     return help;
 }
 
-function usd_modal(){
+function usd_modal() {
     const usd = `
     <div class="absolute top-0 right-0 w-full md:w-[750px] h-fit bg-gray-50 p-5" id="usd-modal">
         <div class="flex justify-end items-center mb-5">
@@ -148,7 +179,7 @@ function usd_modal(){
     return usd;
 }
 
-function bag_modal(){
+function bag_modal() {
     const bag = `
     <div class="fixed top-0 right-0 w-full lg:w-[700px] h-[90vh] bg-gray-50 p-5" id="bag-modal">
         <div class="flex flex-col h-full">
@@ -189,4 +220,65 @@ function bag_modal(){
     `
 
     return bag;
+}
+
+async function get_cart_data() {
+    const res = await fetch("http://localhost:3000/cart");
+    const data = await res.json();
+
+    return data;
+}
+
+function map_data(data) {
+    const cart_list = data.map((el, i) => cart(el.title, el.images, el.price))
+
+    return cart_list
+}
+
+function cart(title, images, price) {
+    const cart = `
+  <div class="w-full h-fit flex justify-between mb-2">
+    <div class="w-[15%]">
+      <img src=${images[0]} class="w-full">
+    </div>
+    <div class="w-[60%]">
+      <h3 class="text-lg">${title}</h3>
+      <p class="text-base font-bold">$${price}.00</p>
+    </div>
+    <div class="w-[10%] flex flex-col justify-between items-center">
+      <div class="w-full flex justify-around">
+        <button class="text-base"><i class="ri-bookmark-line"></i></button>
+        <button class="text-base"><i class="ri-delete-bin-7-line"></i></button>
+      </div>
+      <select class="w-full p-1" name="qty" id="qty">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+      </select>
+      </div>
+  </div> 
+  `
+
+    return cart;
+}
+
+function set_qty() {
+    const quantity = document.querySelectorAll("#qty");
+
+    quantity.forEach((el, i) => {
+        el.addEventListener("change", async () => {
+            const newData = { ...cart_data[i], quantity: el.value };
+
+            const res = await fetch(`http://localhost:3000/cart/${cart_data[i].id}`, {
+                method: "PUT",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(newData),
+            });
+            const data = await res.json();
+
+            console.log(data);
+        })
+    })
 }
