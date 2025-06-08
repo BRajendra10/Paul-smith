@@ -1,9 +1,12 @@
 const modal_container = document.getElementById("modal-container");
 const cart_count = document.getElementById("cart-count");
+
+// variables for desktop special button
 const help_btn_desktop = document.querySelector(".help-btn-desktop");
 const usd_btn_desktop = document.querySelector(".usd-btn-desktop");
 const bag_wishlist_btn_desktop = document.querySelector(".bag-wishlist-btn-desktop");
 
+// variables for tab and mobile special button
 const help_btn_tab_mobile = document.querySelector(".help-btn_tab_mobile");
 const usd_btn_tab_mobile = document.querySelector(".usd-btn_tab_mobile");
 const bag_wishlist_btn_tab_mobile = document.querySelector(".bag-wishlist-btn_tab_mobile");
@@ -11,6 +14,7 @@ const bag_wishlist_btn_tab_mobile = document.querySelector(".bag-wishlist-btn_ta
 const cart_data = await get_cart_data();
 cart_count.innerText = cart_data.length;
 
+// evenlisnter for desktop special button
 help_btn_desktop.addEventListener("click", () => {
     const modal = help_modal();
     modal_container.innerHTML = modal;
@@ -43,6 +47,7 @@ bag_wishlist_btn_desktop.addEventListener("click", async () => {
     modal_functionality(closeBtn)
 })
 
+// evenlisnter for tab and mobile special button
 help_btn_tab_mobile.addEventListener("click", () => {
     const modal = help_modal();
     modal_container.innerHTML = modal;
