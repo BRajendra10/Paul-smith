@@ -210,6 +210,20 @@ function bag_modal() {
             </div>
 
             <div class="pt-4">
+                <div class="w-full h-fit bg-gray-200 mb-2">
+                    <div class="flex justify-between">
+                        <h5 class="leading-6" id="Subtotal">Subtotal</h5>
+                        <p>$695.00</p>
+                    </div>
+                    <div class="flex justify-between">
+                        <h5 class="leading-6">Shipping</h5>
+                        <p>Free</p>
+                    </div>
+                    <div class="flex justify-between">
+                        <h5 class="leading-6" id="Total">Total</h5>
+                        <p>$695.00</p>
+                    </div>
+                </div>
                 <button class="w-full py-3 bg-gray-900 hover:bg-gray-700 transition-colors">
                     <a class="text-gray-50 block text-center" href="#">Submit</a>
                 </button>
