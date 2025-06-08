@@ -4,9 +4,11 @@ const nextBtn = document.getElementById("nextBtn");
 const prevBtn = document.getElementById("prevBtn");
 
 // data handling
+const add_to_cart_btn = document.getElementById("add-to-cart")
 const z = new URLSearchParams(window.location.search);
 const id = z.get("id");
 const data = await get_data();
+const new_cart_data = data;
 map_image(data);
 product_info();
 
@@ -86,3 +88,53 @@ function create_element(tag, class_name = [], tag_info) {
 
   return el;
 }
+
+add_to_cart_btn.addEventListener("click", async () => {
+  const res = await fetch(`http://localhost:3000/cart`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ ...new_cart_data, quantity: 1 })
+  });
+  const data = await res.json();
+
+  console.log(data)
+})
+
+// async function deelet_cart_data(id) {
+//     const res = await fetch(`http://localhost:3000/cart/${id}`, {
+//         method: "POST",
+//         headers: { "Content-Type": "application/json" }
+//     });
+//     const data = await res.json();
+
+//     map_data(data);
+// }
+
+// function cart(title, images, price, id) {
+//     const cart = `
+//   <div class="w-full h-fit flex justify-between mb-2">
+//     <div class="w-[15%]">
+//       <img src=${images[0]} class="w-full">
+//     </div>
+//     <div class="w-[60%]">
+//       <h3 class="text-lg">${title}</h3>
+//       <p class="text-base font-bold">$${price}.00</p>
+//     </div>
+//     <div class="w-[10%] flex flex-col justify-between items-center">
+//       <div class="w-full flex justify-around">
+//         <button class="text-base"><i class="ri-bookmark-line"></i></button>
+//         <button class="text-base deelet-btn" data-id=${id}><i class="ri-delete-bin-7-line"></i></button>
+//       </div>
+//       <select class="w-full p-1" name="qty" id="qty">
+//         <option value="1">1</option>
+//         <option value="2">2</option>
+//         <option value="3">3</option>
+//         <option value="4">4</option>
+//         <option value="5">5</option>
+//       </select>
+//       </div>
+//   </div>
+//   `
+
+//     return cart;
+// }

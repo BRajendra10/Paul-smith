@@ -3392,141 +3392,6 @@
   ],
   "cart": [
     {
-      "id": 10,
-      "title": "A Suit To Travel In - Women's Black Slim-Fit Wool Trousers",
-      "product_code": "W1R-071T-B00001-79",
-      "price": 555,
-      "color": "Black",
-      "material": "100% Wool",
-      "made_in": "Italy",
-      "description": "Made in Italy as part of the Paul Smith 'A Suit To Travel In' collection, these black trousers are constructed using a high-twist 100% wool yarn to create a quick recovery, crease-resistant cloth; providing a versatile and highly-practical piece of tailoring. Finishing at the ankle for a modern, elegant silhouette, these slim-fit trousers come complete with colour-flash interior detailing.",
-      "fit": {
-        "type": [
-          "Slim-Fit"
-        ],
-        "description": "Slim-Fit trousers are cut for a close fit through the thigh and calf\n- Internal rubber waistband strip to keep shirting secure",
-        "model_info": ""
-      },
-      "images": [
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1646908742/STILL/W1R/W1R-071T-B00001-79/W1R-071T-B00001-79_10",
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1646908743/STILL/W1R/W1R-071T-B00001-79/W1R-071T-B00001-79_20",
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1646908743/STILL/W1R/W1R-071T-B00001-79/W1R-071T-B00001-79_30",
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1683814593/MODEL/ECOM/W1R/W1R-071T-B00001-79/W1R-071T-B00001-79_41",
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1683814593/MODEL/ECOM/W1R/W1R-071T-B00001-79/W1R-071T-B00001-79_51",
-        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1683814595/MODEL/ECOM/W1R/W1R-071T-B00001-79/W1R-071T-B00001-79_61"
-      ],
-      "you_may_also_like": [
-        {
-          "name": "Women's 'A Suit To Travel In' - Black Wool Bootcut Trousers",
-          "url": "https://www.paulsmith.com/womens-a-suit-to-travel-in-black-wool-bootcut-trousers",
-          "price": "$ 595.0",
-          "images": [
-            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1712134960/STILL/W1R/W1R-306T-N00001-79/W1R-306T-N00001-79_10",
-            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718208261/MODEL/ECOM/W1R/W1R-306T-N00001-79/W1R-306T-N00001-79_1"
-          ]
-        },
-        {
-          "name": "A Suit To Travel In - Women's Dusty Blue Slim-Fit Wool Trousers",
-          "url": "https://www.paulsmith.com/a-suit-to-travel-in-womens-dusty-blue-slim-fit-wool-trousers",
-          "price": "$ 525.0",
-          "images": [
-            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1733842891/STILL/W1R/W1R-264T-N00001-43A/W1R-264T-N00001-43A_10",
-            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739970186/MODEL/ECOM/W1R/W1R-264T-N00001-43A/W1R-264T-N00001-43A_1"
-          ]
-        },
-        {
-          "name": "Women's A Suit To Travel In - Navy Drawstring Wide Leg Trousers",
-          "url": "https://www.paulsmith.com/a-suit-to-travel-in-navy-drawstring-wide-leg-trousers",
-          "price": "$ 575.0",
-          "images": [
-            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1732715608/STILL/W1R/W1R-255T-N00001-49/W1R-255T-N00001-49_30",
-            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1732715607/STILL/W1R/W1R-255T-N00001-49/W1R-255T-N00001-49_50"
-          ]
-        },
-        {
-          "name": "A Suit To Travel In - Women's Petrol Blue Slim-Fit Wool Trousers",
-          "url": "https://www.paulsmith.com/a-suit-to-travel-in-womens-petrol-blue-slim-fit-wool-trousers",
-          "price": "",
-          "images": [
-            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1712134931/STILL/W1R/W1R-264T-N00001-37B/W1R-264T-N00001-37B_10",
-            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1722500377/MODEL/ECOM/W1R/W1R-264T-N00001-37B/W1R-264T-N00001-37B_4"
-          ]
-        },
-        {
-          "name": "Women's 'A Suit To Travel In' Black Wool Twill Pleated Trousers",
-          "url": "https://www.paulsmith.com/womens-a-suit-to-travel-in-black-wool-twill-pleated-trousers",
-          "price": "",
-          "images": [
-            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1717520588/STILL/W1R/W1R-333T-N00001-79/W1R-333T-N00001-79_10",
-            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1728916235/MODEL/ECOM/W1R/W1R-333T-N00001-79/W1R-333T-N00001-79_1"
-          ]
-        },
-        {
-          "name": "A Suit To Travel In - Women's Burgundy Slim-Fit Wool Trousers",
-          "url": "https://www.paulsmith.com/a-suit-to-travel-in-womens-burgundy-slim-fit-wool-trousers",
-          "price": "",
-          "images": [
-            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1748529052/STILL/W1R/W1R-264T-N00001-29A/W1R-264T-N00001-29A_20",
-            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1748529050/STILL/W1R/W1R-264T-N00001-29A/W1R-264T-N00001-29A_10"
-          ]
-        },
-        {
-          "name": "Women's 'A Suit To Travel In' - Navy Wool Bootcut Trousers",
-          "url": "https://www.paulsmith.com/womens-a-suit-to-travel-in-navy-wool-bootcut-trousers",
-          "price": "",
-          "images": [
-            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1712134947/STILL/W1R/W1R-306T-N00001-49/W1R-306T-N00001-49_10",
-            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1718208248/MODEL/ECOM/W1R/W1R-306T-N00001-49/W1R-306T-N00001-49_1"
-          ]
-        },
-        {
-          "name": "A Suit To Travel In - Women's Navy Slim-Fit Wool Trousers",
-          "url": "https://www.paulsmith.com/a-suit-to-travel-in-women-s-slim-fit-navy-wool-trousers",
-          "price": "",
-          "images": [
-            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1732539908/STILL/W1R/W1R-071T-B00001-49/W1R-071T-B00001-49_10",
-            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1732539908/STILL/W1R/W1R-071T-B00001-49/W1R-071T-B00001-49_40"
-          ]
-        }
-      ],
-      "options": {
-        "size_selection": [
-          "6",
-          "8",
-          "10",
-          "12",
-          "14"
-        ],
-        "mix_match_sizing": false,
-        "actions": [
-          "Add to Bag",
-          "Notify me",
-          "Find in Store"
-        ],
-        "width": "",
-        "additional_colors": [
-          "1 more colour"
-        ]
-      },
-      "services": [
-        "Delivery + Returns",
-        "Gift Wrapping"
-      ],
-      "category": "Women's A Suit To Travel In",
-      "website": {
-        "main_url": "https://www.paulsmith.com/",
-        "current_section": "Womens",
-        "current_section_url": "https://www.paulsmith.com/womens"
-      },
-      "features": [
-        "Two rear welt pockets",
-        "Angled side pockets",
-        "Colour-flash interior detailing"
-      ],
-      "notes": "",
-      "quantity": 2
-    },
-    {
       "id": 9,
       "title": "Women's Buttercup Yellow Wool Waistcoat",
       "product_code": "W1R-388J-P00108-11",
@@ -3661,6 +3526,76 @@
         "Luxurious viscose lining"
       ],
       "notes": "",
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "title": "A Suit To Travel In - Women's Dark Navy Two-Button Wool Blazer",
+      "product_code": "W1R-111P-M00001-49",
+      "price": 895,
+      "color": "Navy",
+      "material": "100% Wool, 100% Cupro Lining",
+      "made_in": "Italy",
+      "description": "Made in Italy as part of the Paul Smith 'A Suit To Travel In' collection, this dark navy two-button blazer is constructed using a high-twist yarn to create a quick recovery, crease-resistant 100% wool-twill cloth; providing a versatile and highly-practical piece of tailoring. Featuring a notched lapel, this jacket comes complete with functioning four-button 'kissing' cuffs and tonal buttons throughout.",
+      "fit": {
+        "type": [
+          "Classic-Fit",
+          "Soho-Fit"
+        ],
+        "description": "Classic-Fit also known as Soho-Fit is slightly longer and less fitted than our slim-fit blazer.",
+        "model_info": "- Model wears a size 40 (UK 8)\n- Height 5’ 11.5’’ / 181cm\n- Chest 32’’ / 81cm\n- Waist 24”/ 60 cm"
+      },
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1723737626/MODEL/ECOM/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1723737630/MODEL/ECOM/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_2",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1723737632/MODEL/ECOM/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_3",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1719398005/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1719398007/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1719398010/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_30",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1719398014/STILL/W1R/W1R-111P-M00001-49/W1R-111P-M00001-49_40"
+      ],
+      "video": "https://assets.paulsmith.com/paul-smith-products/video/upload/f_auto,w_auto/e_volume:mute/v1724319891/VIDEO/W1R-111P-M00001-49/W1R-111P-M00001-49.mp4",
+      "options": {
+        "size_selection": [
+          "4",
+          "6",
+          "8",
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
+        "mix_match_sizing": false,
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ],
+        "width": ""
+      },
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
+      "category": "Women's A Suits To Travel In",
+      "website": {
+        "main_url": "https://www.paulsmith.com/",
+        "current_section": "Womens",
+        "current_section_url": "https://www.paulsmith.com/womens"
+      },
+      "details": [
+        "Signature label stitched internally",
+        "Contrast panel cupro lining",
+        "Fabric properties label stitched internally",
+        "'Kissing' button detail on each cuff"
+      ],
+      "features": [
+        "Two-button fastening",
+        "Notched lapel",
+        "Functioning four-button 'kissing' cuffs",
+        "Tonal buttons throughout"
+      ],
+      "notes": "This product is excluded from promotions.",
       "quantity": 1
     }
   ],

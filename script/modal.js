@@ -24,7 +24,8 @@ usd_btn.addEventListener("click", () => {
 })
 
 bag_wishlist_btn.addEventListener("click", async () => {
-    const total_cart_price = cart_data.reduce((acc, el) => acc + el.price * el.quantity, 0)
+    const total_cart_price = cart_data.reduce((acc, el) => acc + el.price + el.quantity, 0)
+    console.log(total_cart_price)
     const modal = bag_modal(total_cart_price);
     modal_container.innerHTML = modal;
 
@@ -32,10 +33,23 @@ bag_wishlist_btn.addEventListener("click", async () => {
     const cart_list = map_data(cart_data);
 
     bag_container.innerHTML = cart_list.join("");
+    get_cart_delet_btn();
 
     const closeBtn = document.getElementById("bag-modal-close");
     modal_functionality(closeBtn)
 })
+
+function get_cart_delet_btn() {
+    const deelet_btn = document.querySelectorAll(".delete-btn");
+    
+    deelet_btn.forEach((btn) => {
+        btn.addEventListener("click", (el) => {
+            const id = el.currentTarget.getAttribute("data-id");
+
+            deelet_cart_data(id);
+        })
+    })
+}
 
 function modal_functionality(closeBtn) {
     modal_container.classList.remove("z-0", "opacity-0", "pointer-events-none");
@@ -236,6 +250,16 @@ function bag_modal(total) {
     return bag;
 }
 
+async function deelet_cart_data(id) {
+    const res = await fetch(`http://localhost:3000/cart/${id}`, {
+        method: "DELETE",
+        headers: { "Content-Type": "application/json" }
+    });
+    const data = await res.json();
+
+    map_data(data);
+}
+
 async function get_cart_data() {
     const res = await fetch("http://localhost:3000/cart");
     const data = await res.json();
@@ -244,12 +268,12 @@ async function get_cart_data() {
 }
 
 function map_data(data) {
-    const cart_list = data.map((el, i) => cart(el.title, el.images, el.price))
+    const cart_list = data.map((el, i) => cart(el.title, el.images, el.price, el.id))
 
     return cart_list
 }
 
-function cart(title, images, price) {
+function cart(title, images, price, id) {
     const cart = `
   <div class="w-full h-fit flex justify-between mb-2">
     <div class="w-[15%]">
@@ -262,7 +286,7 @@ function cart(title, images, price) {
     <div class="w-[10%] flex flex-col justify-between items-center">
       <div class="w-full flex justify-around">
         <button class="text-base"><i class="ri-bookmark-line"></i></button>
-        <button class="text-base"><i class="ri-delete-bin-7-line"></i></button>
+        <button class="text-base delete-btn" data-id=${id}><i class="ri-delete-bin-7-line"></i></button>
       </div>
       <select class="w-full p-1" name="qty" id="qty">
         <option value="1">1</option>
