@@ -68,7 +68,7 @@ function product(product_data) {
       </a>
       <div class="w-full h-[60px]">
         <span class="h-[30px] flex justify-between items-center">
-        <h4 class="uppercase text-xs font-semibold cursor-pointer" data-id="1">${product_data.name}</h4>
+        <h4 class="uppercase text-xs font-semibold cursor-pointer" data-id="1">${product_data.title}</h4>
         <p class="text-xs font-semibold">$${product_data.price}</p>
         </span>
         <span class="h-[30px] flex justify-between items-center hidden group-hover:flex">
