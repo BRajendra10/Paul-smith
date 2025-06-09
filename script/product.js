@@ -2,10 +2,11 @@ const products_container = document.getElementById("products-container");
 const sorting_filter = document.getElementById("filter");
 const filter_color = document.getElementById("filter-color");
 const filter_category = document.getElementById("filter-category");
+const search_input = document.getElementById("search");
+const search_btn = document.getElementById("search-btn");
 
 const data = await get_data();
 let local_json_data = data;
-
 get_data_list(data);
 
 async function get_data() {
@@ -114,11 +115,18 @@ filter_category.addEventListener("change", () => {
   const selectedCategory = filter_category.value.toLowerCase();
 
   const filteredCategoryData = local_json_data.filter(item => {
-    console.log(item.category.toLowerCase().includes(selectedCategory));
     return item.category.toLowerCase().includes(selectedCategory)
   });
 
-  console.log("Filtered Data:", filteredCategoryData);
-
   get_data_list(filteredCategoryData);
 });
+
+search_btn.addEventListener("click", () => {
+  const search_value =search_input.value.toLowerCase();
+  
+  const filteredCategoryData = local_json_data.filter(item => {
+    return item.category.toLowerCase().includes(search_value)
+  });
+
+  get_data_list(filteredCategoryData)
+})
