@@ -1,3 +1,5 @@
+import * as utils from './utils.js';
+
 const modal_container = document.getElementById("modal-container");
 const cart_count = document.getElementById("cart-count");
 const menu_btn = document.querySelector(".menu-btn");
@@ -12,7 +14,9 @@ const help_btn_tab_mobile = document.querySelector(".help-btn_tab_mobile");
 const usd_btn_tab_mobile = document.querySelector(".usd-btn_tab_mobile");
 const bag_wishlist_btn_tab_mobile = document.querySelector(".bag-wishlist-btn_tab_mobile");
 
-const cart_data = await get_cart_data();
+const cart_data = await utils.get_data("cart");
+const cart_list = utils.map_data(cart_data);
+
 cart_count.innerText = cart_data.length;
 
 menu_btn.addEventListener("click", () => {
@@ -23,37 +27,13 @@ menu_btn.addEventListener("click", () => {
     modal_functionality(closeBtn)
 })
 
-function menu_modal(){
-    const menu = `
-    <div class="absolute top-0 right-0 w-full sm:w-[500px] h-[100vh] bg-gray-100 p-5" id="help-modal">
-        <div class="flex justify-end items-center mb-5">
-            <button class="text-2xl cursor-pointer btn help-modal-close" id="menu-modal-close"><i class="ri-close-fill"></i></button>
-        </div>
-        <div class="w-full h-fit">
-            <h1 class="text-xl">Modal List</h1>
-            <ul class="ps-3 my-5">
-                <li class="text-base uppercase leading-7"><a href="index.html">new in</a></li>
-                <li class="text-base uppercase leading-7"><a href="products.html">men</a></li>
-                <li class="text-base uppercase leading-7"><a href="products.html">women</a></li>
-                <li class="text-base uppercase leading-7"><a href="products.html">junior</a></li>
-                <li class="text-base uppercase leading-7"><a href="#">gifts</a></li>
-                <li class="text-base uppercase leading-7"><a href="#">home</a></li>
-                <li class="text-base uppercase leading-7"><a href="#">discover</a></li>
-            </ul>
-        </div>
-    </div>
-    `
-
-    return menu;
-}
-
 // evenlisnter for desktop special button
 help_btn_desktop.addEventListener("click", () => {
     const modal = help_modal();
     modal_container.innerHTML = modal;
 
-    // const closeBtn = document.getElementById("help-modal-close");
-    // modal_functionality(closeBtn)
+    const closeBtn = document.getElementById("help-modal-close");
+    utils.modal_functionality(modal_container, closeBtn);
 })
 
 usd_btn_desktop.addEventListener("click", () => {
@@ -61,23 +41,22 @@ usd_btn_desktop.addEventListener("click", () => {
     modal_container.innerHTML = modal;
 
     const closeBtn = document.getElementById("usd-modal-close");
-    modal_functionality(closeBtn)
+    utils.modal_functionality(modal_container, closeBtn)
 })
 
 bag_wishlist_btn_desktop.addEventListener("click", async () => {
     const total_cart_price = cart_data.reduce((acc, el) => acc + el.price + el.quantity, 0)
-    console.log(total_cart_price)
+
     const modal = bag_modal(total_cart_price);
     modal_container.innerHTML = modal;
 
     const bag_container = document.getElementById("tab-bag");
-    const cart_list = map_data(cart_data);
 
     bag_container.innerHTML = cart_list.join("");
     get_cart_delet_btn();
 
     const closeBtn = document.getElementById("bag-modal-close");
-    modal_functionality(closeBtn)
+    utils.modal_functionality(modal_container, closeBtn);
 })
 
 // evenlisnter for tab and mobile special button
@@ -113,6 +92,30 @@ bag_wishlist_btn_tab_mobile.addEventListener("click", async () => {
     modal_functionality(closeBtn)
 })
 
+function menu_modal(){
+    const menu = `
+    <div class="absolute top-0 right-0 w-full sm:w-[500px] h-[100vh] bg-gray-100 p-5" id="help-modal">
+        <div class="flex justify-end items-center mb-5">
+            <button class="text-2xl cursor-pointer btn help-modal-close" id="menu-modal-close"><i class="ri-close-fill"></i></button>
+        </div>
+        <div class="w-full h-fit">
+            <h1 class="text-xl">Modal List</h1>
+            <ul class="ps-3 my-5">
+                <li class="text-base uppercase leading-7"><a href="index.html">new in</a></li>
+                <li class="text-base uppercase leading-7"><a href="products.html">men</a></li>
+                <li class="text-base uppercase leading-7"><a href="products.html">women</a></li>
+                <li class="text-base uppercase leading-7"><a href="products.html">junior</a></li>
+                <li class="text-base uppercase leading-7"><a href="#">gifts</a></li>
+                <li class="text-base uppercase leading-7"><a href="#">home</a></li>
+                <li class="text-base uppercase leading-7"><a href="#">discover</a></li>
+            </ul>
+        </div>
+    </div>
+    `
+
+    return menu;
+}
+
 function get_cart_delet_btn() {
     const deelet_btn = document.querySelectorAll(".delete-btn");
     
@@ -123,38 +126,6 @@ function get_cart_delet_btn() {
             deelet_cart_data(id);
         })
     })
-}
-
-function modal_functionality(closeBtn) {
-    modal_container.classList.remove("z-0", "opacity-0", "pointer-events-none");
-    modal_container.classList.add("z-50", "opacity-100", "pointer-events-auto");
-
-    tab_funclitionality();
-
-    closeBtn.addEventListener("click", () => {
-        modal_container.classList.remove("z-50", "opacity-100", "pointer-events-auto");
-        modal_container.classList.add("z-0", "opacity-0", "pointer-events-none");
-        modal_container.innerHTML = "";
-    });
-}
-
-function tab_funclitionality() {
-    const tabs = document.querySelectorAll(".tab-link");
-    const contents = document.querySelectorAll(".tab-content");
-
-    tabs.forEach((tab) => {
-        tab.addEventListener("click", () => {
-
-            tabs.forEach((t) => t.classList.remove("text-blue-600", "border-blue-600"));
-
-            contents.forEach((c) => c.classList.add("hidden"));
-
-            tab.classList.add("text-blue-600", "border-blue-600");
-
-            const target = tab.getAttribute("data-tab");
-            document.getElementById(`tab-${target}`).classList.remove("hidden");
-        });
-    });
 }
 
 function help_modal() {
@@ -332,48 +303,6 @@ async function deelet_cart_data(id) {
     const data = await res.json();
 
     map_data(data);
-}
-
-async function get_cart_data() {
-    const res = await fetch("http://localhost:3000/cart");
-    const data = await res.json();
-
-    return data;
-}
-
-function map_data(data) {
-    const cart_list = data.map((el, i) => cart(el.title, el.images, el.price, el.id))
-
-    return cart_list
-}
-
-function cart(title, images, price, id) {
-    const cart = `
-  <div class="w-full h-fit flex justify-between mb-2">
-    <div class="w-[15%]">
-      <img src=${images[0]} class="w-full">
-    </div>
-    <div class="w-[60%]">
-      <h3 class="text-lg">${title}</h3>
-      <p class="text-base font-bold">$${price}.00</p>
-    </div>
-    <div class="w-[10%] flex flex-col justify-between items-center">
-      <div class="w-full flex justify-around">
-        <button class="text-base"><i class="ri-bookmark-line"></i></button>
-        <button class="text-base delete-btn" data-id=${id}><i class="ri-delete-bin-7-line"></i></button>
-      </div>
-      <select class="w-full p-1" name="qty" id="qty">
-        <option value="1">1</option>
-        <option value="2">2</option>
-        <option value="3">3</option>
-        <option value="4">4</option>
-        <option value="5">5</option>
-      </select>
-      </div>
-  </div> 
-  `
-
-    return cart;
 }
 
 function set_qty() {

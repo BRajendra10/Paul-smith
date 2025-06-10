@@ -39,3 +39,35 @@ export function cart(title, images, price, id) {
 
     return cart;
 }
+
+export function modal_functionality(container, closeBtn) {
+    container.classList.remove("z-0", "opacity-0", "pointer-events-none");
+    container.classList.add("z-50", "opacity-100", "pointer-events-auto");
+
+    tab_funclitionality();
+
+    closeBtn.addEventListener("click", () => {
+        container.classList.remove("z-50", "opacity-100", "pointer-events-auto");
+        container.classList.add("z-0", "opacity-0", "pointer-events-none");
+        container.innerHTML = "";
+    });
+}
+
+export function tab_funclitionality() {
+    const tabs = document.querySelectorAll(".tab-link");
+    const contents = document.querySelectorAll(".tab-content");
+
+    tabs.forEach((tab) => {
+        tab.addEventListener("click", () => {
+
+            tabs.forEach((t) => t.classList.remove("text-blue-600", "border-blue-600"));
+
+            contents.forEach((c) => c.classList.add("hidden"));
+
+            tab.classList.add("text-blue-600", "border-blue-600");
+
+            const target = tab.getAttribute("data-tab");
+            document.getElementById(`tab-${target}`).classList.remove("hidden");
+        });
+    });
+}
