@@ -71,3 +71,18 @@ export function tab_funclitionality() {
         });
     });
 }
+
+export function create_element(tag, class_name = [], tag_info) {
+  let el = document.createElement(tag);
+  class_name.forEach((cls) => el.classList.add(cls));
+
+  if (tag_info !== undefined) {
+    if (tag_info.includes("https://")) {
+      el.src = tag_info;
+    } else {
+      el.innerHTML = tag_info;
+    }
+  }
+
+  return el;
+}

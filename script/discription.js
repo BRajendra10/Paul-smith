@@ -1,3 +1,5 @@
+import * as utils from './utils.js';
+
 // carousel
 const carousel = document.getElementById("carousel");
 const nextBtn = document.getElementById("nextBtn");
@@ -59,11 +61,11 @@ async function get_data() {
 
 function map_image(data) {
   const img_list = data.images.map((el, i) => {
-    return create_element("img", ["w-full", "h-auto", "rounded"], el);
+    return utils.create_element("img", ["w-full", "h-auto", "rounded"], el);
   });
 
   img_list.forEach((img) => {
-    const img_container = create_element("div", [
+    const img_container = utils.create_element("div", [
       "flex-shrink-0",
       "w-[500px]",
       "lg:w-[620px]",
@@ -72,21 +74,6 @@ function map_image(data) {
 
     carousel.appendChild(img_container);
   });
-}
-
-function create_element(tag, class_name = [], tag_info) {
-  let el = document.createElement(tag);
-  class_name.forEach((cls) => el.classList.add(cls));
-
-  if (tag_info !== undefined) {
-    if (tag_info.includes("https://")) {
-      el.src = tag_info;
-    } else {
-      el.innerHTML = tag_info;
-    }
-  }
-
-  return el;
 }
 
 add_to_cart_btn.addEventListener("click", async () => {
@@ -99,42 +86,3 @@ add_to_cart_btn.addEventListener("click", async () => {
 
   console.log(data)
 })
-
-// async function deelet_cart_data(id) {
-//     const res = await fetch(`http://localhost:3000/cart/${id}`, {
-//         method: "POST",
-//         headers: { "Content-Type": "application/json" }
-//     });
-//     const data = await res.json();
-
-//     map_data(data);
-// }
-
-// function cart(title, images, price, id) {
-//     const cart = `
-//   <div class="w-full h-fit flex justify-between mb-2">
-//     <div class="w-[15%]">
-//       <img src=${images[0]} class="w-full">
-//     </div>
-//     <div class="w-[60%]">
-//       <h3 class="text-lg">${title}</h3>
-//       <p class="text-base font-bold">$${price}.00</p>
-//     </div>
-//     <div class="w-[10%] flex flex-col justify-between items-center">
-//       <div class="w-full flex justify-around">
-//         <button class="text-base"><i class="ri-bookmark-line"></i></button>
-//         <button class="text-base deelet-btn" data-id=${id}><i class="ri-delete-bin-7-line"></i></button>
-//       </div>
-//       <select class="w-full p-1" name="qty" id="qty">
-//         <option value="1">1</option>
-//         <option value="2">2</option>
-//         <option value="3">3</option>
-//         <option value="4">4</option>
-//         <option value="5">5</option>
-//       </select>
-//       </div>
-//   </div>
-//   `
-
-//     return cart;
-// }

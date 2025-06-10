@@ -1,3 +1,5 @@
+import * as utils from './utils.js';
+
 const signup_form = document.getElementById("signup");
 const email = document.getElementById("email");
 const first_name = document.getElementById("first-name")
@@ -8,7 +10,7 @@ const confirm_password = document.getElementById("confirm-password");
 signup_form.addEventListener("submit", async (el) => {
     el.preventDefault();
 
-    const user_data = await get_user_data();
+    const user_data = await utils.get_data("user");
 
     // Basic validation
     if (email.value == "" || first_name.value == "" || last_name.value == "" || password.value == "" || confirm_password.value == "") {
@@ -48,9 +50,9 @@ signup_form.addEventListener("submit", async (el) => {
     console.log("User created:", data);
 })
 
-async function get_user_data() {
-    const res = await fetch("http://localhost:3000/user");
-    const data = await res.json();
+// async function get_user_data() {
+//     const res = await fetch("http://localhost:3000/user");
+//     const data = await res.json();
 
-    return data
-}
+//     return data
+// }
