@@ -1,3 +1,5 @@
+import * as utils from './utils.js';
+
 const products_container = document.getElementById("products-container");
 const sorting_filter = document.getElementById("filter");
 const filter_color = document.getElementById("filter-color");
@@ -5,23 +7,10 @@ const filter_category = document.getElementById("filter-category");
 const search_input = document.getElementById("search");
 const search_btn = document.getElementById("search-btn");
 
-const data = await get_data();
+const data = await utils.get_data("discription");
+const colors = await utils.get_data("colors");
 let local_json_data = data;
 get_data_list(data);
-
-async function get_data() {
-  const res = await fetch("http://localhost:3000/discription");
-  const data = await res.json();
-
-  return data
-}
-
-async function get_colors_data() {
-  const res = await fetch("http://localhost:3000/colors");
-  const data = await res.json();
-
-  return data;
-}
 
 function get_data_list(data) {
   const data_list = data.map((el, i) => product(el.id, el.title, el.images, el.price));
@@ -88,8 +77,6 @@ sorting_filter.addEventListener("change", () => {
 
   get_data_list(sorted_data);
 });
-
-const colors = await get_colors_data();
 
 filter_color.addEventListener("change", () => {
   let selected = filter_color.value;
