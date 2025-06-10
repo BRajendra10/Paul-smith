@@ -208,7 +208,7 @@ function usd_modal() {
             <div class="flex flex-col justify-between items-center w-full h-[250px] p-5">
                 <div class="w-full mx-auto mt-8">
                     <label for="options" class="block mb-2 text-xs font-thin text-gray-600">Select your country?</label>
-                    <select id="options" class="block w-full p-2  border-b-1 text-sm bg-white focus:outline-none focus:ring-0 focus:border-black">
+                    <select id="options" class="block w-full p-2 border-b-1 text-sm bg-white focus:outline-none focus:ring-0 focus:border-black">
                         <option value="Albania">Albania</option>
                         <option value="Andorra">Andorra</option>
                         <option value="Australia">Australia</option>

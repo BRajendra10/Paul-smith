@@ -82,8 +82,24 @@
                 </div>
             </nav>
         </header>
-        <main class="relative w-full h-fit bg-gray-50 z-5">
-            <!--- this html file belongs to only payment --->
+        <main class="relative w-full h-fit bg-gray-200 py-10 z-5">
+            <!--- PAYMENT SECTION --->
+            <section class="w-[80%] m-auto h-screen bg-gray-50">
+                <div class="w-full h-[50px] bg-red-200 p-2 mt-3">
+                    <a href="index.html" class="flex items-center gap-2 uppercase">
+                        <i class="text-lg ri-arrow-left-line"></i>
+                        <h5 class="text-sm">Continue shoping</h5>
+                    </a>
+                </div>
+                <div class="flex justify-between items-start w-full h-fit">
+                    <div class="w-[50%] h-[600px] bg-orange-300 p-5">
+                        <h1 class="text-lg font-medium my-3">Where would you like your order delivered?</h1>
+                        <form action="" id="payment-form" class="bg-blue-500">
+                            <label for="name">First name</label>
+                        </form>
+                    </div>
+                </div>
+            </section>
         </main>
         <footer class="relative w-full bg-blue-500 z-0">
             <div class="w-full h-[1000px] bg-red-300">
@@ -218,7 +234,6 @@
 
 
     <!-- JS file linked -->
-    <script type="module" src="script/main.js"></script>
     <script type="module" src="script/modal.js"></script>
 </body>
 </html>
