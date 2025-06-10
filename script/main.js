@@ -1,3 +1,5 @@
+import * as utils from './utils.js';
+
 const carousel = document.getElementById("carousel");
 const next = document.getElementById("next");
 const prev = document.getElementById("prev");
@@ -41,15 +43,8 @@ document.querySelectorAll(".accordion-toggle").forEach((button) => {
 
 
 // data handling
-
-async function get_data(){
-  const res = await fetch("http://localhost:3000/home")
-  const data = await res.json()
-  
-  get_data_list(data);
-}
-
-get_data();
+const home_data = await utils.get_data("home");
+get_data_list(home_data);
 
 function get_data_list(data) {
   const data_list = data.map((el, i) => product(el));
