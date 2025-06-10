@@ -314,7 +314,7 @@ function bag_modal(total) {
                     </div>
                 </div>
                 <button class="w-full py-3 bg-gray-900 hover:bg-gray-700 transition-colors">
-                    <a class="text-gray-50 block text-center" href="#">Buy now</a>
+                    <a class="text-gray-50 block text-center" href="payment.html">Buy now</a>
                 </button>
             </div>
         </div>

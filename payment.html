@@ -83,36 +83,7 @@
             </nav>
         </header>
         <main class="relative w-full h-fit bg-gray-50 z-5">
-            <section class=" w-full h-fit py-10 sm:px-5">
-                <div class="flex flex-col justify-between items-center w-full h-[550px] bg-gray-50 sm:p-5">
-                    <div>
-                        <h1 class="mt-5 text-3xl sm:text-5xl">Login to account</h1>
-                        <p class="text-xs sm:text-lg text-center">Don't have an account? <a href="signup.html" class="hover:underline">signup</a></p>
-                    </div>
-
-                    <form action="" class="flex flex-col justify-between items-start w-fit lg:w-[800px] h-fit m-3 p-3 " id="login">
-                        <div class="relative w-full h-fit my-3">
-                            <input id="email" type="text" placeholder="Enter your email" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent">
-                            <label for="email" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
-                                Enter your email
-                            </label>
-                        </div>
-
-                        <div class="relative w-full h-fit my-3">
-                            <input id="password" type="password" placeholder="password" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent">
-                            <label for="email" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
-                                password
-                            </label>
-                        </div>
-
-                        <div class="mt-5 mb-8 w-full flex justify-end">
-                            <a class="text-base hover:underline" href="#">Forgot password?</a>
-                        </div>
-
-                        <button type="submit" class="self-center bg-gray-900 text-gray-50 px-8 py-2" id="login-btn">submit</button>
-                    </form>
-                </div>
-            </section>
+            <!--- this html file belongs to only payment --->
         </main>
         <footer class="relative w-full bg-blue-500 z-0">
             <div class="w-full h-[1000px] bg-red-300">
@@ -128,7 +99,7 @@
                         <img class="w-[110px]" src="assets/logo.png" alt="">
                     </div>
                    <div class="relative w-full lg:w-[50%] h-fit">
-                        <input type="text" placeholder="Enter your email" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent"/>
+                        <input id="email" type="text" placeholder="Enter your email" class="peer w-full border-b-2 outline-none py-2 pt-5 placeholder-transparent"/>
                         <label for="email" class="absolute left-0 top-2 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
                             Enter your email
                         </label>
@@ -245,8 +216,9 @@
     </div>
 
 
+
     <!-- JS file linked -->
-    <script type="module" src="script/login.js"></script>
+    <script type="module" src="script/main.js"></script>
     <script type="module" src="script/modal.js"></script>
 </body>
 </html>

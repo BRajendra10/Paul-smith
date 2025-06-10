@@ -4482,6 +4482,92 @@
       ],
       "notes": "This product is excluded from promotions.",
       "quantity": 1
+    },
+    {
+      "id": 3,
+      "title": "Women's Coral Wool Suit",
+      "product_code": "W2R-SUIT-P31053-16",
+      "price": 1105,
+      "color": "Coral",
+      "material": "Wool-hopsack",
+      "made_in": "Portugal",
+      "description": "Made in Portugal from a rich wool-hopsack cloth, this coral suit is perfect for adding a subtle pop of colour to any outfit. The blazer features a double-breasted fastening and flap pockets, is complete with contrast lining, and three button cuffs. The trousers showcase a cropped length. Features include pleated detail, tonal stitching, zip fly fastening.",
+      "fit": {
+        "type": [
+          "Regular-Fit"
+        ],
+        "description": "is relaxed through the body"
+      },
+      "components": [
+        {
+          "name": "Women's Coral Wool Double-Breasted Blazer",
+          "url": "https://www.paulsmith.com/womens-coral-wool-double-breasted-blazer-orange",
+          "price": "$ 695.0",
+          "details": [
+            "Signature PS by Paul Smith logo label",
+            "Tonal stitching throughout",
+            "Three button functioning cuff",
+            "Viscose lining to flap pockets",
+            "Classic notched lapel",
+            "Polka dot panel lining",
+            "Subtle 'PS' branding to the interior lining"
+          ],
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739458838/MODEL/ECOM/W2R/W2R-246J-P31053-16/W2R-246J-P31053-16_1",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739458843/MODEL/ECOM/W2R/W2R-246J-P31053-16/W2R-246J-P31053-16_3"
+          ]
+        },
+        {
+          "name": "Women's Coral Wool Cropped Pleated Trousers",
+          "url": "https://www.paulsmith.com/womens-coral-wool-cropped-pleated-trousers",
+          "price": "$ 410.0",
+          "details": [
+            "Back button fastened pockets",
+            "Jetted pockets to side seams",
+            "Contrast viscose lining trims",
+            "Interior 'PS' Paul Smith label",
+            "Wool-hopsack construction",
+            "Pleat detailing down the centre"
+          ],
+          "images": [
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1739458850/MODEL/ECOM/W2R/W2R-350T-P31053-16/W2R-350T-P31053-16_1",
+            "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_1152/v1738751462/STILL/W2R/W2R-350T-P31053-16/W2R-350T-P31053-16_10"
+          ]
+        }
+      ],
+      "images": [
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739458856/MODEL/ECOM/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_1",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739458858/MODEL/ECOM/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_2",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739458861/MODEL/ECOM/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_3",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739458863/MODEL/ECOM/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_4",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739458865/MODEL/ECOM/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_5",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739194245/STILL/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_10",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739194248/STILL/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_20",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739194250/STILL/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_30",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739194253/STILL/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_40",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739194255/STILL/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_50",
+        "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,w_1228/v1739194257/STILL/W2R/W2R-SUIT-P31053-16/W2R-SUIT-P31053-16_60"
+      ],
+      "options": {
+        "size_selection": "Select Size",
+        "mix_match_sizing": true,
+        "actions": [
+          "Add to Bag",
+          "Notify me",
+          "Find in Store"
+        ]
+      },
+      "services": [
+        "Delivery + Returns",
+        "Gift Wrapping"
+      ],
+      "category": "Women's Suits",
+      "website": {
+        "main_url": "https://www.paulsmith.com/",
+        "current_section": "Womens",
+        "current_section_url": "https://www.paulsmith.com/womens"
+      },
+      "quantity": 1
     }
   ],
   "user": [
