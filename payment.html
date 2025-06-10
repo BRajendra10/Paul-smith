@@ -84,20 +84,102 @@
         </header>
         <main class="relative w-full h-fit bg-gray-200 py-10 z-5">
             <!--- PAYMENT SECTION --->
-            <section class="w-[80%] m-auto h-screen bg-gray-50">
+            <section class="w-[80%] m-auto h-fit bg-gray-50">
                 <div class="w-full h-[50px] bg-red-200 p-2 mt-3">
                     <a href="index.html" class="flex items-center gap-2 uppercase">
                         <i class="text-lg ri-arrow-left-line"></i>
                         <h5 class="text-sm">Continue shoping</h5>
                     </a>
                 </div>
-                <div class="flex justify-between items-start w-full h-fit">
-                    <div class="w-[50%] h-[600px] bg-orange-300 p-5">
-                        <h1 class="text-lg font-medium my-3">Where would you like your order delivered?</h1>
-                        <form action="" id="payment-form" class="bg-blue-500">
-                            <label for="name">First name</label>
+                <div class="flex justify-start items-start w-full h-fit">
+                    <div class="w-[50%] h-fit p-5 bg-gray-300">
+                        <h1 class="text-lg font-medium my-5">Where would you like your order delivered?</h1>
+                        <form action="" id="payment-form" class="w-full h-fit">
+                            <div class="relative w-full h-fit my-2 p-2 bg-gray-50 border-1 border-gray-100">
+                                <input id="email" type="text" placeholder="Enter your email" class="peer w-full outline-none p-2 placeholder-transparent">
+                                <label for="email" class="absolute left-4 top-3 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
+                                    Enter your email
+                                </label>
+                            </div>
+                            <div class="flex justify-between items-center">
+                                <div class="relative w-[49%] h-fit my-2 p-2 bg-gray-50 border-1 border-gray-100">
+                                    <input id="text" type="text" placeholder="Enter your first name" class="peer w-full outline-none p-2 placeholder-transparent">
+                                    <label for="name" class="absolute left-4 top-3 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
+                                        Enter your first name
+                                    </label>
+                                </div>
+                                <div class="relative w-[49%] h-fit my-2 p-2 bg-gray-50 border-1 border-gray-100">
+                                    <input id="text" type="text" placeholder="Enter your last name" class="peer w-full outline-none p-2 placeholder-transparent">
+                                    <label for="name" class="absolute left-4 top-3 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
+                                        Enter your last name
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div class="relative w-full h-fit my-2 p-2 bg-gray-50 border-1 border-gray-100">
+                                <input id="address" type="text" placeholder="Enter your address" class="peer w-full outline-none p-2 placeholder-transparent">
+                                <label for="address" class="absolute left-4 top-3 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
+                                    Enter your address
+                                </label>
+                            </div>
+
+                            <div class="flex justify-between my-2 items-center">
+                                <div class="relative w-[49%] h-fit my-2 p-2 bg-gray-50 border-1 border-gray-100">
+                                    <input id="text" type="text" placeholder="Enter your zip code" class="peer w-full outline-none p-2 placeholder-transparent">
+                                    <label for="zip code" class="absolute left-4 top-3 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
+                                        Enter your zip code
+                                    </label>
+                                </div>
+                                <div class="relative w-[49%] h-fit my-2 p-2 bg-gray-50 border-1 border-gray-100">
+                                    <input id="text" type="text" placeholder="Enter your city" class="peer w-full outline-none p-2 placeholder-transparent">
+                                    <label for="city" class="absolute left-4 top-3 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
+                                        Enter your city
+                                    </label>
+                                </div>
+                            </div>
+
+                            <select id="options" class="block w-full p-4 my-2 border-1 border-gray-100 outline-none text-sm bg-white focus:outline-none focus:ring-0 focus:border-black">
+                                <option value="Andhra Pradesh">Andhra Pradesh</option>
+                                <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+                                <option value="Assam">Assam</option>
+                                <option value="Bihar">Bihar</option>
+                                <option value="Chhattisgarh">Chhattisgarh</option>
+                                <option value="Goa">Goa</option>
+                                <option value="Gujarat">Gujarat</option>
+                                <option value="Haryana">Haryana</option>
+                                <option value="Himachal Pradesh">Himachal Pradesh</option>
+                                <option value="Jharkhand">Jharkhand</option>
+                                <option value="Karnataka">Karnataka</option>
+                                <option value="Kerala">Kerala</option>
+                                <option value="Madhya Pradesh">Madhya Pradesh</option>
+                                <option value="Maharashtra">Maharashtra</option>
+                                <option value="Manipur">Manipur</option>
+                                <option value="Meghalaya">Meghalaya</option>
+                                <option value="Mizoram">Mizoram</option>
+                                <option value="Nagaland">Nagaland</option>
+                                <option value="Odisha" selected>Odisha</option>
+                                <option value="Punjab">Punjab</option>
+                                <option value="Rajasthan">Rajasthan</option>
+                                <option value="Sikkim">Sikkim</option>
+                                <option value="Tamil Nadu">Tamil Nadu</option>
+                                <option value="Telangana">Telangana</option>
+                                <option value="Tripura">Tripura</option>
+                                <option value="Uttar Pradesh">Uttar Pradesh</option>
+                                <option value="Uttarakhand">Uttarakhand</option>
+                                <option value="West Bengal">West Bengal</option>
+                            </select>
+
+                            <div class="relative w-full h-fit my-3 p-2 bg-gray-50 border-1 border-gray-100">
+                                <input id="p-number" type="number" placeholder="Enter your city" class="peer w-full outline-none p-2 placeholder-transparent">
+                                <label for="p-number" class="absolute left-4 top-3 text-sm text-gray-500 transition-all duration-200 peer-placeholder-shown:top-5 peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-focus:top-0 peer-focus:text-sm peer-focus:text-gray-500">
+                                    Enter your phone number
+                                </label>
+                            </div>
+
+                            <button type="submit" class="self-center bg-gray-900 text-gray-50 mt-8 px-8 py-2" id="payment-btn">submit</button>
                         </form>
                     </div>
+                    <div class="w-[35%] h-fit p-5" id="product-detail"></div>
                 </div>
             </section>
         </main>
@@ -235,5 +317,7 @@
 
     <!-- JS file linked -->
     <script type="module" src="script/modal.js"></script>
+    <script type="module" src="script/payment.js"></script>
+    <!-- <script type="module" src="script/utilit.js"></script> -->
 </body>
 </html>
