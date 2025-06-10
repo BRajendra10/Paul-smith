@@ -49,10 +49,3 @@ signup_form.addEventListener("submit", async (el) => {
     const data = await res.json();
     console.log("User created:", data);
 })
-
-// async function get_user_data() {
-//     const res = await fetch("http://localhost:3000/user");
-//     const data = await res.json();
-
-//     return data
-// }
