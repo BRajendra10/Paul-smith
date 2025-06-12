@@ -7,6 +7,7 @@ const address = document.getElementById("address");
 const state_city = document.getElementById("state-city");
 const p_number = document.getElementById("p-number")
 const card_number = document.getElementById("card-number");
+const modal_container = document.getElementById("modal-container");
 
 const cart_data = await utils.get_data("cart");
 const cart_list = utils.map_data(cart_data);
@@ -16,8 +17,6 @@ document.getElementById("product-detail").innerHTML = cart_list.join("");
 const total_price = cart_data.reduce((acc, el) => acc + el.price + el.quantity, 0)
 
 document.getElementById("total-price").innerText = `$${total_price}.00`;
-
-console.log(payment_form)
 
 payment_form.addEventListener("submit", async (el) => {
     el.preventDefault();
@@ -30,48 +29,36 @@ payment_form.addEventListener("submit", async (el) => {
     if (card_number.value.length !== 16) {
         alert("enter valid creadit card number");
         return
-    }
+    }else{
+        setTimeout(() => {
+            const modal = payment_modal(card_number.value, total_price, name.value, email.value, address.value, p_number.value);
+            modal_container.innerHTML = modal;
 
-    // Usage - corrected condition
-    setTimeout(() => {
-        if (card_number.value.length === 16) {  // Changed to ===
-            console.log("payment done");
-            showToast("Payment successful!", "success");
-        } else {
-            showToast("Payment failed - invalid card", "error");
-        }
-    }, 3000);
+            const closeBtn = document.getElementById("help-modal-close");
+            utils.modal_functionality(modal_container, closeBtn)
+        }, 3000);
+    }
 })
 
-function showToast(message, type) {
-    const toast = document.createElement('div');
-    toast.className = `mb-2 p-4 rounded-lg shadow-lg flex items-center justify-between ${
-        type === 'success' 
-            ? 'bg-green-100 border-l-4 border-green-500 text-green-700' 
-            : 'bg-red-100 border-l-4 border-red-500 text-red-700'
-    }`;
-    
-    toast.innerHTML = `
-        <span>${message}</span>
-        <button onclick="this.parentElement.remove()" class="ml-4 text-gray-500 hover:text-gray-700">
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-                <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" />
-            </svg>
-        </button>
-    `;
-    
-    const container = document.getElementById('modal-container');
-    container.classList.remove("z-0", "opacity-0", "pointer-events-none");
-    container.classList.add("z-50", "opacity-100", "pointer-events-auto");
-    container.appendChild(toast);
-    
-    // Auto-remove after 5 seconds
-    setTimeout(() => {
-        toast.remove();
-        // Hide container if no more toasts
-        if (container.children.length === 0) {
-            container.classList.add("z-0", "opacity-0", "pointer-events-none");
-            container.classList.remove("z-50", "opacity-100", "pointer-events-auto");
-        }
-    }, 5000);
+function payment_modal(card_no, total_price, name, email, address, p_no){
+    return `
+    <div class="absolute top-1/2 left-1/2 w-full sm:w-[500px] h-[500px] bg-gray-100 p-5 
+            transform -translate-x-1/2 -translate-y-1/2" id="help-modal">
+        <div class="flex justify-end items-center mb-5">
+            <button class="text-2xl cursor-pointer btn help-modal-close" id="help-modal-close"><i class="ri-close-fill"></i></button>
+        </div>
+        <div class="w-full h-fit">
+            <h1 class="text-base font-bold leading-7">Payment details :</h1>
+            <h3 class="text-sm font-bold leading-7">Payment status: Success</h3>
+            <h3 class="text-sm font-bold leading-7">Creadit Card no: ${card_no}</h3>
+            <p class="text-sm font-bold leading-7">Price: $${total_price}</p>
+
+            <h1 class="text-base font-bold leading-7 mt-5">User details :</h1>
+            <h3 class="text-sm font-bold leading-7">User name: ${name}</h3>
+            <h3 class="text-sm font-bold leading-7">Email: ${email}</h3>
+            <p class="text-sm font-bold leading-7">Address: ${address}</p>
+            <p class="text-sm font-bold leading-7">Phone no: ${p_no}</p>
+        </div>
+    </div>
+    `
 }
